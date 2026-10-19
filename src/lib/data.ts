@@ -56,7 +56,7 @@ export type Fit = "적합" | "도전" | "상향" | "미기재";
 // 연차 필터: 각 옵션이 보여줄 판정
 export const FIT_FILTERS: Record<string, { label: string; keep: Fit[] | null }> = {
   noSenior: { label: "상향 제외", keep: ["적합", "도전", "미기재"] },
-  fit: { label: "적합만", keep: ["적합", "미기재"] },
+  fit: { label: "신입~3년만", keep: ["적합", "미기재"] },
   all: { label: "전체 연차", keep: null },
 };
 

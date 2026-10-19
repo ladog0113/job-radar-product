@@ -58,12 +58,13 @@ _MIN_RE = re.compile(r"(\d+)\s*년\s*(?:이상|↑|\+)?")
 
 
 def career_fit(title: str, career: str) -> str:
-    """공고 제목과 경력 조건으로 지원 적합도를 판정한다: 적합 / 도전 / 상향 / 미기재"""
-    if _hits(_SENIOR, title.lower()):
-        return "상향"
+    """공고 제목과 경력 조건으로 지원 적합도를 판정한다: 적합 / 도전 / 상향 / 미기재
+
+    경력 조건이 적혀 있으면 그것을 따르고, 없을 때만 제목의 시니어 단어를 본다.
+    """
     c = career.replace(" ", "")
     if not c:
-        return "미기재"
+        return "상향" if _hits(_SENIOR, title.lower()) else "미기재"
     if re.search(r"\d+년(↓|이하)", c):
         return "적합"
     m = _RANGE_RE.search(c) or _MIN_RE.search(c)
@@ -74,4 +75,4 @@ def career_fit(title: str, career: str) -> str:
         return "도전" if low <= CAREER_STRETCH_MAX else "상향"
     if "신입" in c or "무관" in c:
         return "적합"
-    return "미기재"
+    return "상향" if _hits(_SENIOR, title.lower()) else "미기재"

@@ -124,6 +124,7 @@ def run(sites: list[str]) -> None:
             pw.stop()
 
     for j in jobs.values():
+        j["fit"] = career_fit(j["title"], j["career"])  # 판정 기준이 바뀌어도 기존 공고에 반영
         j["has_detail"] = (DETAIL_DIR / f"{safe_name(j['id'])}.json").exists()
 
     stale_before = (now - timedelta(days=STALE_DAYS)).strftime("%Y-%m-%d")
