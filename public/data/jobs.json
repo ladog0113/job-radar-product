@@ -1,5 +1,904 @@
 [
  {
+  "id": "saramin:55383124",
+  "source": "saramin",
+  "title": "상장기업 LLM, RAG, AI Agent 기반 소프트웨어 기획/팀장",
+  "company": "탑커리어인사이트",
+  "location": "서울 강남구",
+  "career": "경력10년↑",
+  "deadline": "~ 10/31(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55383124",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 115,
+  "fit": "상향",
+  "queries": [
+   "AI 기획",
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55368487",
+  "source": "saramin",
+  "title": "(주)클러쉬 GPU 운영총괄 PM / GPU 플랫폼 운영 팀원 채용",
+  "company": "(주)클러쉬",
+  "location": "경기 성남시 분당구",
+  "career": "경력9년↑",
+  "deadline": "상시채용",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55368487",
+  "category": "Technical PM",
+  "score": 105,
+  "fit": "상향",
+  "queries": [
+   "Technical PM"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55377642",
+  "source": "saramin",
+  "title": "AI 학습 플랫폼 - 시니어 서비스 기획자 (재택근무 가능)",
+  "company": "(주)캐치잇플레이",
+  "location": "제주 제주시",
+  "career": "경력 5~20년",
+  "deadline": "상시채용",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55377642",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 105,
+  "fit": "도전",
+  "queries": [
+   "AI PM",
+   "AI PO",
+   "B2B 디자이너",
+   "개발자 플랫폼"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50224459",
+  "source": "jobkorea",
+  "title": "AI 인력 상시 경력 채용 (생성형 AI 서비스 기획/개발)",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력 ",
+  "deadline": "상시채용",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224459?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=6&sc=630",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 105,
+  "fit": "미기재",
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55378783",
+  "source": "saramin",
+  "title": "테크니컬라이터(technical writer) 계약직 채용(육휴대체)",
+  "company": "(주)칩스앤미디어",
+  "location": "서울 강남구",
+  "career": "경력3년↑",
+  "deadline": "~ 11/05(목)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55378783",
+  "category": "DevEx·개발자 플랫폼",
+  "score": 100,
+  "fit": "적합",
+  "queries": [
+   "테크니컬 라이터"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50232024",
+  "source": "jobkorea",
+  "title": "[칩스앤미디어] 테크니컬 라이터 계약직 채용(육아휴직대체)",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력3년↑ ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50232024?Oem_Code=C1&logpath=1&stext=%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC+%EB%9D%BC%EC%9D%B4%ED%84%B0&listno=1&sc=630",
+  "category": "DevEx·개발자 플랫폼",
+  "score": 100,
+  "fit": "적합",
+  "queries": [
+   "테크니컬 라이터"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379763",
+  "source": "saramin",
+  "title": "AI행사운영및 행사 기획 팀원 및 신입 모집",
+  "company": "프로젝트엑스",
+  "location": "서울 구로구",
+  "career": "신입·경력",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379763",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI 서비스 기획",
+   "신입 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379757",
+  "source": "saramin",
+  "title": "기획자 (Voice Agent 서비스 / 시나리오 기획)",
+  "company": "(주)에스알포스트",
+  "location": "서울 마포구",
+  "career": "경력무관",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379757",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI 서비스 기획",
+   "B2B 서비스 기획",
+   "SaaS 기획",
+   "신입 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379080",
+  "source": "saramin",
+  "title": "AI 소프트웨어 기획 경력직 채용",
+  "company": "(주)인피닉",
+  "location": "서울 강남구",
+  "career": "경력 3~10년",
+  "deadline": "~ 11/21(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379080",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM",
+   "AI PO",
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379043",
+  "source": "saramin",
+  "title": "AI 서비스 기획자 (경력 무관)",
+  "company": "(주)해시스냅",
+  "location": "서울 강남구",
+  "career": "경력무관",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379043",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM",
+   "AI PO",
+   "AI 서비스 기획",
+   "개발자 경험",
+   "신입 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55377507",
+  "source": "saramin",
+  "title": "AI 채용솔루션 PM 모집 (5년 이하)",
+  "company": "(주)인딥에이아이",
+  "location": "서울 서초구",
+  "career": "신입·경력",
+  "deadline": "~ 12/22(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55377507",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM",
+   "B2B 디자이너",
+   "SaaS 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55375003",
+  "source": "saramin",
+  "title": "[항공우주/세종] IT인프라 기획/운영 팀장급(과,차장급)",
+  "company": "(주)스텝씨",
+  "location": "세종특별자치시",
+  "career": "경력 10~15년",
+  "deadline": "~ 11/07(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55375003",
+  "category": "Technical PM",
+  "score": 95,
+  "fit": "상향",
+  "queries": [
+   "SaaS 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55372996",
+  "source": "saramin",
+  "title": "[평촌역] 자율주행 TPM(경력 5년이상)",
+  "company": "(주)시니어앤파트너즈",
+  "location": "경기 안양시 동안구",
+  "career": "경력 5~12년",
+  "deadline": "~ 11/06(금)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55372996",
+  "category": "Technical PM",
+  "score": 95,
+  "fit": "도전",
+  "queries": [
+   "SaaS 기획",
+   "TPM",
+   "Technical PM"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55380140",
+  "source": "saramin",
+  "title": "AI Native PM (Design-Led)",
+  "company": "주식회사 크리에이트립",
+  "location": "서울 강남구",
+  "career": "경력5년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55380140",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "도전",
+  "queries": [
+   "AI PM",
+   "Product Designer",
+   "UI/UX 디자이너",
+   "UX 디자이너",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55378753",
+  "source": "saramin",
+  "title": "AI 대화 기술로 서비스를 기획 및 출시할 기획자를 모십니다.",
+  "company": "(주)스토익엔터테인먼트",
+  "location": "서울 마포구",
+  "career": "경력3년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55378753",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM",
+   "AI PO",
+   "Product Designer",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55377444",
+  "source": "saramin",
+  "title": "2026 (주)퍼브 플랫폼본부 웹기획자 정규직 채용",
+  "company": "(주)퍼브",
+  "location": "경기 과천시",
+  "career": "경력2년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55377444",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50232847",
+  "source": "jobkorea",
+  "title": "앱 플랫폼 기획 프리랜서 채용 (재택근무)",
+  "company": "재택/원격근무 가능",
+  "location": "",
+  "career": "경력1년↑ ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50232847?Oem_Code=C1&logpath=1&stext=%ED%94%8C%EB%9E%AB%ED%8F%BC+%EA%B8%B0%ED%9A%8D&listno=13&sc=630",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "플랫폼 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50229970",
+  "source": "jobkorea",
+  "title": "[포티투마루] AI PM 채용 (경력 3년 이상)",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력 3년 이상",
+  "deadline": "상시채용",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229970?Oem_Code=C1&logpath=1&stext=AI+PM&listno=4&sc=630",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PM",
+   "AI PO"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50215671",
+  "source": "jobkorea",
+  "title": "확장팀 PO (AI 주방 매장 확장 리드)",
+  "company": "탄탄한 중견기업",
+  "location": "",
+  "career": "경력무관 ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50215671?Oem_Code=C1&logpath=1&stext=AI+PO&listno=9&sc=630",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 95,
+  "fit": "적합",
+  "queries": [
+   "AI PO"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "remember:349609",
+  "source": "remember",
+  "title": "Private 클라우드 기획 및 운영",
+  "company": "한화시스템(주)_ICT",
+  "location": "",
+  "career": "5년 이상",
+  "deadline": "D-8",
+  "url": "https://career.rememberapp.co.kr/job/posting/349609?curationLocation=job_posting_tab&source=step_up_position&postQuerySessionId=041b7cf8-b6f1-4820-85f0-05356eb6d9f6&channel=step_up_position&jdViewSource=step_up_position",
+  "category": "Technical PM",
+  "score": 95,
+  "fit": "도전",
+  "queries": [
+   "AI 서비스 기획",
+   "B2B 디자이너",
+   "SaaS 기획",
+   "UI/UX 디자이너",
+   "개발자 경험",
+   "테크니컬 라이터",
+   "프롭테크",
+   "플랫폼 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55378729",
+  "source": "saramin",
+  "title": "[퍼플영] 시니어 프로덕트 디자이너 (UX/UI) 5년 이상",
+  "company": "(주)우리의이야기",
+  "location": "서울 강남구",
+  "career": "경력5년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55378729",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "도전",
+  "queries": [
+   "B2B 디자이너",
+   "B2B 서비스 기획",
+   "Product Designer",
+   "UI/UX 디자이너",
+   "UX 디자이너",
+   "개발자 플랫폼",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55378324",
+  "source": "saramin",
+  "title": "[타이로스코프] Senior Product Designer 직군",
+  "company": "(주)타이로스코프",
+  "location": "서울 중구",
+  "career": "경력 8~16년",
+  "deadline": "~ 11/18(수)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55378324",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "상향",
+  "queries": [
+   "AI PM",
+   "B2B 디자이너",
+   "B2B 서비스 기획",
+   "Product Designer",
+   "UI/UX 디자이너",
+   "UX 디자이너",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55378288",
+  "source": "saramin",
+  "title": "Senior Product Designer 직군",
+  "company": "(주)타이로스코프",
+  "location": "울산 중구",
+  "career": "경력8년↑",
+  "deadline": "~ 11/21(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55378288",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "상향",
+  "queries": [
+   "AI PM",
+   "B2B 디자이너",
+   "B2B 서비스 기획",
+   "Product Designer",
+   "UI/UX 디자이너",
+   "UX 디자이너",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55376026",
+  "source": "saramin",
+  "title": "UI/UX 디자이너 (경력)",
+  "company": "(주)아인잡",
+  "location": "서울 강남구",
+  "career": "경력1년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55376026",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "SaaS 기획",
+   "신입 UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55372474",
+  "source": "saramin",
+  "title": "(주)한자산홀딩스 UI/UX 디자이너 채용",
+  "company": "(주)한자산홀딩스",
+  "location": "경기 광명시",
+  "career": "경력2년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55372474",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "SaaS 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55377640",
+  "source": "saramin",
+  "title": "INNOIZ // UX 기획자 모집 (긴급, 2~3개월 단기)",
+  "company": "(주)이노이즈인터랙티브",
+  "location": "서울 강남구",
+  "career": "경력7년↑",
+  "deadline": "~ 10/28(수)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55377640",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "상향",
+  "queries": [
+   "UI/UX 디자이너",
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55376085",
+  "source": "saramin",
+  "title": "[슈가모바일] UI / UX 디자이너 채용",
+  "company": "(주)씨케이커뮤스트리",
+  "location": "서울 송파구",
+  "career": "경력3년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55376085",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "UI/UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55374869",
+  "source": "saramin",
+  "title": "UI/UX 디자이너 신입/경력",
+  "company": "하마랩(주)",
+  "location": "경기 성남시",
+  "career": "신입·경력",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55374869",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "신입 UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50232522",
+  "source": "jobkorea",
+  "title": "[MOHOM] 프로덕트 디자이너(1년-3년) 모집",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력1년↑ 15",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50232522?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50227783",
+  "source": "jobkorea",
+  "title": "[티피씨/LIKEY] Product Designer 채용",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력1년↑ ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50227783?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=16&sc=630",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "Product Designer"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50231482",
+  "source": "jobkorea",
+  "title": "[타이로스코프] Senior Product Designer직군 채용",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력8년↑ ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50231482?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=19&sc=630",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "상향",
+  "queries": [
+   "Product Designer"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50221319",
+  "source": "jobkorea",
+  "title": "[정규직] UI/UX 디자이너 채용공고",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력1년↑ 10",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50221319?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=2&sc=630",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "UI/UX 디자이너",
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50223700",
+  "source": "jobkorea",
+  "title": "UI/UX 디자이너 경력직 채용",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50223700?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "미기재",
+  "queries": [
+   "UI/UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "remember:349600",
+  "source": "remember",
+  "title": "프로덕트 디자이너",
+  "company": "(주)유닛블랙",
+  "location": "",
+  "career": "",
+  "deadline": "",
+  "url": "https://career.rememberapp.co.kr/job/posting/349600?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "미기재",
+  "queries": [
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "remember:349643",
+  "source": "remember",
+  "title": "Senior Product Designer",
+  "company": "(주)베스펙스",
+  "location": "",
+  "career": "",
+  "deadline": "",
+  "url": "https://career.rememberapp.co.kr/job/posting/349643?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "상향",
+  "queries": [
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "remember:349539",
+  "source": "remember",
+  "title": "[fxIP] 프로덕트 디자이너 팀원",
+  "company": "(주)에프엑스아이피",
+  "location": "",
+  "career": "경력 무관 ",
+  "deadline": "",
+  "url": "https://career.rememberapp.co.kr/job/posting/349539?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "category": "프로덕트·UX 디자인",
+  "score": 90,
+  "fit": "적합",
+  "queries": [
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379795",
+  "source": "saramin",
+  "title": "[유명 금융 IT 대기업] 거래소 서비스 기획 담당자(거래기획)",
+  "company": "(주)리앤파트너",
+  "location": "서울 서초구",
+  "career": "경력8년↑",
+  "deadline": "~ 11/07(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379795",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "상향",
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379794",
+  "source": "saramin",
+  "title": "[유명 금융 IT 대기업] 거래소 서비스 기획 담당자(회원기획)",
+  "company": "(주)리앤파트너",
+  "location": "서울 서초구",
+  "career": "경력8년↑",
+  "deadline": "~ 11/07(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379794",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "상향",
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55376658",
+  "source": "saramin",
+  "title": "[퍼플영] 시니어 프로덕트 기획자 (앱·웹) 경력 5년 이상",
+  "company": "(주)우리의이야기",
+  "location": "서울 강남구",
+  "career": "경력 5~20년",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55376658",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "도전",
+  "queries": [
+   "B2B 디자이너",
+   "Product Designer",
+   "SaaS 기획",
+   "UX 디자이너",
+   "프로덕트 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55373678",
+  "source": "saramin",
+  "title": "48. Product Owner [글로벌 IT·테크 기업]",
+  "company": "베스트네트워크㈜",
+  "location": "서울 강남구",
+  "career": "경력7년↑",
+  "deadline": "~ 11/07(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55373678",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "상향",
+  "queries": [
+   "AI PO"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55372316",
+  "source": "saramin",
+  "title": "의료/공공기관 웹/SI 프로젝트 웹기획자 경력(2/5년 이상) 채용",
+  "company": "(주)오상테크놀로지",
+  "location": "서울 금천구",
+  "career": "경력2년↑",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55372316",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "적합",
+  "queries": [
+   "AI PO"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
+  "id": "saramin:55379796",
+  "source": "saramin",
+  "title": "[유명 금융 IT 대기업] 상품/서비스 기획 담당자",
+  "company": "(주)리앤파트너",
+  "location": "서울 서초구",
+  "career": "경력 5~15년",
+  "deadline": "~ 11/07(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55379796",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 85,
+  "fit": "도전",
+  "queries": [
+   "UI/UX 디자이너",
+   "UX 디자이너"
+  ],
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
   "id": "saramin:55365130",
   "source": "saramin",
   "title": "[퓨처센스 주식회사] (식품)제조 B2B SaaS PM & UXUI (경력)",
@@ -28,18 +927,19 @@
   "title": "[카택스] B2B SaaS 운행일지 서비스 기획·디자인 채용",
   "company": "스크랩",
   "location": "",
-  "career": "경력 23",
+  "career": "경력 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50219592?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50219592?Oem_Code=C1&logpath=1&stext=B2B+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=3&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "미기재",
   "queries": [
    "B2B 디자이너",
+   "B2B 서비스 기획",
    "SaaS 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -59,7 +959,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -71,7 +971,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349283?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349283?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "도전",
@@ -81,7 +981,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -93,7 +993,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349230?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349230?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "미기재",
@@ -108,7 +1008,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -303,7 +1203,7 @@
    "AI 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -315,7 +1215,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49894357?Oem_Code=C1&logpath=1&stext=AI+PM&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49894357?Oem_Code=C1&logpath=1&stext=AI+PM&listno=18&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -323,7 +1223,7 @@
    "AI PM"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -335,7 +1235,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349448?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349448?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -346,7 +1246,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -358,7 +1258,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349361?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349361?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -367,7 +1267,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -379,7 +1279,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349458?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349458?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -389,7 +1289,7 @@
    "주니어 PM"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -401,7 +1301,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349451?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349451?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "상향",
@@ -410,7 +1310,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -430,7 +1330,7 @@
    "technical product manager"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -530,7 +1430,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -657,7 +1557,7 @@
    "프롭테크"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -669,7 +1569,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224653?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224653?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=12&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -678,7 +1578,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -690,7 +1590,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191525?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191525?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=16&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -698,7 +1598,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -710,7 +1610,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/339355?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/339355?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -724,7 +1624,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -736,7 +1636,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349357?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349357?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -745,7 +1645,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -757,7 +1657,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349226?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349226?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -765,7 +1665,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -787,7 +1687,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -855,7 +1755,7 @@
    "개발자 경험"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -902,7 +1802,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -947,6 +1847,27 @@
   "stale": false
  },
  {
+  "id": "saramin:55351352",
+  "source": "saramin",
+  "title": "[금융투자 자동화 플랫폼 개발기업] AI Product Manager 경력직",
+  "company": "(주)커리어앤스카우트",
+  "location": "서울 강남구",
+  "career": "경력10년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55351352",
+  "category": "AI·플랫폼 서비스 기획",
+  "score": 115,
+  "fit": "상향",
+  "queries": [
+   "AI PO",
+   "Technical PM"
+  ],
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
+  "has_detail": true,
+  "stale": false
+ },
+ {
   "id": "saramin:55353469",
   "source": "saramin",
   "title": "[딥브레인AI] SaaS 서비스 프로덕트 오너(PO) 경력직",
@@ -963,7 +1884,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -995,7 +1916,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50213268?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50213268?Oem_Code=C1&logpath=1&stext=AI+PO&listno=1&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "미기재",
@@ -1004,7 +1925,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1025,7 +1946,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1045,7 +1966,7 @@
    "UX designer"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1172,7 +2093,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1192,28 +2113,7 @@
    "Technical PM"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
-  "has_detail": true,
-  "stale": false
- },
- {
-  "id": "saramin:55351352",
-  "source": "saramin",
-  "title": "[금융 데이터·AI 기술 전문기업] AI Product Manager 경력직",
-  "company": "(주)커리어앤스카우트",
-  "location": "서울 강남구",
-  "career": "경력10년↑",
-  "deadline": "채용시",
-  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55351352",
-  "category": "AI·플랫폼 서비스 기획",
-  "score": 95,
-  "fit": "상향",
-  "queries": [
-   "AI PO",
-   "Technical PM"
-  ],
-  "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1335,7 +2235,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1355,7 +2255,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1407,7 +2307,7 @@
   "location": "",
   "career": "경력8년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50217742?Oem_Code=C1&logpath=1&stext=Technical+PM&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50217742?Oem_Code=C1&logpath=1&stext=Technical+PM&listno=3&sc=630",
   "category": "Technical PM",
   "score": 95,
   "fit": "상향",
@@ -1415,7 +2315,7 @@
    "Technical PM"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1427,7 +2327,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349066?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349066?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -1437,7 +2337,7 @@
    "주니어 PM"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1449,7 +2349,7 @@
   "location": "",
   "career": "경력 무관 ",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348965?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348965?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -1464,7 +2364,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1484,7 +2384,7 @@
    "technical product manager"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1648,7 +2548,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1735,7 +2635,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1755,7 +2655,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1767,7 +2667,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348947?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348947?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -1776,7 +2676,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1788,7 +2688,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349048?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349048?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -1796,7 +2696,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1808,7 +2708,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349070?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349070?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -1817,7 +2717,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1829,7 +2729,7 @@
   "location": "",
   "career": "경력 무관 ",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348863?postQuerySessionId=b353169e-9754-43f9-a098-896b38f56640&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348863?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -1837,7 +2737,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1859,7 +2759,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1881,7 +2781,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -1985,7 +2885,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2033,12 +2933,12 @@
  {
   "id": "remember:348848",
   "source": "remember",
-  "title": "[그룹 HQ] 그룹 IT 운영기획",
+  "title": "[그룹 HQ] 그룹 IT 운영기획 (IT 아키텍트)",
   "company": "[헤드헌팅] 중견 기업군",
   "location": "",
   "career": "",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/348848?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/348848?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "미기재",
@@ -2050,7 +2950,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2132,7 +3032,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173442?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173442?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=6&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "도전",
@@ -2140,7 +3040,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2343,7 +3243,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2397,7 +3297,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348758?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348758?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -2410,7 +3310,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2422,7 +3322,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348661?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348661?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -2431,7 +3331,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2442,8 +3342,8 @@
   "company": "신성통상(주)",
   "location": "",
   "career": "8년 이상",
-  "deadline": "D-2",
-  "url": "https://career.rememberapp.co.kr/job/posting/348614?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-1",
+  "url": "https://career.rememberapp.co.kr/job/posting/348614?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "상향",
@@ -2456,7 +3356,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2468,7 +3368,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348482?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348482?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -2477,7 +3377,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2522,7 +3422,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2547,7 +3447,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2592,7 +3492,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2614,7 +3514,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2709,7 +3609,7 @@
   "location": "",
   "career": "경력 무관 ",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/328667?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/328667?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "적합",
@@ -2721,7 +3621,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2870,7 +3770,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2928,7 +3828,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50192545?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50192545?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -2936,7 +3836,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2948,7 +3848,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50201125?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50201125?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=5&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -2956,7 +3856,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -2989,15 +3889,16 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50110148?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50110148?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
   "queries": [
-   "UI/UX 디자이너"
+   "UI/UX 디자이너",
+   "UX 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3009,7 +3910,7 @@
   "location": "",
   "career": "경력 무관 ",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347144?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347144?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -3017,7 +3918,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3029,7 +3930,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/334137?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/334137?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -3037,7 +3938,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3048,8 +3949,8 @@
   "company": "[헤드헌팅] 라이프스타일 테크 플랫폼",
   "location": "",
   "career": "",
-  "deadline": "D-5",
-  "url": "https://career.rememberapp.co.kr/job/posting/330688?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-3",
+  "url": "https://career.rememberapp.co.kr/job/posting/330688?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -3057,7 +3958,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3364,7 +4265,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3384,7 +4285,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3404,7 +4305,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3416,7 +4317,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167171?Oem_Code=C1&logpath=1&stext=AI+PM&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167171?Oem_Code=C1&logpath=1&stext=AI+PM&listno=12&sc=630",
   "category": "Technical PM",
   "score": 115,
   "fit": "적합",
@@ -3424,7 +4325,7 @@
    "AI PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3436,7 +4337,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/344594?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/344594?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 115,
   "fit": "미기재",
@@ -3446,7 +4347,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3598,7 +4499,7 @@
    "Technical PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3618,7 +4519,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3630,7 +4531,7 @@
   "location": "",
   "career": "경력4년↑ 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152596?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152596?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=18&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "도전",
@@ -3638,7 +4539,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3659,7 +4560,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3671,7 +4572,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347847?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347847?postQuerySessionId=950cc245-72e1-462c-9036-89f39270976d&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "도전",
@@ -3681,7 +4582,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3693,7 +4594,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/280620?postQuerySessionId=91d63d11-050e-4e63-a0af-2ad208fd3aab&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/280620?postQuerySessionId=845b6a34-2ace-418a-ba6c-08ff97ab98e1&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "적합",
@@ -3704,7 +4605,7 @@
    "B2B 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3758,7 +4659,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/346830?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/346830?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 105,
   "fit": "미기재",
@@ -3771,7 +4672,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3782,8 +4683,8 @@
   "company": "현대오토에버(주)",
   "location": "",
   "career": "10년 이상",
-  "deadline": "D-6",
-  "url": "https://career.rememberapp.co.kr/job/posting/338880?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-5",
+  "url": "https://career.rememberapp.co.kr/job/posting/338880?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "Technical PM",
   "score": 105,
   "fit": "상향",
@@ -3791,7 +4692,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -3813,7 +4714,7 @@
    "technical product manager"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4239,7 +5140,7 @@
    "테크니컬 라이터"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4259,7 +5160,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4271,7 +5172,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137862?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137862?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "도전",
@@ -4280,7 +5181,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4312,7 +5213,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50077965?Oem_Code=C1&logpath=1&stext=%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC+%EB%9D%BC%EC%9D%B4%ED%84%B0&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50077965?Oem_Code=C1&logpath=1&stext=%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC+%EB%9D%BC%EC%9D%B4%ED%84%B0&listno=2&sc=630",
   "category": "DevEx·개발자 플랫폼",
   "score": 100,
   "fit": "미기재",
@@ -4320,7 +5221,7 @@
    "테크니컬 라이터"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4332,7 +5233,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/346941?postQuerySessionId=c3c82686-4b17-4d43-b31d-007ca03de28e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/346941?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "미기재",
@@ -4342,7 +5243,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4353,8 +5254,8 @@
   "company": "(주)누아",
   "location": "",
   "career": "2년 이상",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/344413?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/344413?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "적합",
@@ -4363,7 +5264,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4375,7 +5276,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/205091?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/205091?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "미기재",
@@ -4383,7 +5284,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4394,8 +5295,8 @@
   "company": "[헤드헌팅] 중소기업, 플랫폼 사업",
   "location": "",
   "career": "",
-  "deadline": "D-13",
-  "url": "https://career.rememberapp.co.kr/job/posting/285285?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-12",
+  "url": "https://career.rememberapp.co.kr/job/posting/285285?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 100,
   "fit": "상향",
@@ -4403,7 +5304,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4507,7 +5408,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4975,7 +5876,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -4995,7 +5896,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5015,7 +5916,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5055,7 +5956,7 @@
    "프롭테크"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5095,7 +5996,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5142,7 +6043,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5194,7 +6095,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50160601?Oem_Code=C1&logpath=1&stext=Technical+PM&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50160601?Oem_Code=C1&logpath=1&stext=Technical+PM&listno=5&sc=630",
   "category": "Technical PM",
   "score": 95,
   "fit": "적합",
@@ -5203,7 +6104,7 @@
    "Technical PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5235,7 +6136,7 @@
   "location": "",
   "career": "경력3년↑ 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50071771?Oem_Code=C1&logpath=1&stext=AI+PM&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50071771?Oem_Code=C1&logpath=1&stext=AI+PM&listno=16&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -5243,7 +6144,7 @@
    "AI PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5275,7 +6176,7 @@
   "location": "",
   "career": "경력",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49980003?Oem_Code=C1&logpath=1&stext=AI+PO&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49980003?Oem_Code=C1&logpath=1&stext=AI+PO&listno=5&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5283,7 +6184,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5295,7 +6196,7 @@
   "location": "",
   "career": "경력2년↑ 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50054315?Oem_Code=C1&logpath=1&stext=AI+PO&listno=7&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50054315?Oem_Code=C1&logpath=1&stext=AI+PO&listno=6&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -5303,7 +6204,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5315,7 +6216,7 @@
   "location": "",
   "career": "경력 3년 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50118738?Oem_Code=C1&logpath=1&stext=AI+PO&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50118738?Oem_Code=C1&logpath=1&stext=AI+PO&listno=8&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -5323,7 +6224,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5343,7 +6244,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5355,7 +6256,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041171?Oem_Code=C1&logpath=1&stext=AI+PO&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041171?Oem_Code=C1&logpath=1&stext=AI+PO&listno=13&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5363,7 +6264,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5374,8 +6275,8 @@
   "company": "한화투자증권(주)",
   "location": "",
   "career": "경력",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/347723?postQuerySessionId=b16ca4c5-e104-4182-afcd-4936a647f10a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/347723?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5388,7 +6289,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5399,8 +6300,8 @@
   "company": "(주)삼양홀딩스",
   "location": "",
   "career": "경력",
-  "deadline": "D-3",
-  "url": "https://career.rememberapp.co.kr/job/posting/319096?postQuerySessionId=08f14994-3ec9-4df0-b2a3-8395477af2cd&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-2",
+  "url": "https://career.rememberapp.co.kr/job/posting/319096?postQuerySessionId=8fc33558-4644-45dc-b82c-f94134d67527&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5411,7 +6312,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5465,8 +6366,8 @@
   "company": "[헤드헌팅] AI 및 빅데이터 전문기업",
   "location": "",
   "career": "",
-  "deadline": "D-2",
-  "url": "https://career.rememberapp.co.kr/job/posting/340228?postQuerySessionId=fe14baef-2541-4a2a-8908-2e5bf5b62813&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-1",
+  "url": "https://career.rememberapp.co.kr/job/posting/340228?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5477,7 +6378,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5489,7 +6390,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348304?postQuerySessionId=027d83fa-3d9d-4582-a684-00f060cea4af&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348304?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "도전",
@@ -5499,7 +6400,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5530,8 +6431,8 @@
   "company": "[헤드헌팅] 대용량 플랫폼 서비스",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/347873?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/347873?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5540,7 +6441,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5551,8 +6452,8 @@
   "company": "[헤드헌팅] 대용량 플랫폼 서비스",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/347865?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/347865?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5561,7 +6462,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5592,8 +6493,8 @@
   "company": "(주)크립토랩",
   "location": "",
   "career": "3년 이상",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/343482?postQuerySessionId=91d63d11-050e-4e63-a0af-2ad208fd3aab&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/343482?postQuerySessionId=845b6a34-2ace-418a-ba6c-08ff97ab98e1&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -5602,7 +6503,7 @@
    "B2B 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5646,7 +6547,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5657,8 +6558,8 @@
   "company": "[헤드헌팅] 글로벌 문서·필기 앱 서비스 기업",
   "location": "",
   "career": "5년 이상",
-  "deadline": "D-4",
-  "url": "https://career.rememberapp.co.kr/job/posting/346784?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-3",
+  "url": "https://career.rememberapp.co.kr/job/posting/346784?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "도전",
@@ -5667,7 +6568,7 @@
    "주니어 PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5679,7 +6580,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/345541?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/345541?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5687,7 +6588,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5719,7 +6620,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/283122?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/283122?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5727,7 +6628,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5739,7 +6640,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/344351?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/344351?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -5749,7 +6650,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5783,7 +6684,7 @@
   "location": "",
   "career": "8년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/343042?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/343042?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "상향",
@@ -5793,7 +6694,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5805,7 +6706,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/339426?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/339426?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "상향",
@@ -5813,7 +6714,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5825,7 +6726,7 @@
   "location": "",
   "career": "6년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/337891?postQuerySessionId=ee0edd79-f48a-48cf-9613-2193454a48e6&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/337891?postQuerySessionId=a1c60880-9fdb-4f17-ad42-4f9e7b3d5d50&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "상향",
@@ -5833,7 +6734,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5845,7 +6746,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/281467?postQuerySessionId=8cde7765-6329-4d2c-bb4a-b38159c199ea&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/281467?postQuerySessionId=fb8872d9-d3af-4ac1-8b4e-c54c4f07fac1&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "Technical PM",
   "score": 95,
   "fit": "도전",
@@ -5853,7 +6754,7 @@
    "테크니컬 라이터"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5975,7 +6876,7 @@
    "주니어 프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -5986,8 +6887,8 @@
   "company": "(주)누아",
   "location": "",
   "career": "2년 이상",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/345241?postQuerySessionId=fe14baef-2541-4a2a-8908-2e5bf5b62813&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/345241?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "적합",
@@ -5996,7 +6897,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -6008,7 +6909,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/343865?postQuerySessionId=f31986d6-f5cc-431e-b810-cf5a66f70669&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/343865?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -6017,7 +6918,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -6028,8 +6929,8 @@
   "company": "(주)제너시스비비큐",
   "location": "",
   "career": "",
-  "deadline": "D-4",
-  "url": "https://career.rememberapp.co.kr/job/posting/332656?postQuerySessionId=f31986d6-f5cc-431e-b810-cf5a66f70669&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-3",
+  "url": "https://career.rememberapp.co.kr/job/posting/332656?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 95,
   "fit": "미기재",
@@ -6038,7 +6939,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7414,7 +8315,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7434,7 +8335,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7454,7 +8355,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7466,7 +8367,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137856?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137856?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -7475,7 +8376,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7487,7 +8388,7 @@
   "location": "",
   "career": "경력3년↑ 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041757?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041757?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=17&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7495,7 +8396,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7507,7 +8408,7 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50064671?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50064671?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7515,7 +8416,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7527,7 +8428,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032231?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032231?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=4&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -7535,7 +8436,7 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7547,7 +8448,7 @@
   "location": "",
   "career": "경력5년↑ 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50073921?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50073921?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=5&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -7555,7 +8456,7 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7575,7 +8476,7 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7595,7 +8496,7 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7627,7 +8528,7 @@
   "location": "",
   "career": "경력5년↑ ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50073493?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50073493?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=14&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -7635,7 +8536,7 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": true,
   "stale": false
  },
@@ -7656,7 +8557,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-23",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7667,7 +8568,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191368?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191368?Oem_Code=C1&logpath=1&stext=Product+Designer&listno=18&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7675,8 +8576,8 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7695,8 +8596,8 @@
    "Product Designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7716,7 +8617,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-21",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7737,7 +8638,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-20",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7748,7 +8649,7 @@
   "location": "",
   "career": "경력4년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50165064?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=2&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50165064?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -7757,8 +8658,8 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7769,7 +8670,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50136691?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50136691?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7778,8 +8679,8 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7800,7 +8701,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-23",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7820,7 +8721,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-21",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7831,7 +8732,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50109166?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50109166?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=9&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7840,8 +8741,8 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7852,7 +8753,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50169577?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50169577?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=10&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7861,8 +8762,8 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7873,7 +8774,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49975317?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49975317?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=11&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -7882,7 +8783,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -7894,16 +8795,17 @@
   "location": "",
   "career": "경력5년↑ 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50064160?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50064160?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
   "queries": [
-   "UI/UX 디자이너"
+   "UI/UX 디자이너",
+   "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7914,7 +8816,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50058000?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50058000?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=11&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -7922,7 +8824,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -7934,7 +8836,7 @@
   "location": "",
   "career": "경력2년↑ 08",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49884766?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49884766?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=16&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -7942,8 +8844,8 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7963,7 +8865,7 @@
   ],
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-20",
-  "has_detail": false,
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7974,16 +8876,17 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167436?Oem_Code=C1&logpath=1&stext=UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167436?Oem_Code=C1&logpath=1&stext=UX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
   "queries": [
-   "UI/UX 디자이너"
+   "UI/UX 디자이너",
+   "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -7994,7 +8897,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50120616?Oem_Code=C1&logpath=1&stext=B2B+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50120616?Oem_Code=C1&logpath=1&stext=B2B+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=11&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8002,8 +8905,8 @@
    "B2B 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
-  "has_detail": false,
+  "last_seen": "2026-10-24",
+  "has_detail": true,
   "stale": false
  },
  {
@@ -8014,7 +8917,7 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49929028?Oem_Code=C1&logpath=1&stext=%EB%94%94%EC%A7%80%ED%84%B8+%ED%8A%B8%EC%9C%88&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49929028?Oem_Code=C1&logpath=1&stext=%EB%94%94%EC%A7%80%ED%84%B8+%ED%8A%B8%EC%9C%88&listno=20&sc=630",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8022,7 +8925,7 @@
    "디지털 트윈"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8034,7 +8937,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347962?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347962?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8053,7 +8956,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8064,8 +8967,8 @@
   "company": "(주)플라잎",
   "location": "",
   "career": "3년 이상",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/346924?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/346924?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8077,7 +8980,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8099,7 +9002,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8122,7 +9025,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8134,7 +9037,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347572?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347572?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8142,7 +9045,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8154,7 +9057,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347652?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347652?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8164,7 +9067,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8176,7 +9079,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347645?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347645?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8184,7 +9087,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8196,7 +9099,7 @@
   "location": "",
   "career": "경력 무관 ",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347528?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347528?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8205,7 +9108,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8217,7 +9120,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347488?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347488?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8225,7 +9128,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8236,8 +9139,8 @@
   "company": "(주)브레이브모바일",
   "location": "",
   "career": "3년 이상",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/347486?postQuerySessionId=4ae07a3b-029e-4e8a-b0a3-a5b00bd1a30a&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/347486?postQuerySessionId=acfd66e1-a502-4585-9495-08a3cb0e359b&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8245,7 +9148,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-22",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8256,8 +9159,8 @@
   "company": "(주)비햅틱스",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/338146?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/338146?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8267,7 +9170,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8279,7 +9182,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/342186?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/342186?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -8288,7 +9191,7 @@
    "UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8300,7 +9203,7 @@
   "location": "",
   "career": "4년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/345733?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/345733?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -8310,7 +9213,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8321,8 +9224,8 @@
   "company": "(주)알리네오",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/344881?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/344881?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8331,7 +9234,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8343,7 +9246,7 @@
   "location": "",
   "career": "6년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/308897?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/308897?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -8352,7 +9255,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8364,7 +9267,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/344812?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/344812?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8373,7 +9276,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8384,8 +9287,8 @@
   "company": "교육지대(주)",
   "location": "",
   "career": "경력",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/339005?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/339005?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8395,7 +9298,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8406,8 +9309,8 @@
   "company": "(주)제네시스네스트",
   "location": "",
   "career": "",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/344186?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/344186?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8416,7 +9319,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8428,7 +9331,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/344166?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/344166?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8437,7 +9340,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8470,7 +9373,7 @@
   "location": "",
   "career": "1~3년",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/342951?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/342951?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8479,7 +9382,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8491,7 +9394,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/340913?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/340913?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -8499,7 +9402,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8511,7 +9414,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/290382?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/290382?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8520,7 +9423,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8532,7 +9435,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/336367?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/336367?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8541,7 +9444,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8553,7 +9456,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/332699?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/332699?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8562,7 +9465,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8574,7 +9477,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/330830?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/330830?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8583,7 +9486,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8594,8 +9497,8 @@
   "company": "(주)바텍",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/326922?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/326922?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "상향",
@@ -8603,7 +9506,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8615,7 +9518,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/325143?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/325143?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8624,7 +9527,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8636,7 +9539,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/324405?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/324405?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8645,7 +9548,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8657,7 +9560,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/314674?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/314674?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "도전",
@@ -8666,7 +9569,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8678,7 +9581,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/308905?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/308905?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8687,7 +9590,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8699,7 +9602,7 @@
   "location": "",
   "career": "2년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/276726?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/276726?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "적합",
@@ -8707,7 +9610,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8719,7 +9622,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/255570?postQuerySessionId=8858b3f1-ee34-4cf7-a3ad-1e0aad9ff64c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/255570?postQuerySessionId=1297a5ff-578c-481c-98b9-61815db40f1e&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "프로덕트·UX 디자인",
   "score": 90,
   "fit": "미기재",
@@ -8727,7 +9630,7 @@
    "UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8859,7 +9762,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -8881,7 +9784,7 @@
    "product designer"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9131,7 +10034,7 @@
    "주니어 프로덕트 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9151,7 +10054,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9171,7 +10074,7 @@
    "신입 UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9397,7 +10300,7 @@
   "location": "",
   "career": "경력2년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50134344?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50134344?Oem_Code=C1&logpath=1&stext=SaaS+%EA%B8%B0%ED%9A%8D&listno=19&sc=630",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "적합",
@@ -9406,7 +10309,7 @@
    "Technical PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9480,8 +10383,8 @@
   "company": "한화솔루션(주)",
   "location": "",
   "career": "12년 이상",
-  "deadline": "D-6",
-  "url": "https://career.rememberapp.co.kr/job/posting/347541?postQuerySessionId=91d63d11-050e-4e63-a0af-2ad208fd3aab&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-5",
+  "url": "https://career.rememberapp.co.kr/job/posting/347541?postQuerySessionId=845b6a34-2ace-418a-ba6c-08ff97ab98e1&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "상향",
@@ -9492,7 +10395,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9535,7 +10438,7 @@
    "technical product manager"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9552,11 +10455,12 @@
   "score": 85,
   "fit": "미기재",
   "queries": [
+   "AI platform product manager",
    "AI product manager",
    "technical product manager"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9588,8 +10492,8 @@
   "company": "(주)제네시스네스트",
   "location": "",
   "career": "1~5년",
-  "deadline": "D-8",
-  "url": "https://career.rememberapp.co.kr/job/posting/344187?postQuerySessionId=fe14baef-2541-4a2a-8908-2e5bf5b62813&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/344187?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "적합",
@@ -9598,7 +10502,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9609,8 +10513,8 @@
   "company": "(주)누아",
   "location": "",
   "career": "경력 무관 ",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/317708?postQuerySessionId=f31986d6-f5cc-431e-b810-cf5a66f70669&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/317708?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "적합",
@@ -9619,7 +10523,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
@@ -9630,8 +10534,8 @@
   "company": "(주)누아",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/307155?postQuerySessionId=f31986d6-f5cc-431e-b810-cf5a66f70669&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/307155?postQuerySessionId=3c3f01c5-445e-4086-92e2-8ff013432df9&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "category": "AI·플랫폼 서비스 기획",
   "score": 85,
   "fit": "미기재",
@@ -9640,7 +10544,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-23",
+  "last_seen": "2026-10-24",
   "has_detail": false,
   "stale": false
  },
