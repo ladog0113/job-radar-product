@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
@@ -27,12 +27,21 @@ import {
 } from "@/components/ui/table";
 import {
   CATEGORIES,
-  FIT_FILTERS,
   SOURCE_LABELS,
   daysAgoKST,
   todayKST,
   useJson,
   jobHref,
+  careerFit,
+  careerLabel,
+  careerYears,
+  loadCareerStart,
+  requiredText,
+  DEFAULT_CAREER_START,
+  FIT_LABEL,
+  companyRating,
+  type Company,
+  type FitKey,
   type Job,
   type Run,
 } from "@/lib/data";
@@ -46,18 +55,39 @@ const PERIODS: Record<string, number | null> = {
 
 const PAGE = 50;
 
+// 연차 필터: 값 = 보여줄 적합도 목록
+const FIT_FILTERS: Record<string, FitKey[] | null> = {
+  no_over: ["fit", "stretch", "hard", "under", "unknown"],
+  fit: ["fit"],
+  fit_stretch: ["fit", "stretch"],
+  all: null,
+};
+
+const FIT_VARIANT: Record<FitKey, "default" | "secondary" | "outline" | "destructive"> = {
+  fit: "default",
+  stretch: "secondary",
+  hard: "outline",
+  over: "destructive",
+  under: "outline",
+  unknown: "outline",
+};
+
 export default function JobsPage() {
   const router = useRouter();
   const { data: jobs, loading, error } = useJson<Job[]>("jobs.json", []);
   const { data: runs } = useJson<Run[]>("runs.json", []);
+  const { data: companies } = useJson<Record<string, Company>>("companies.json", {});
 
   const [q, setQ] = useState("");
   const [period, setPeriod] = useState("7d");
   const [category, setCategory] = useState("all");
   const [source, setSource] = useState("all");
-  const [fit, setFit] = useState("noSenior");
   const [showStale, setShowStale] = useState(false);
   const [limit, setLimit] = useState(PAGE);
+  const [fitFilter, setFitFilter] = useState("no_over");
+  const [careerStart, setCareerStart] = useState(DEFAULT_CAREER_START);
+  useEffect(() => setCareerStart(loadCareerStart()), []);
+  const years = careerYears(careerStart);
 
   const today = todayKST();
   const week = daysAgoKST(7);
@@ -83,8 +113,8 @@ export default function JobsPage() {
       .filter((j) => category === "all" || j.category === category)
       .filter((j) => source === "all" || j.source === source)
       .filter((j) => {
-        const keep = FIT_FILTERS[fit].keep;
-        return !keep || keep.includes(j.fit ?? "미기재");
+        const allow = FIT_FILTERS[fitFilter];
+        return !allow || allow.includes(careerFit(j, years));
       })
       .filter(
         (j) =>
@@ -95,7 +125,7 @@ export default function JobsPage() {
       .sort((a, b) =>
         a.first_seen === b.first_seen ? b.score - a.score : a.first_seen < b.first_seen ? 1 : -1,
       );
-  }, [jobs, q, period, category, source, fit, showStale]);
+  }, [jobs, q, period, category, source, showStale, fitFilter, years]);
 
   return (
     <div className="flex flex-col gap-4">
@@ -154,12 +184,17 @@ export default function JobsPage() {
             ]}
           />
           <FilterSelect
-            value={fit}
+            value={fitFilter}
             onChange={(v) => {
-              setFit(v);
+              setFitFilter(v);
               setLimit(PAGE);
             }}
-            options={Object.entries(FIT_FILTERS).map(([k, v]) => [k, v.label] as [string, string])}
+            options={[
+              ["no_over", "10년 이상 제외"],
+              ["fit_stretch", "적합 + 상향"],
+              ["fit", "적합만"],
+              ["all", "연차 전체"],
+            ]}
           />
           <div className="flex items-center gap-2">
             <Switch id="stale" checked={showStale} onCheckedChange={setShowStale} />
@@ -169,16 +204,18 @@ export default function JobsPage() {
           </div>
         </CardHeader>
         <CardContent>
-          <div className="mb-2 text-sm text-muted-foreground">{filtered.length}건</div>
+          <div className="mb-2 text-sm text-muted-foreground">
+            {filtered.length}건 (내 경력 {careerLabel(careerStart)} 기준)
+          </div>
           <div className="overflow-x-auto">
             <Table>
               <TableHeader>
                 <TableRow>
                   <TableHead className="w-[100px]">수집일</TableHead>
-                  <TableHead className="w-[150px]">분류</TableHead>
+                  <TableHead className="w-[140px]">분류</TableHead>
                   <TableHead className="min-w-[240px]">공고</TableHead>
                   <TableHead className="w-[90px]">사이트</TableHead>
-                  <TableHead className="w-[170px]">경력 / 지역</TableHead>
+                  <TableHead className="w-[150px]">요구 경력</TableHead>
                   <TableHead className="w-[110px]">마감</TableHead>
                 </TableRow>
               </TableHeader>
@@ -227,21 +264,25 @@ export default function JobsPage() {
                         >
                           {j.title}
                         </Link>
-                        <div className="text-sm text-muted-foreground">{j.company}</div>
+                        <div className="text-sm text-muted-foreground">
+                          {[j.company, j.location].filter(Boolean).join(" / ")}
+                          {companyRating(companies[j.company_key ?? ""]) != null && (
+                            <span className="ml-2 whitespace-nowrap text-foreground">
+                              잡플래닛 {companyRating(companies[j.company_key ?? ""])!.toFixed(1)}
+                            </span>
+                          )}
+                        </div>
                       </TableCell>
                       <TableCell className="whitespace-nowrap text-sm">
                         {SOURCE_LABELS[j.source] ?? j.source}
                       </TableCell>
                       <TableCell className="text-sm text-muted-foreground">
-                        {j.fit && j.fit !== "미기재" && (
-                          <Badge
-                            variant={j.fit === "적합" ? "default" : "outline"}
-                            className="mr-1.5 px-1.5 py-0 text-[10px]"
-                          >
-                            {j.fit}
+                        <div className="flex flex-col items-start gap-1">
+                          <Badge variant={FIT_VARIANT[careerFit(j, years)]} className="whitespace-nowrap">
+                            {FIT_LABEL[careerFit(j, years)]}
                           </Badge>
-                        )}
-                        {[j.career, j.location].filter(Boolean).join(" / ")}
+                          <span>{requiredText(j) || j.career}</span>
+                        </div>
                       </TableCell>
                       <TableCell className="whitespace-nowrap text-sm text-muted-foreground">
                         {j.stale ? "마감 추정" : j.deadline}
