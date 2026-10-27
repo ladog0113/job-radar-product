@@ -24,6 +24,42 @@
       ],
       "career_start": "2022-07-25",
       "lock": null
+    },
+    {
+      "id": "r-43f75fe724",
+      "name": "밍쥬의 아구려 탈출기",
+      "icon": "heart-pulse",
+      "image": null,
+      "created_at": "2026-10-27",
+      "roles": [
+        "uiux",
+        "product_design",
+        "service_planner",
+        "pm",
+        "po",
+        "pl",
+        "sales"
+      ],
+      "domains": [
+        "commerce",
+        "mobility",
+        "proptech",
+        "edu",
+        "game",
+        "content",
+        "platform",
+        "infra",
+        "llm",
+        "ai",
+        "data",
+        "devex",
+        "healthcare",
+        "fintech"
+      ],
+      "keywords": [],
+      "exclude": [],
+      "career_start": "2026-01-05",
+      "lock": null
     }
   ]
 }
