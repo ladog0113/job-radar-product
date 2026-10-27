@@ -1100,5 +1100,124 @@
    "error": null
   },
   "finished_at": "2026-10-27T23:05:33+09:00"
+ },
+ {
+  "started_at": "2026-10-28T00:02:08+09:00",
+  "sources": [
+   {
+    "source": "wanted",
+    "label": "원티드",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "saramin",
+    "label": "사람인",
+    "fetched": 788,
+    "matched": 100,
+    "new": 60,
+    "error": null
+   },
+   {
+    "source": "jobkorea",
+    "label": "잡코리아",
+    "fetched": 536,
+    "matched": 63,
+    "new": 40,
+    "error": null
+   },
+   {
+    "source": "jobplanet",
+    "label": "잡플래닛",
+    "fetched": 10,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "jasoseol",
+    "label": "자소설닷컴",
+    "fetched": 20,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "remember",
+    "label": "리멤버",
+    "fetched": 876,
+    "matched": 197,
+    "new": 144,
+    "error": null
+   },
+   {
+    "source": "catch",
+    "label": "캐치",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "linkedin",
+    "label": "링크드인",
+    "fetched": 54,
+    "matched": 5,
+    "new": 2,
+    "error": null
+   }
+  ],
+  "rooms": 3,
+  "queries": [
+   "에이전트 PO",
+   "헬스케어 UI/UX 디자이너",
+   "B2B PO",
+   "GPU PO",
+   "핀테크 UI/UX 디자이너",
+   "모빌리티 PO",
+   "에이전트 서비스 기획",
+   "커머스 프로덕트 디자이너",
+   "프롭테크 PO",
+   "GPU 서비스 기획",
+   "모빌리티 프로덕트 디자이너",
+   "AI PL",
+   "AI 플랫폼",
+   "커머스 UI/UX 디자이너",
+   "수처리",
+   "AI PM",
+   "모빌리티 UI/UX 디자이너",
+   "항공우주",
+   "LLM PM",
+   "프롭테크 UI/UX 디자이너",
+   "방산",
+   "MLOps PM",
+   "에듀테크 UI/UX 디자이너",
+   "AI PO",
+   "게임 UI/UX 디자이너",
+   "LLM PO",
+   "콘텐츠 UI/UX 디자이너",
+   "MLOps PO",
+   "B2B UI/UX 디자이너",
+   "B2B PM",
+   "AI 서비스 기획",
+   "MLOps UI/UX 디자이너",
+   "모빌리티 PM",
+   "LLM 서비스 기획",
+   "LLM UI/UX 디자이너",
+   "프롭테크 PM"
+  ],
+  "details": {
+   "tried": 60,
+   "saved": 60
+  },
+  "jobplanet": {
+   "looked": 100,
+   "found": 85,
+   "failed": 0,
+   "error": null
+  },
+  "finished_at": "2026-10-28T01:17:23+09:00"
  }
 ]
