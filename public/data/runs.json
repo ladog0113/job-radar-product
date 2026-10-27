@@ -902,5 +902,104 @@
    "error": "RuntimeError: HTTP 403"
   },
   "finished_at": "2026-10-27T10:50:11+09:00"
+ },
+ {
+  "started_at": "2026-10-27T20:50:53+09:00",
+  "sources": [
+   {
+    "source": "wanted",
+    "label": "원티드",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "saramin",
+    "label": "사람인",
+    "fetched": 363,
+    "matched": 34,
+    "new": 15,
+    "error": null
+   },
+   {
+    "source": "jobkorea",
+    "label": "잡코리아",
+    "fetched": 247,
+    "matched": 22,
+    "new": 7,
+    "error": null
+   },
+   {
+    "source": "jobplanet",
+    "label": "잡플래닛",
+    "fetched": 9,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "jasoseol",
+    "label": "자소설닷컴",
+    "fetched": 20,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "remember",
+    "label": "리멤버",
+    "fetched": 618,
+    "matched": 32,
+    "new": 11,
+    "error": null
+   },
+   {
+    "source": "catch",
+    "label": "캐치",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "linkedin",
+    "label": "링크드인",
+    "fetched": 45,
+    "matched": 3,
+    "new": 0,
+    "error": null
+   }
+  ],
+  "rooms": 1,
+  "queries": [
+   "AI 플랫폼",
+   "AI PM",
+   "LLM PM",
+   "MLOps PM",
+   "AI PO",
+   "LLM PO",
+   "MLOps PO",
+   "AI 서비스 기획",
+   "LLM 서비스 기획",
+   "MLOps 서비스 기획",
+   "에이전트 PM",
+   "GPU PM",
+   "에이전트 PO",
+   "GPU PO",
+   "에이전트 서비스 기획",
+   "GPU 서비스 기획"
+  ],
+  "details": {
+   "tried": 33,
+   "saved": 33
+  },
+  "jobplanet": {
+   "looked": 100,
+   "found": 94,
+   "failed": 0,
+   "error": null
+  },
+  "finished_at": "2026-10-27T21:39:07+09:00"
  }
 ]
