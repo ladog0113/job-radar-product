@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { Activity, Briefcase, Radar, Settings } from "lucide-react";
+import { Activity, LayoutGrid, Radar, Settings } from "lucide-react";
 
 import { NavPages } from "./nav-pages";
 import {
@@ -14,7 +14,7 @@ import {
 } from "@/components/ui/sidebar";
 
 const pages = [
-  { name: "채용공고", url: "/", icon: Briefcase },
+  { name: "방 목록", url: "/", icon: LayoutGrid },
   { name: "수집 현황", url: "/sources", icon: Activity },
   { name: "설정", url: "/settings", icon: Settings },
 ];
@@ -36,7 +36,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                 </div>
                 <div className="grid flex-1 text-left text-sm leading-tight">
                   <span className="truncate font-semibold">Job Radar</span>
-                  <span className="truncate text-xs">AI 기획 · TPM · 프로덕트 디자인</span>
+                  <span className="truncate text-xs">채용공고 방</span>
                 </div>
               </div>
             </SidebarMenuButton>

@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ArrowLeft, ExternalLink } from "lucide-react";
@@ -35,11 +35,13 @@ import {
   safeName,
   useJson,
   DEFAULT_CAREER_START,
+  companyRating,
   type Company,
   type Detail,
   type Job,
 } from "@/lib/data";
 import { loadLocal, loadSettings, saveLocal, type Settings } from "@/lib/llm";
+import { isUnlocked, useRooms, type Room } from "@/lib/rooms";
 
 export default function JobPage() {
   return (
@@ -52,10 +54,14 @@ export default function JobPage() {
 const base = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
 function JobDetail() {
-  const id = useSearchParams().get("id") ?? "";
+  const params = useSearchParams();
+  const id = params.get("id") ?? "";
+  const roomId = params.get("room") ?? "";
+  const { rooms } = useRooms();
+  const room = rooms.find((r) => r.id === roomId);
   const key = safeName(id);
   const { data: jobs, loading } = useJson<Job[]>("jobs.json", []);
-  const job = useMemo(() => jobs.find((j) => j.id === id), [jobs, id]);
+  const job = jobs.find((j) => j.id === id);
   const { data: companies } = useJson<Record<string, Company>>("companies.json", {});
 
   const [settings, setSettings] = useState<Settings>({ apiKey: "", model: "" });
@@ -71,16 +77,21 @@ function JobDetail() {
   const [tab, setTab] = useState("posting");
   const [careerStart, setCareerStart] = useState(DEFAULT_CAREER_START);
   const myCareer = careerLabel(careerStart);
+  // 방에서 들어오면 그 방의 경력 기준
+  useEffect(() => {
+    if (room?.career_start) setCareerStart(room.career_start);
+  }, [room]);
+  const locked = room ? !isUnlocked(room) : false;
 
   useEffect(() => {
     setSettings(loadSettings());
-    setCareerStart(loadCareerStart());
+    if (!roomId) setCareerStart(loadCareerStart());
     setResume(loadLocal<string>("jr_resume") ?? "");
     setPasted(loadLocal<string>(`jr_post_${key}`) ?? "");
     setChecklist(loadLocal<Checklist>(`jr_cl_${key}`));
     setReview(loadLocal<Review>(`jr_rv_${key}`));
     setRewrite(loadLocal<Rewrite>(`jr_rw_${key}`));
-  }, [key]);
+  }, [key, roomId]);
 
   useEffect(() => {
     if (!id) return;
@@ -156,17 +167,24 @@ function JobDetail() {
   }
 
   if (loading) return <div className="text-sm text-muted-foreground">불러오는 중</div>;
+  if (locked)
+    return (
+      <div className="flex flex-col gap-3">
+        <BackLink room={room} />
+        <div className="text-sm text-muted-foreground">잠긴 방입니다. 방 목록에서 잠금을 해제한 뒤 들어오세요.</div>
+      </div>
+    );
   if (!job)
     return (
       <div className="flex flex-col gap-3">
-        <BackLink />
+        <BackLink room={room} />
         <div className="text-sm text-muted-foreground">공고를 찾을 수 없습니다 ({id})</div>
       </div>
     );
 
   return (
     <div className="flex flex-col gap-4">
-      <BackLink />
+      <BackLink room={room} />
       <Card>
         <CardHeader className="gap-2">
           <div className="flex flex-wrap items-center gap-2">
@@ -397,10 +415,13 @@ function JobDetail() {
   );
 }
 
-function BackLink() {
+function BackLink({ room }: { room?: Room }) {
   return (
-    <Link href="/" className="inline-flex w-fit items-center gap-1 text-sm text-muted-foreground hover:underline">
-      <ArrowLeft className="size-4" /> 채용공고
+    <Link
+      href={room ? `/room/?id=${encodeURIComponent(room.id)}` : "/"}
+      className="inline-flex w-fit items-center gap-1 text-sm text-muted-foreground hover:underline"
+    >
+      <ArrowLeft className="size-4" /> {room ? room.name : "방 목록"}
     </Link>
   );
 }
@@ -587,7 +608,7 @@ function CompanyCard({ c }: { c: Company }) {
     ["CEO 지지율", c.ceo_pct != null ? `${c.ceo_pct}%` : "-"],
     ["성장 가능성", c.growth_pct != null ? `${c.growth_pct}%` : "-"],
   ];
-  const rating = c.overall ?? c.rating;
+  const rating = companyRating(c);
   return (
     <Card>
       <CardHeader className="flex-row items-center justify-between gap-2 space-y-0">

@@ -1,16 +1,6 @@
-# Job Radar (Product)
+# Job Radar
 
-원티드, 사람인, 잡코리아, 잡플래닛, 자소설닷컴, 리멤버, 캐치, 링크드인에서 아래 4개 직군 공고를 매일 수집해 보여주는 웹.
-[job-radar](https://github.com/ladog0113/job-radar)(AI 플랫폼 PM 전용)에서 갈라져 나왔다.
-
-| 분류 | 잡는 공고 |
-| --- | --- |
-| AI·플랫폼 서비스 기획 | 기획/PM/PO + AI, 플랫폼, B2B, SaaS, 자동화, 프롭테크 등 기술 도메인 |
-| Technical PM | TPM, Technical PM, 기술 기획, 또는 PM + 인프라/MLOps/클라우드 |
-| 프로덕트·UX 디자인 | 프로덕트 디자이너, UX/UI 디자이너, 서비스 디자이너 |
-| DevEx·개발자 플랫폼 | 테크니컬 라이터, 또는 기획/PM/디자이너 + 개발자 경험, API, 문서 |
-
-각 공고에는 연차 판정(적합 / 도전 / 상향 / 미기재)이 붙는다. 목록 기본값은 `상향 제외`.
+원티드, 사람인, 잡코리아, 잡플래닛, 자소설닷컴, 리멤버, 캐치, 링크드인에서 AI 플랫폼 PM/PO, MLOps/LLMOps, AI 인프라, AI 서비스 기획 공고를 매일 수집해 보여주는 웹.
 
 - 수집: `crawler/` (Python, Playwright)
 - 화면: Next.js 정적 사이트 (admin-template 기반)
@@ -26,18 +16,25 @@
 
 저장소 이름이 `<계정>.github.io`이면 `.github/workflows/daily.yml`의 `NEXT_PUBLIC_BASE_PATH` 값을 빈 문자열로 바꾼다.
 
-## 검색 범위 바꾸기
+## 방
+
+검색 조건은 방 단위로 관리한다. 방 목록은 저장소의 `rooms/rooms.json` 한 파일에 저장되고, 웹의 방 만들기, 삭제 화면이 GitHub API로 이 파일을 고친다. 매일 수집은 이 파일의 모든 방에서 검색어를 만들어 돌린다.
+
+- 직무, 도메인 선택지와 단어 목록: `src/lib/presets.json` (웹과 수집기가 같이 씀)
+- 방 판정 규칙: `crawler/rooms.py`, `src/lib/rooms.ts` (같은 규칙)
+- 방 만들기, 삭제에는 설정 화면에 GitHub fine-grained 토큰(이 저장소 Contents, Actions 읽기/쓰기)이 필요
+- 방 잠금은 화면 잠금이다. 저장소가 공개라 `rooms/rooms.json` 자체는 누구나 읽을 수 있다
+
+## 검색 범위 바꾸기 (이전 방식, 방 도입 후에는 쓰지 않음)
 
 `crawler/config.py`
 
 | 항목 | 역할 |
 | --- | --- |
 | `SEARCH_QUERIES` | 각 사이트 검색창에 넣는 검색어 |
-| `PLANNER_ROLES`, `TPM_ROLES`, `DESIGN_ROLES`, `WRITER_ROLES` | 직군별 직무 단어 |
-| `*_DOMAINS` | 분류에 필요한 도메인 단어, `BONUS_DOMAINS`는 점수 가산 |
-| `CATEGORIES` | 분류별 (직무 단어, 필요한 도메인) 규칙. 위에서부터 우선 |
+| `ROLE_TERMS` | 제목에 하나 이상 있어야 하는 직무 단어 |
+| `CATEGORIES` | 분류별 도메인 단어 (위에서부터 우선) |
 | `EXCLUDE_TERMS`, `HARD_EXCLUDE_TERMS` | 제외 단어 |
-| `CAREER_FIT_MAX`, `CAREER_STRETCH_MAX`, `SENIOR_TERMS` | 연차 판정 기준 |
 | `STALE_DAYS` | 이 기간 동안 다시 안 보이면 마감 추정 처리 |
 
 링크드인 검색어는 `crawler/sources.py`의 `LINKEDIN_QUERIES`에 따로 있다.

@@ -14,7 +14,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { listModels, loadSettings, saveSettings } from "@/lib/llm";
-import { careerLabel, loadCareerStart, saveCareerStart } from "@/lib/data";
+import { checkGh, loadGh, saveGh } from "@/lib/rooms";
 
 export default function SettingsPage() {
   const [apiKey, setApiKey] = useState("");
@@ -22,14 +22,12 @@ export default function SettingsPage() {
   const [models, setModels] = useState<{ id: string; display_name?: string }[]>([]);
   const [status, setStatus] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
-  const [careerStart, setCareerStart] = useState("");
 
   useEffect(() => {
     const s = loadSettings();
     setApiKey(s.apiKey);
     setModel(s.model);
     if (s.model) setModels([{ id: s.model }]);
-    setCareerStart(loadCareerStart());
   }, []);
 
   async function fetchModels() {
@@ -57,27 +55,7 @@ export default function SettingsPage() {
 
   return (
     <div className="flex flex-col gap-4">
-    <Card className="max-w-xl">
-      <CardHeader>
-        <CardTitle className="text-base">내 경력</CardTitle>
-      </CardHeader>
-      <CardContent className="flex flex-col gap-2">
-        <Label htmlFor="start">경력 시작일</Label>
-        <div className="flex items-center gap-3">
-          <Input
-            id="start"
-            type="date"
-            className="w-[180px]"
-            value={careerStart}
-            onChange={(e) => {
-              setCareerStart(e.target.value);
-              if (e.target.value) saveCareerStart(e.target.value);
-            }}
-          />
-          {careerStart && <span className="text-sm text-muted-foreground">오늘 기준 {careerLabel(careerStart)}</span>}
-        </div>
-      </CardContent>
-    </Card>
+    <GithubCard />
     <Card className="max-w-xl">
       <CardHeader>
         <CardTitle className="text-base">Anthropic API</CardTitle>
@@ -124,5 +102,67 @@ export default function SettingsPage() {
       </CardContent>
     </Card>
     </div>
+  );
+}
+
+function GithubCard() {
+  const [token, setToken] = useState("");
+  const [repo, setRepo] = useState("");
+  const [status, setStatus] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
+
+  useEffect(() => {
+    const g = loadGh();
+    setToken(g.token);
+    setRepo(g.repo);
+  }, []);
+
+  async function save() {
+    setBusy(true);
+    setStatus(null);
+    const s = { token: token.trim(), repo: repo.trim() };
+    try {
+      const name = await checkGh(s);
+      saveGh(s);
+      setStatus(`${name} 연결을 확인하고 저장했습니다`);
+    } catch (e) {
+      setStatus(`확인 실패: ${e instanceof Error ? e.message : e}`);
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  return (
+    <Card className="max-w-xl">
+      <CardHeader>
+        <CardTitle className="text-base">GitHub (방 만들기, 삭제)</CardTitle>
+      </CardHeader>
+      <CardContent className="flex flex-col gap-4">
+        <div className="flex flex-col gap-2">
+          <Label htmlFor="repo">저장소</Label>
+          <Input id="repo" placeholder="계정/저장소" value={repo} onChange={(e) => setRepo(e.target.value)} />
+        </div>
+        <div className="flex flex-col gap-2">
+          <Label htmlFor="gh">토큰</Label>
+          <Input
+            id="gh"
+            type="password"
+            autoComplete="off"
+            placeholder="github_pat_..."
+            value={token}
+            onChange={(e) => setToken(e.target.value)}
+          />
+          <p className="text-xs text-muted-foreground">
+            이 저장소 하나에 Contents, Actions 읽기/쓰기 권한만 준 fine-grained 토큰. 이 브라우저에만 저장됩니다.
+          </p>
+        </div>
+        <div className="flex items-center gap-3">
+          <Button onClick={save} disabled={!token.trim() || !repo.trim() || busy}>
+            {busy ? "확인 중" : "확인 후 저장"}
+          </Button>
+          {status && <span className="text-sm text-muted-foreground">{status}</span>}
+        </div>
+      </CardContent>
+    </Card>
   );
 }

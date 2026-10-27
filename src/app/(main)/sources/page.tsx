@@ -77,8 +77,13 @@ export default function SourcesPage() {
               })}
             </TableBody>
           </Table>
-          {last && (last.details || last.jobplanet) && (
+          {last && (last.details || last.jobplanet || last.queries) && (
             <div className="mt-4 flex flex-col gap-1 text-sm text-muted-foreground">
+              {last.queries && (
+                <div>
+                  방 {last.rooms ?? 0}개에서 만든 검색어 {last.queries.length}개: {last.queries.join(", ")}
+                </div>
+              )}
               {last.details && (
                 <div>
                   공고 본문: 시도 {last.details.tried}건, 저장 {last.details.saved}건

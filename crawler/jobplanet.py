@@ -18,7 +18,7 @@ from sources import UA
 
 BASE = "https://www.jobplanet.co.kr"
 REFRESH_DAYS = 14
-MAX_LOOKUPS_PER_RUN = 40
+MAX_LOOKUPS_PER_RUN = 100
 RECENT_REVIEWS = 5
 
 _STRIP = re.compile(r"\(주\)|㈜|주식회사|\(유\)|유한회사|\(사\)|\(재\)|\(의\)|\(합\)")
@@ -89,13 +89,21 @@ def find_company(b: _Browser, name: str) -> dict | None:
 
 
 def company_stats(b: _Browser, jp_id: int) -> dict:
-    text = re.sub(r"\s+", " ", BeautifulSoup(b.html(f"{BASE}/companies/{jp_id}/reviews"), "html.parser").get_text(" "))
-    i = text.find("전체 리뷰 통계")
-    text = text[i : i + 600] if i >= 0 else ""
-    count = _num(r"전체 리뷰 통계\s*\((\d+)\s*명\)", text)
+    soup = BeautifulSoup(b.html(f"{BASE}/companies/{jp_id}/reviews"), "html.parser")
+    title = soup.title.get_text(" ", strip=True) if soup.title else ""
+    full = re.sub(r"\s+", " ", soup.get_text(" "))
+    i = full.find("전체 리뷰 통계")
+    text = full[i : i + 600] if i >= 0 else ""
+    count = _num(r"전체 리뷰 통계\s*\(\s*(\d+)\s*명\s*\)", text)
+    overall = _num(r"전체 리뷰 통계\s*\(\s*\d+\s*명\s*\)\s*([\d.]+)", text)
+    # 페이지 제목 예: "회사명 2026년 기업정보 | 기업리뷰 8건, 4.6 리뷰평점"
+    if count is None:
+        count = _num(r"기업리뷰\s*(\d+)\s*건", title)
+    if overall is None:
+        overall = _num(r"([\d.]+)\s*리뷰평점", title)
     return {
         "review_count": int(count) if count is not None else None,
-        "overall": _num(r"전체 리뷰 통계\s*\(\d+\s*명\)\s*([\d.]+)", text),
+        "overall": overall,
         "scores": {
             "복지/급여": _num(r"복지/급여\s*([\d.]+)", text),
             "워라밸": _num(r"워라밸\s*([\d.]+)", text),
@@ -121,7 +129,8 @@ def recent_reviews(b: _Browser, jp_id: int) -> list[dict]:
         out.append({
             "date": rv.get("date") or "",
             "occupation": rv.get("occupation_name") or "",
-            "status": rv.get("employ_status_name") or "",
+            # true = 현직원, false/빈값 = 전직원 (잡플래닛 화면 표기와 대조해 확인)
+            "status": "현직원" if rv.get("employ_status_name") is True else "전직원",
             "overall": sc.get("overall"),
             "worklife": sc.get("worklife_balance_rating"),
             "compensation": sc.get("compensation_rating"),
@@ -150,7 +159,9 @@ def update_companies(jobs: list[dict], cache: dict, today: str, browser) -> dict
         if key in seen:
             continue
         seen.add(key)
-        if cache.get(key, {}).get("fetched_at", "") < fresh_after:
+        c = cache.get(key, {})
+        # 오래됐거나, 회사는 찾았는데 리뷰 수를 못 읽은 항목은 다시 조회
+        if c.get("fetched_at", "") < fresh_after or (c.get("jp_id") and c.get("review_count") is None):
             todo.append((key, name))
 
     looked = found = failed = 0

@@ -1,4 +1,4 @@
-"""매일 실행: 8개 사이트 수집 → 분류 → public/data/jobs.json 누적.
+"""매일 실행: 방(rooms/rooms.json) 설정으로 검색어를 만들어 8개 사이트 수집 → 방별 판정 → public/data/jobs.json 누적.
 
 사용법
   python crawler/main.py                 # 전체 사이트
@@ -14,11 +14,12 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from career import parse_career
-from classify import classify
+import sources
+from config import STALE_DAYS
 from details import fetch_detail, safe_name
 from jobplanet import update_companies
-from config import SEARCH_QUERIES, STALE_DAYS
-from sources import LABELS, SITES, crawl_linkedin, crawl_rendered, crawl_saramin, crawl_wanted
+from rooms import all_queries, linkedin_queries, load_rooms, match_rooms
+from sources import LABELS, crawl_linkedin, crawl_rendered, crawl_saramin, crawl_wanted
 
 KST = timezone(timedelta(hours=9))
 DATA_DIR = Path(__file__).resolve().parent.parent / "public" / "data"
@@ -44,6 +45,15 @@ def run(sites: list[str]) -> None:
     runs: list[dict] = load(RUNS_FILE, [])
     run_log = {"started_at": now.isoformat(timespec="seconds"), "sources": []}
 
+    rooms = load_rooms()
+    queries = all_queries(rooms)
+    sources.LINKEDIN_QUERIES = linkedin_queries(rooms)
+    run_log["rooms"] = len(rooms)
+    run_log["queries"] = queries
+    print(f"[rooms] {len(rooms)}개 방, 검색어 {len(queries)}개: {queries}")
+    if not rooms:
+        sites = []
+
     browser = None
     pw = None
     if True:  # 상세 본문 수집에도 브라우저가 필요
@@ -57,17 +67,17 @@ def run(sites: list[str]) -> None:
             entry = {"source": site, "label": LABELS[site], "fetched": 0, "matched": 0, "new": 0, "error": None}
             try:
                 if site == "saramin":
-                    postings = crawl_saramin(SEARCH_QUERIES)
+                    postings = crawl_saramin(queries)
                 elif site == "linkedin":
-                    postings = crawl_linkedin(SEARCH_QUERIES)
+                    postings = crawl_linkedin(queries)
                 elif site == "wanted":
-                    postings = crawl_wanted(SEARCH_QUERIES, browser)
+                    postings = crawl_wanted(queries, browser)
                 else:
-                    postings = crawl_rendered(site, SEARCH_QUERIES, browser)
+                    postings = crawl_rendered(site, queries, browser)
                 entry["fetched"] = len(postings)
                 for p in postings:
-                    c = classify(p.title)
-                    if not c:
+                    hits = match_rooms(rooms, p.title)
+                    if not hits:
                         continue
                     entry["matched"] += 1
                     jid = f"{p.source}:{p.ext_id}"
@@ -83,8 +93,7 @@ def run(sites: list[str]) -> None:
                         "career": p.career,
                         "deadline": p.deadline,
                         "url": p.url,
-                        "category": c["category"],
-                        "score": c["score"],
+                        "room_hits": hits,
                         "queries": sorted(set(p.queries) | set((prev or {}).get("queries", []))),
                         "first_seen": (prev or {}).get("first_seen", today),
                         "last_seen": today,
@@ -124,6 +133,10 @@ def run(sites: list[str]) -> None:
             j["has_detail"] = dpath.exists()
             detail_text = json.loads(dpath.read_text(encoding="utf-8"))["text"] if j["has_detail"] else ""
             j.update(parse_career(j.get("career", ""), detail_text))
+            # 본문까지 보고 방별 판정을 다시 한다 (방이 추가, 삭제된 경우도 반영)
+            j["room_hits"] = match_rooms(rooms, j["title"], detail_text)
+            j.pop("category", None)
+            j["score"] = max((h["score"] for h in j["room_hits"].values()), default=0)
 
         # 잡플래닛 기업 평점 (회사별 캐시)
         companies = load(COMPANIES_FILE, {})
@@ -147,7 +160,7 @@ def run(sites: list[str]) -> None:
     runs = (runs + [run_log])[-60:]
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    ordered = sorted(jobs.values(), key=lambda j: (j["first_seen"], j["score"]), reverse=True)
+    ordered = sorted(jobs.values(), key=lambda j: (j["first_seen"], j.get("score", 0)), reverse=True)
     JOBS_FILE.write_text(json.dumps(ordered, ensure_ascii=False, indent=1), encoding="utf-8")
     RUNS_FILE.write_text(json.dumps(runs, ensure_ascii=False, indent=1), encoding="utf-8")
     COMPANIES_FILE.write_text(json.dumps(companies, ensure_ascii=False, indent=1), encoding="utf-8")

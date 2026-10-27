@@ -11,8 +11,9 @@ export type Job = {
   career: string;
   deadline: string;
   url: string;
-  category: string;
-  score: number;
+  category?: string;
+  score?: number;
+  room_hits?: Record<string, { domains: string[]; score: number; by_detail?: boolean }>;
   queries: string[];
   first_seen: string;
   last_seen: string;
@@ -41,6 +42,8 @@ export type Run = {
   sources: SourceRun[];
   details?: { tried: number; saved: number };
   jobplanet?: { looked?: number; found?: number; failed?: number; error?: string | null };
+  rooms?: number;
+  queries?: string[];
 };
 
 export const SOURCE_LABELS: Record<string, string> = {
@@ -54,7 +57,6 @@ export const SOURCE_LABELS: Record<string, string> = {
   linkedin: "링크드인",
 };
 
-export const CATEGORIES = ["AI 인프라/MLOps", "LLMOps/에이전트", "AI 서비스 기획"];
 
 const base = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
@@ -89,8 +91,8 @@ export function safeName(id: string) {
   return id.replace(/[^A-Za-z0-9_-]/g, "_");
 }
 
-export function jobHref(id: string) {
-  return `/job/?id=${encodeURIComponent(id)}`;
+export function jobHref(id: string, room?: string) {
+  return `/job/?id=${encodeURIComponent(id)}${room ? `&room=${encodeURIComponent(room)}` : ""}`;
 }
 
 // ---- 내 경력과 공고 요구 연차 비교 ----
@@ -191,6 +193,7 @@ export type Company = {
 };
 
 export function companyRating(c?: Company) {
-  if (!c || !c.jp_id) return null;
-  return c.overall ?? c.rating ?? null;
+  if (!c || !c.jp_id || c.review_count === 0) return null;
+  const r = c.overall ?? c.rating ?? null;
+  return r ? r : null; // 0.0은 리뷰가 없는 회사
 }
