@@ -1,6 +1,7 @@
 import React from "react";
 
 import { AppSidebar } from "@/components/app-sidebar";
+import { TokenGate } from "@/components/rooms/token-gate";
 import { SiteHeader } from "@/components/site-header";
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 
@@ -8,6 +9,7 @@ export default function MainLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
+    <TokenGate>
     <div className="[--header-height:calc(theme(spacing.14))]">
       <SidebarProvider className="flex flex-col">
         <SiteHeader />
@@ -19,5 +21,6 @@ export default function MainLayout({
         </div>
       </SidebarProvider>
     </div>
+    </TokenGate>
   );
 }

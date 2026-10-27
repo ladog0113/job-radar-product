@@ -14,7 +14,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { listModels, loadSettings, saveSettings } from "@/lib/llm";
-import { checkGh, loadGh, saveGh } from "@/lib/rooms";
+import { checkGh, clearGhToken, loadGh, saveGh } from "@/lib/rooms";
 
 export default function SettingsPage() {
   const [apiKey, setApiKey] = useState("");
@@ -135,7 +135,7 @@ function GithubCard() {
   return (
     <Card className="max-w-xl">
       <CardHeader>
-        <CardTitle className="text-base">GitHub (방 만들기, 삭제)</CardTitle>
+        <CardTitle className="text-base">GitHub</CardTitle>
       </CardHeader>
       <CardContent className="flex flex-col gap-4">
         <div className="flex flex-col gap-2">
@@ -159,6 +159,15 @@ function GithubCard() {
         <div className="flex items-center gap-3">
           <Button onClick={save} disabled={!token.trim() || !repo.trim() || busy}>
             {busy ? "확인 중" : "확인 후 저장"}
+          </Button>
+          <Button
+            variant="outline"
+            onClick={() => {
+              clearGhToken();
+              window.location.href = window.location.pathname.replace(/settings\/?$/, "");
+            }}
+          >
+            이 브라우저에서 토큰 지우기
           </Button>
           {status && <span className="text-sm text-muted-foreground">{status}</span>}
         </div>

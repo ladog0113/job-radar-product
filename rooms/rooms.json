@@ -6,24 +6,23 @@
       "icon": "cpu",
       "image": null,
       "created_at": "2026-10-27",
-      "roles": ["pm", "po", "service_planner"],
-      "domains": ["ai", "llm", "infra"],
-      "keywords": ["AI 플랫폼"],
-      "exclude": ["인턴"],
+      "roles": [
+        "pm",
+        "po",
+        "service_planner"
+      ],
+      "domains": [
+        "ai",
+        "llm",
+        "infra"
+      ],
+      "keywords": [
+        "AI 플랫폼"
+      ],
+      "exclude": [
+        "인턴"
+      ],
       "career_start": "2022-07-25",
-      "lock": null
-    },
-    {
-      "id": "r-ai-tpm-design",
-      "name": "AI 기획, TPM, 프로덕트 디자인",
-      "icon": "palette",
-      "image": null,
-      "created_at": "2026-10-27",
-      "roles": ["service_planner", "pm", "product_design", "uiux"],
-      "domains": ["ai", "llm", "platform", "devex", "proptech"],
-      "keywords": ["TPM", "Technical PM", "테크니컬 라이터"],
-      "exclude": ["인턴", "퍼블리셔", "쇼핑몰", "상세페이지", "영상", "편집"],
-      "career_start": null,
       "lock": null
     }
   ]

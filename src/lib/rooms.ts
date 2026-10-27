@@ -56,6 +56,13 @@ export function loadGh(): GhSettings {
   return { token: "", repo: detectRepo() };
 }
 
+export function clearGhToken() {
+  try {
+    const g = loadGh();
+    localStorage.setItem(GH_KEY, JSON.stringify({ ...g, token: "" }));
+  } catch {}
+}
+
 export function saveGh(s: GhSettings) {
   try {
     localStorage.setItem(GH_KEY, JSON.stringify(s));
@@ -75,6 +82,11 @@ function ghHeaders(token: string, raw = false) {
 }
 
 async function ghError(r: Response) {
+  // 토큰이 만료되거나 삭제되면 입장 화면으로 돌아간다
+  if (r.status === 401 && typeof window !== "undefined") {
+    clearGhToken();
+    window.location.reload();
+  }
   try {
     const j = await r.json();
     return `GitHub ${r.status}: ${j.message ?? ""}`;
