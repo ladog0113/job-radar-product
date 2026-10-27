@@ -3,191 +3,660 @@
     {
       "id": "backend",
       "label": "백엔드 개발",
-      "terms": ["백엔드", "backend", "back-end", "서버 개발", "서버개발", "server developer", "server engineer"],
+      "terms": [
+        "백엔드",
+        "backend",
+        "back-end",
+        "서버 개발",
+        "서버개발",
+        "server developer",
+        "server engineer"
+      ],
       "not_terms": [],
-      "q": ["백엔드 개발자"],
-      "en": ["backend engineer"]
+      "q": [
+        "백엔드 개발자"
+      ],
+      "en": [
+        "backend engineer"
+      ]
     },
     {
       "id": "frontend",
       "label": "프론트엔드 개발",
-      "terms": ["프론트엔드", "frontend", "front-end", "프론트 개발", "프론트개발", "웹 프론트"],
+      "terms": [
+        "프론트엔드",
+        "frontend",
+        "front-end",
+        "프론트 개발",
+        "프론트개발",
+        "웹 프론트"
+      ],
       "not_terms": [],
-      "q": ["프론트엔드 개발자"],
-      "en": ["frontend engineer"]
+      "q": [
+        "프론트엔드 개발자"
+      ],
+      "en": [
+        "frontend engineer"
+      ]
     },
     {
       "id": "fullstack",
       "label": "풀스택 개발",
-      "terms": ["풀스택", "fullstack", "full-stack", "full stack"],
+      "terms": [
+        "풀스택",
+        "fullstack",
+        "full-stack",
+        "full stack"
+      ],
       "not_terms": [],
-      "q": ["풀스택 개발자"],
-      "en": ["full stack engineer"]
+      "q": [
+        "풀스택 개발자"
+      ],
+      "en": [
+        "full stack engineer"
+      ]
+    },
+    {
+      "id": "llm_dev",
+      "label": "LLM/VLM/VLA 개발",
+      "terms": [
+        "llm",
+        "sllm",
+        "vlm",
+        "vla",
+        "vision language",
+        "vision-language",
+        "멀티모달",
+        "multimodal",
+        "foundation model",
+        "파운데이션 모델",
+        "언어모델",
+        "언어 모델",
+        "생성형 ai 개발",
+        "genai engineer"
+      ],
+      "not_terms": [
+        "기획",
+        "pm",
+        "po",
+        "product manager",
+        "product owner",
+        "프로덕트 매니저",
+        "디자이너",
+        "designer",
+        "영업",
+        "sales",
+        "마케팅",
+        "marketing",
+        "llmops"
+      ],
+      "q": [
+        "LLM 개발자",
+        "LLM 엔지니어",
+        "VLM",
+        "VLA"
+      ],
+      "en": [
+        "LLM engineer",
+        "VLM engineer"
+      ]
+    },
+    {
+      "id": "agent_dev",
+      "label": "에이전트 개발",
+      "terms": [
+        "에이전트 개발",
+        "agent 개발",
+        "에이전트 엔지니어",
+        "agent engineer",
+        "agent developer",
+        "ai agent 개발",
+        "agentic",
+        "멀티 에이전트",
+        "multi-agent",
+        "langgraph",
+        "langchain"
+      ],
+      "not_terms": [
+        "기획",
+        "pm",
+        "po",
+        "product manager",
+        "product owner",
+        "프로덕트 매니저",
+        "디자이너",
+        "designer",
+        "영업",
+        "sales",
+        "마케팅",
+        "marketing"
+      ],
+      "q": [
+        "AI 에이전트 개발자",
+        "Agent Engineer"
+      ],
+      "en": [
+        "AI agent engineer"
+      ]
+    },
+    {
+      "id": "devops",
+      "label": "DevOps",
+      "terms": [
+        "devops",
+        "데브옵스",
+        "sre",
+        "site reliability",
+        "플랫폼 엔지니어",
+        "platform engineer",
+        "인프라 엔지니어",
+        "infra engineer",
+        "클라우드 엔지니어",
+        "cloud engineer",
+        "mlops 엔지니어",
+        "mlops engineer",
+        "쿠버네티스 엔지니어"
+      ],
+      "not_terms": [
+        "기획",
+        "pm",
+        "po",
+        "product manager",
+        "product owner",
+        "프로덕트 매니저",
+        "디자이너",
+        "designer",
+        "영업",
+        "sales",
+        "마케팅",
+        "marketing"
+      ],
+      "q": [
+        "DevOps",
+        "SRE"
+      ],
+      "en": [
+        "DevOps engineer"
+      ]
     },
     {
       "id": "pm",
       "label": "PM",
-      "terms": ["pm", "product manager", "프로덕트 매니저", "프로덕트매니저", "제품 매니저", "제품매니저", "project manager", "프로젝트 매니저"],
+      "terms": [
+        "pm",
+        "product manager",
+        "프로덕트 매니저",
+        "프로덕트매니저",
+        "제품 매니저",
+        "제품매니저",
+        "project manager",
+        "프로젝트 매니저"
+      ],
       "not_terms": [],
-      "q": ["PM"],
-      "en": ["product manager"]
+      "q": [
+        "PM"
+      ],
+      "en": [
+        "product manager"
+      ]
     },
     {
       "id": "po",
       "label": "PO",
-      "terms": ["po", "product owner", "프로덕트 오너", "프로덕트오너"],
+      "terms": [
+        "po",
+        "product owner",
+        "프로덕트 오너",
+        "프로덕트오너"
+      ],
       "not_terms": [],
-      "q": ["PO"],
-      "en": ["product owner"]
+      "q": [
+        "PO"
+      ],
+      "en": [
+        "product owner"
+      ]
     },
     {
       "id": "pl",
       "label": "PL",
-      "terms": ["pl", "project leader", "project lead", "프로젝트 리더"],
+      "terms": [
+        "pl",
+        "project leader",
+        "project lead",
+        "프로젝트 리더"
+      ],
       "not_terms": [],
-      "q": ["PL"],
-      "en": ["project lead"]
+      "q": [
+        "PL"
+      ],
+      "en": [
+        "project lead"
+      ]
     },
     {
       "id": "service_planner",
       "label": "서비스 기획",
-      "terms": ["기획", "planner", "서비스 매니저"],
-      "not_terms": ["영업기획", "영업 기획", "경영기획", "경영 기획", "전략기획", "전략 기획", "사업기획", "사업 기획", "재무기획", "인사기획", "교육기획", "상품기획", "상품 기획", "콘텐츠 기획", "콘텐츠기획", "게임 기획", "게임기획", "마케팅 기획", "마케팅기획", "행사 기획", "데이터 기획", "데이터기획"],
-      "q": ["서비스 기획"],
+      "terms": [
+        "기획",
+        "planner",
+        "서비스 매니저"
+      ],
+      "not_terms": [
+        "영업기획",
+        "영업 기획",
+        "경영기획",
+        "경영 기획",
+        "전략기획",
+        "전략 기획",
+        "사업기획",
+        "사업 기획",
+        "재무기획",
+        "인사기획",
+        "교육기획",
+        "상품기획",
+        "상품 기획",
+        "콘텐츠 기획",
+        "콘텐츠기획",
+        "게임 기획",
+        "게임기획",
+        "마케팅 기획",
+        "마케팅기획",
+        "행사 기획",
+        "데이터 기획",
+        "데이터기획"
+      ],
+      "q": [
+        "서비스 기획"
+      ],
       "en": []
     },
     {
       "id": "data_planner",
       "label": "데이터 기획",
-      "terms": ["데이터 기획", "데이터기획", "data pm", "데이터 pm", "data product", "데이터 프로덕트", "데이터 분석 기획"],
+      "terms": [
+        "데이터 기획",
+        "데이터기획",
+        "data pm",
+        "데이터 pm",
+        "data product",
+        "데이터 프로덕트",
+        "데이터 분석 기획"
+      ],
       "not_terms": [],
-      "q": ["데이터 기획"],
-      "en": ["data product manager"]
+      "q": [
+        "데이터 기획"
+      ],
+      "en": [
+        "data product manager"
+      ]
     },
     {
       "id": "product_design",
       "label": "프로덕트 디자인",
-      "terms": ["product designer", "프로덕트 디자이너", "프로덕트디자이너", "프로덕트 디자인", "서비스 디자이너", "서비스디자이너", "경험 디자이너"],
+      "terms": [
+        "product designer",
+        "프로덕트 디자이너",
+        "프로덕트디자이너",
+        "프로덕트 디자인",
+        "서비스 디자이너",
+        "서비스디자이너",
+        "경험 디자이너"
+      ],
       "not_terms": [],
-      "q": ["프로덕트 디자이너"],
-      "en": ["product designer"]
+      "q": [
+        "프로덕트 디자이너"
+      ],
+      "en": [
+        "product designer"
+      ]
     },
     {
       "id": "uiux",
       "label": "UI/UX 디자인",
-      "terms": ["ux", "ui", "uxui", "uiux", "ux/ui", "ui/ux", "ux 디자이너", "ui 디자이너", "ux designer", "ui designer", "웹디자이너", "웹 디자이너"],
-      "not_terms": ["개발자", "developer", "engineer", "엔지니어", "퍼블리셔", "퍼블리싱"],
-      "q": ["UI/UX 디자이너"],
-      "en": ["UX designer"]
+      "terms": [
+        "ux",
+        "ui",
+        "uxui",
+        "uiux",
+        "ux/ui",
+        "ui/ux",
+        "ux 디자이너",
+        "ui 디자이너",
+        "ux designer",
+        "ui designer",
+        "웹디자이너",
+        "웹 디자이너"
+      ],
+      "not_terms": [
+        "개발자",
+        "developer",
+        "engineer",
+        "엔지니어",
+        "퍼블리셔",
+        "퍼블리싱"
+      ],
+      "q": [
+        "UI/UX 디자이너"
+      ],
+      "en": [
+        "UX designer"
+      ]
     },
     {
       "id": "sales",
       "label": "영업",
-      "terms": ["영업", "sales", "세일즈", "account manager", "account executive", "어카운트 매니저", "business development", "사업개발", "사업 개발", "bd"],
-      "not_terms": ["영업관리 사무", "영업지원 사무"],
-      "q": ["B2B 영업", "기술영업"],
-      "en": ["account executive"]
+      "terms": [
+        "영업",
+        "sales",
+        "세일즈",
+        "account manager",
+        "account executive",
+        "어카운트 매니저",
+        "business development",
+        "사업개발",
+        "사업 개발",
+        "bd"
+      ],
+      "not_terms": [
+        "영업관리 사무",
+        "영업지원 사무"
+      ],
+      "q": [
+        "B2B 영업",
+        "기술영업"
+      ],
+      "en": [
+        "account executive"
+      ]
     }
   ],
   "domains": [
     {
       "id": "ai",
       "label": "AI/ML",
-      "terms": ["ai", "인공지능", "머신러닝", "machine learning", "ml", "딥러닝", "deep learning", "생성형", "genai", "gen ai"],
-      "q": ["AI"],
-      "en": ["AI"]
+      "terms": [
+        "ai",
+        "인공지능",
+        "머신러닝",
+        "machine learning",
+        "ml",
+        "딥러닝",
+        "deep learning",
+        "생성형",
+        "genai",
+        "gen ai"
+      ],
+      "q": [
+        "AI"
+      ],
+      "en": [
+        "AI"
+      ]
     },
     {
       "id": "llm",
       "label": "LLM/에이전트",
-      "terms": ["llm", "llmops", "에이전트", "agent", "rag", "챗봇", "chatbot", "생성형"],
-      "q": ["LLM", "에이전트"],
-      "en": ["LLM"]
+      "terms": [
+        "llm",
+        "llmops",
+        "에이전트",
+        "agent",
+        "rag",
+        "챗봇",
+        "chatbot",
+        "생성형"
+      ],
+      "q": [
+        "LLM",
+        "에이전트"
+      ],
+      "en": [
+        "LLM"
+      ]
     },
     {
       "id": "infra",
       "label": "MLOps/AI 인프라",
-      "terms": ["mlops", "ml ops", "aiops", "gpu", "ai 인프라", "인프라", "infra", "클라우드", "cloud", "npu", "kubernetes", "쿠버네티스", "ml platform", "ml 플랫폼", "데이터센터", "hpc"],
-      "q": ["MLOps", "GPU"],
-      "en": ["MLOps"]
+      "terms": [
+        "mlops",
+        "ml ops",
+        "aiops",
+        "gpu",
+        "ai 인프라",
+        "인프라",
+        "infra",
+        "클라우드",
+        "cloud",
+        "npu",
+        "kubernetes",
+        "쿠버네티스",
+        "ml platform",
+        "ml 플랫폼",
+        "데이터센터",
+        "hpc"
+      ],
+      "q": [
+        "MLOps",
+        "GPU"
+      ],
+      "en": [
+        "MLOps"
+      ]
     },
     {
       "id": "platform",
       "label": "B2B/SaaS",
-      "terms": ["b2b", "saas", "플랫폼", "platform", "솔루션", "solution"],
-      "q": ["B2B", "SaaS"],
-      "en": ["B2B SaaS"]
+      "terms": [
+        "b2b",
+        "saas",
+        "플랫폼",
+        "platform",
+        "솔루션",
+        "solution"
+      ],
+      "q": [
+        "B2B",
+        "SaaS"
+      ],
+      "en": [
+        "B2B SaaS"
+      ]
     },
     {
       "id": "data",
       "label": "데이터",
-      "terms": ["데이터", "data", "bi", "빅데이터", "analytics"],
-      "q": ["데이터"],
-      "en": ["data"]
+      "terms": [
+        "데이터",
+        "data",
+        "bi",
+        "빅데이터",
+        "analytics"
+      ],
+      "q": [
+        "데이터"
+      ],
+      "en": [
+        "data"
+      ]
     },
     {
       "id": "devex",
       "label": "개발자 플랫폼",
-      "terms": ["devex", "developer experience", "개발자 경험", "개발자 플랫폼", "developer platform", "개발자 도구", "developer tool", "api", "sdk", "devops", "ci/cd"],
-      "q": ["개발자 플랫폼"],
-      "en": ["developer experience"]
+      "terms": [
+        "devex",
+        "developer experience",
+        "개발자 경험",
+        "개발자 플랫폼",
+        "developer platform",
+        "개발자 도구",
+        "developer tool",
+        "api",
+        "sdk",
+        "devops",
+        "ci/cd"
+      ],
+      "q": [
+        "개발자 플랫폼"
+      ],
+      "en": [
+        "developer experience"
+      ]
     },
     {
       "id": "healthcare",
       "label": "헬스케어",
-      "terms": ["헬스케어", "healthcare", "의료", "메디컬", "medical", "디지털 헬스", "병원", "바이오"],
-      "q": ["헬스케어"],
-      "en": ["healthcare"]
+      "terms": [
+        "헬스케어",
+        "healthcare",
+        "의료",
+        "메디컬",
+        "medical",
+        "디지털 헬스",
+        "병원",
+        "바이오"
+      ],
+      "q": [
+        "헬스케어"
+      ],
+      "en": [
+        "healthcare"
+      ]
     },
     {
       "id": "fintech",
       "label": "핀테크/금융",
-      "terms": ["핀테크", "fintech", "금융", "결제", "보험", "증권", "은행", "페이", "자산"],
-      "q": ["핀테크", "금융"],
-      "en": ["fintech"]
+      "terms": [
+        "핀테크",
+        "fintech",
+        "금융",
+        "결제",
+        "보험",
+        "증권",
+        "은행",
+        "페이",
+        "자산"
+      ],
+      "q": [
+        "핀테크",
+        "금융"
+      ],
+      "en": [
+        "fintech"
+      ]
     },
     {
       "id": "commerce",
       "label": "커머스",
-      "terms": ["커머스", "이커머스", "e-commerce", "commerce", "쇼핑", "리테일", "retail"],
-      "q": ["커머스"],
-      "en": ["e-commerce"]
+      "terms": [
+        "커머스",
+        "이커머스",
+        "e-commerce",
+        "commerce",
+        "쇼핑",
+        "리테일",
+        "retail"
+      ],
+      "q": [
+        "커머스"
+      ],
+      "en": [
+        "e-commerce"
+      ]
     },
     {
       "id": "mobility",
       "label": "모빌리티/물류",
-      "terms": ["모빌리티", "mobility", "자율주행", "물류", "logistics"],
-      "q": ["모빌리티"],
-      "en": ["mobility"]
+      "terms": [
+        "모빌리티",
+        "mobility",
+        "자율주행",
+        "물류",
+        "logistics"
+      ],
+      "q": [
+        "모빌리티"
+      ],
+      "en": [
+        "mobility"
+      ]
     },
     {
       "id": "proptech",
       "label": "프롭테크/공간",
-      "terms": ["프롭테크", "proptech", "디지털 트윈", "디지털트윈", "스마트시티", "스마트빌딩", "스마트 빌딩", "부동산", "건설"],
-      "q": ["프롭테크", "디지털 트윈"],
-      "en": ["proptech"]
+      "terms": [
+        "프롭테크",
+        "proptech",
+        "디지털 트윈",
+        "디지털트윈",
+        "스마트시티",
+        "스마트빌딩",
+        "스마트 빌딩",
+        "부동산",
+        "건설"
+      ],
+      "q": [
+        "프롭테크",
+        "디지털 트윈"
+      ],
+      "en": [
+        "proptech"
+      ]
     },
     {
       "id": "edu",
       "label": "에듀테크",
-      "terms": ["에듀테크", "edtech", "교육 플랫폼", "이러닝", "e-learning"],
-      "q": ["에듀테크"],
-      "en": ["edtech"]
+      "terms": [
+        "에듀테크",
+        "edtech",
+        "교육 플랫폼",
+        "이러닝",
+        "e-learning"
+      ],
+      "q": [
+        "에듀테크"
+      ],
+      "en": [
+        "edtech"
+      ]
     },
     {
       "id": "game",
       "label": "게임",
-      "terms": ["게임", "game"],
-      "q": ["게임"],
-      "en": ["game"]
+      "terms": [
+        "게임",
+        "game"
+      ],
+      "q": [
+        "게임"
+      ],
+      "en": [
+        "game"
+      ]
     },
     {
       "id": "content",
       "label": "콘텐츠/미디어",
-      "terms": ["콘텐츠", "미디어", "media", "웹툰", "엔터"],
-      "q": ["콘텐츠"],
-      "en": ["media"]
+      "terms": [
+        "콘텐츠",
+        "미디어",
+        "media",
+        "웹툰",
+        "엔터"
+      ],
+      "q": [
+        "콘텐츠"
+      ],
+      "en": [
+        "media"
+      ]
     }
   ],
-  "hard_exclude": ["강사", "교육생", "수강생", "국비", "부트캠프 모집"]
+  "hard_exclude": [
+    "강사",
+    "교육생",
+    "수강생",
+    "국비",
+    "부트캠프 모집"
+  ]
 }

@@ -6,7 +6,6 @@ import { useRouter } from "next/navigation";
 import { Lock, Plus, Trash2 } from "lucide-react";
 
 import { PasswordDialog } from "@/components/rooms/password-dialog";
-import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import {
@@ -25,7 +24,6 @@ import {
   markUnlocked,
   roomHit,
   roomKnownToData,
-  roomSummary,
   useRooms,
   type Room,
 } from "@/lib/rooms";
@@ -88,7 +86,6 @@ export default function LobbyPage() {
       ) : (
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {rooms.map((room) => {
-            const { roles, domains } = roomSummary(room);
             const locked = !isUnlocked(room);
             return (
               <Card key={room.id} className="cursor-pointer transition-colors hover:bg-muted/40" onClick={() => enter(room)}>
@@ -119,19 +116,6 @@ export default function LobbyPage() {
                       <Trash2 className="size-4" />
                     </Button>
                   </div>
-                  {!locked && (
-                    <div className="flex flex-wrap gap-1">
-                      {roles.map((r) => (
-                        <Badge key={r} variant="default">{r}</Badge>
-                      ))}
-                      {domains.map((d) => (
-                        <Badge key={d} variant="secondary">{d}</Badge>
-                      ))}
-                      {room.keywords.map((k) => (
-                        <Badge key={k} variant="outline">{k}</Badge>
-                      ))}
-                    </div>
-                  )}
                   <div className="text-xs text-muted-foreground">{room.created_at} 생성</div>
                 </CardContent>
               </Card>
