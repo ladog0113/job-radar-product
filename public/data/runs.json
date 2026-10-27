@@ -1001,5 +1001,104 @@
    "error": null
   },
   "finished_at": "2026-10-27T21:39:07+09:00"
+ },
+ {
+  "started_at": "2026-10-27T22:17:02+09:00",
+  "sources": [
+   {
+    "source": "wanted",
+    "label": "원티드",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "saramin",
+    "label": "사람인",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   },
+   {
+    "source": "jobkorea",
+    "label": "잡코리아",
+    "fetched": 242,
+    "matched": 21,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "jobplanet",
+    "label": "잡플래닛",
+    "fetched": 9,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "jasoseol",
+    "label": "자소설닷컴",
+    "fetched": 20,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "remember",
+    "label": "리멤버",
+    "fetched": 490,
+    "matched": 28,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "catch",
+    "label": "캐치",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "linkedin",
+    "label": "링크드인",
+    "fetched": 31,
+    "matched": 2,
+    "new": 0,
+    "error": null
+   }
+  ],
+  "rooms": 1,
+  "queries": [
+   "AI 플랫폼",
+   "AI PM",
+   "LLM PM",
+   "MLOps PM",
+   "AI PO",
+   "LLM PO",
+   "MLOps PO",
+   "AI 서비스 기획",
+   "LLM 서비스 기획",
+   "MLOps 서비스 기획",
+   "에이전트 PM",
+   "GPU PM",
+   "에이전트 PO",
+   "GPU PO",
+   "에이전트 서비스 기획",
+   "GPU 서비스 기획"
+  ],
+  "details": {
+   "tried": 0,
+   "saved": 0
+  },
+  "jobplanet": {
+   "looked": 100,
+   "found": 81,
+   "failed": 0,
+   "error": null
+  },
+  "finished_at": "2026-10-27T23:05:33+09:00"
  }
 ]
