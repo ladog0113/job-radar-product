@@ -1338,5 +1338,124 @@
    "error": null
   },
   "finished_at": "2026-10-28T10:03:46+09:00"
+ },
+ {
+  "started_at": "2026-10-29T10:25:03+09:00",
+  "sources": [
+   {
+    "source": "wanted",
+    "label": "원티드",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "saramin",
+    "label": "사람인",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded with url: /zf_user/search/recruit?searchword=MLOps%20UI/UX%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&recruitSort=reg_dt&recruitPageCount=40 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.saramin.co."
+   },
+   {
+    "source": "jobkorea",
+    "label": "잡코리아",
+    "fetched": 553,
+    "matched": 76,
+    "new": 20,
+    "error": null
+   },
+   {
+    "source": "jobplanet",
+    "label": "잡플래닛",
+    "fetched": 3,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "jasoseol",
+    "label": "자소설닷컴",
+    "fetched": 20,
+    "matched": 2,
+    "new": 2,
+    "error": null
+   },
+   {
+    "source": "remember",
+    "label": "리멤버",
+    "fetched": 728,
+    "matched": 157,
+    "new": 29,
+    "error": null
+   },
+   {
+    "source": "catch",
+    "label": "캐치",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "linkedin",
+    "label": "링크드인",
+    "fetched": 118,
+    "matched": 19,
+    "new": 19,
+    "error": null
+   }
+  ],
+  "rooms": 4,
+  "queries": [
+   "MLOps UI/UX 디자이너",
+   "모빌리티 PM",
+   "개발자 플랫폼 백엔드 개발자",
+   "LLM 서비스 기획",
+   "LLM UI/UX 디자이너",
+   "프롭테크 PM",
+   "헬스케어 백엔드 개발자",
+   "MLOps 서비스 기획",
+   "AI UI/UX 디자이너",
+   "콘텐츠 백엔드 개발자",
+   "에이전트 PM",
+   "데이터 UI/UX 디자이너",
+   "게임 백엔드 개발자",
+   "GPU PM",
+   "개발자 플랫폼 UI/UX 디자이너",
+   "에듀테크 백엔드 개발자",
+   "에이전트 PO",
+   "헬스케어 UI/UX 디자이너",
+   "B2B PO",
+   "프롭테크 백엔드 개발자",
+   "GPU PO",
+   "핀테크 UI/UX 디자이너",
+   "모빌리티 PO",
+   "커머스 백엔드 개발자",
+   "에이전트 서비스 기획",
+   "커머스 프로덕트 디자이너",
+   "프롭테크 PO",
+   "AI 프론트엔드 개발자",
+   "GPU 서비스 기획",
+   "모빌리티 프로덕트 디자이너",
+   "AI PL",
+   "LLM 프론트엔드 개발자",
+   "AI 플랫폼",
+   "커머스 UI/UX 디자이너",
+   "수처리",
+   "AI 백엔드 개발자"
+  ],
+  "details": {
+   "tried": 60,
+   "saved": 60
+  },
+  "jobplanet": {
+   "looked": 95,
+   "found": 59,
+   "failed": 1,
+   "error": "RuntimeError: HTTP 403"
+  },
+  "finished_at": "2026-10-29T11:50:32+09:00"
  }
 ]
