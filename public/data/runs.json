@@ -1457,5 +1457,124 @@
    "error": "RuntimeError: HTTP 403"
   },
   "finished_at": "2026-10-29T11:50:32+09:00"
+ },
+ {
+  "started_at": "2026-10-30T10:26:56+09:00",
+  "sources": [
+   {
+    "source": "wanted",
+    "label": "원티드",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "saramin",
+    "label": "사람인",
+    "fetched": 816,
+    "matched": 136,
+    "new": 65,
+    "error": null
+   },
+   {
+    "source": "jobkorea",
+    "label": "잡코리아",
+    "fetched": 549,
+    "matched": 78,
+    "new": 13,
+    "error": null
+   },
+   {
+    "source": "jobplanet",
+    "label": "잡플래닛",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "jasoseol",
+    "label": "자소설닷컴",
+    "fetched": 20,
+    "matched": 0,
+    "new": 0,
+    "error": null
+   },
+   {
+    "source": "remember",
+    "label": "리멤버",
+    "fetched": 985,
+    "matched": 238,
+    "new": 20,
+    "error": null
+   },
+   {
+    "source": "catch",
+    "label": "캐치",
+    "fetched": 0,
+    "matched": 0,
+    "new": 0,
+    "error": "0건 수집: 검색 주소나 링크 패턴이 바뀌었을 수 있음"
+   },
+   {
+    "source": "linkedin",
+    "label": "링크드인",
+    "fetched": 97,
+    "matched": 15,
+    "new": 8,
+    "error": null
+   }
+  ],
+  "rooms": 4,
+  "queries": [
+   "AI PM",
+   "모빌리티 UI/UX 디자이너",
+   "항공우주",
+   "LLM 백엔드 개발자",
+   "LLM PM",
+   "프롭테크 UI/UX 디자이너",
+   "방산",
+   "MLOps 백엔드 개발자",
+   "MLOps PM",
+   "에듀테크 UI/UX 디자이너",
+   "B2B 백엔드 개발자",
+   "AI PO",
+   "게임 UI/UX 디자이너",
+   "데이터 백엔드 개발자",
+   "LLM PO",
+   "콘텐츠 UI/UX 디자이너",
+   "모빌리티 백엔드 개발자",
+   "MLOps PO",
+   "B2B UI/UX 디자이너",
+   "B2B PM",
+   "핀테크 백엔드 개발자",
+   "AI 서비스 기획",
+   "MLOps UI/UX 디자이너",
+   "모빌리티 PM",
+   "개발자 플랫폼 백엔드 개발자",
+   "LLM 서비스 기획",
+   "LLM UI/UX 디자이너",
+   "프롭테크 PM",
+   "헬스케어 백엔드 개발자",
+   "MLOps 서비스 기획",
+   "AI UI/UX 디자이너",
+   "콘텐츠 백엔드 개발자",
+   "에이전트 PM",
+   "데이터 UI/UX 디자이너",
+   "게임 백엔드 개발자",
+   "GPU PM"
+  ],
+  "details": {
+   "tried": 60,
+   "saved": 59
+  },
+  "jobplanet": {
+   "looked": 56,
+   "found": 44,
+   "failed": 0,
+   "error": null
+  },
+  "finished_at": "2026-10-30T11:42:49+09:00"
  }
 ]
