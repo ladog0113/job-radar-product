@@ -1,5 +1,362 @@
 [
  {
+  "id": "jobkorea:50168267",
+  "source": "jobkorea",
+  "title": "Global Technical PM - AI Cloud Platform",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력5년↑ 10",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50168267?PageGbn=HH&logpath=1&stext=MLOps+PM&listno=14&sc=630",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML",
+     "MLOps/AI 인프라"
+    ],
+    "score": 80
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS",
+     "MLOps/AI 인프라",
+     "AI/ML"
+    ],
+    "score": 90
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "MLOps/AI 인프라",
+     "B2B/SaaS"
+    ],
+    "score": 90
+   }
+  },
+  "queries": [
+   "MLOps PM"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 90,
+  "company_key": "스크랩",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50259100",
+  "source": "jobkorea",
+  "title": "자율주행 AI 데이터 구축 PM 채용",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력5년↑ 10",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50259100?PageGbn=HH&logpath=1&stext=MLOps+PM&listno=15&sc=630",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "모빌리티/물류",
+     "AI/ML",
+     "데이터"
+    ],
+    "score": 90
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "모빌리티/물류"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "MLOps PM"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 90,
+  "company_key": "스크랩",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4475134196",
+  "source": "linkedin",
+  "title": "Platform Product Owner (Data & AI)",
+  "company": "Toss",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4475134196/",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS",
+     "AI/ML",
+     "데이터"
+    ],
+    "score": 90
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "B2B/SaaS"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "AI product owner",
+   "MLOps product owner"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 90,
+  "company_key": "toss",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50135447",
+  "source": "jobkorea",
+  "title": "AI 학습 플랫폼 - 프론트엔드 엔지니어 / Mid-Senior (재택근무 가능)",
+  "company": "재택/원격근무 가능",
+  "location": "",
+  "career": "경력3년↑ ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50135447?Oem_Code=C1&logpath=1&stext=AI+PO&listno=3&sc=630",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "AI/ML",
+     "B2B/SaaS"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "AI PO"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 80,
+  "company_key": "재택/원격근무가능",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4429361058",
+  "source": "linkedin",
+  "title": "데이터 프로덕트 매니저 (AI) (Data Product Manager)",
+  "company": "Toss",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4429361058/",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "AI/ML",
+     "데이터"
+    ],
+    "score": 80
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI product manager",
+   "LLM product manager",
+   "LLM product owner",
+   "MLOps product manager",
+   "MLOps product owner"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 80,
+  "company_key": "toss",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:49712345",
+  "source": "jobkorea",
+  "title": "AI R&D Technical PM",
+  "company": "오늘 마감! 놓치지 마세요!",
+  "location": "",
+  "career": "경력5년↑ 08",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49712345?PageGbn=HH&logpath=1&stext=MLOps+PM&listno=16&sc=630",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "MLOps PM"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "오늘마감!놓치지마세요!",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50277582",
+  "source": "jobkorea",
+  "title": "B2B 웹오더(주문판매) 시스템 구축 - 풀스택 고급 1명",
+  "company": "스크랩",
+  "location": "",
+  "career": "경력9년↑ 10",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50277582?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=5&sc=630",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 9,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "스크랩",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:49989491",
+  "source": "jobkorea",
+  "title": "[프리랜서, 재택근무] 게임 UI/UX 캡처 담당자 채용",
+  "company": "재택/원격근무 가능",
+  "location": "",
+  "career": "경력무관 ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49989491?Oem_Code=C1&logpath=1&stext=%EA%B2%8C%EC%9E%84+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "게임"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "게임 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "재택/원격근무가능",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4476312491",
+  "source": "linkedin",
+  "title": "Product Manager - Contact Center Platform (고객센터)",
+  "company": "CJ OLIVE YOUNG",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4476312491/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI product manager",
+   "AI product owner",
+   "LLM product manager",
+   "LLM product owner"
+  ],
+  "first_seen": "2026-11-02",
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "cjoliveyoung",
+  "stale": false
+ },
+ {
   "id": "saramin:55438498",
   "source": "saramin",
   "title": "금융사 AI Agent 구축의 기획자를 모십니다 (부산, 프리랜서)",
@@ -1484,7 +1841,7 @@
    "B2B UI/UX 디자이너"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -1501,7 +1858,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50128036?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PM&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50128036?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PM&listno=17&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -1514,7 +1871,7 @@
    "프롭테크 PM"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -2076,7 +2433,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -2429,6 +2786,7 @@
    }
   },
   "queries": [
+   "e-commerce full stack engineer",
    "edtech frontend engineer",
    "fintech frontend engineer",
    "game frontend engineer",
@@ -2440,7 +2798,7 @@
    "proptech frontend engineer"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -2512,7 +2870,7 @@
    "GPU 서비스 기획"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -2529,7 +2887,7 @@
   "location": "",
   "career": "경력10년↑ 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116776?Oem_Code=C1&logpath=1&stext=%EC%88%98%EC%B2%98%EB%A6%AC&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116776?Oem_Code=C1&logpath=1&stext=%EC%88%98%EC%B2%98%EB%A6%AC&listno=18&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -2550,7 +2908,7 @@
    "수처리"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -3612,13 +3970,14 @@
    "data full stack engineer",
    "developer experience frontend engineer",
    "developer experience full stack engineer",
+   "e-commerce full stack engineer",
    "fintech frontend engineer",
    "fintech full stack engineer",
    "media frontend engineer",
    "media full stack engineer"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -3803,7 +4162,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50268507?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50268507?Oem_Code=C1&logpath=1&stext=AI+PO&listno=6&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -3837,7 +4196,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -6428,7 +6787,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": true,
@@ -6470,7 +6829,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": 5,
   "career_any": false,
@@ -6486,7 +6845,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263643?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PM&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263643?Oem_Code=C1&logpath=1&stext=AI+PL&listno=5&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -6516,9 +6875,9 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
-  "career_min": null,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 3,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -6533,7 +6892,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263415?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PM&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263415?Oem_Code=C1&logpath=1&stext=AI+PL&listno=6&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -6563,9 +6922,9 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
-  "career_min": null,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 1,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -6602,11 +6961,13 @@
    }
   },
   "queries": [
-   "모빌리티 UI/UX 디자이너"
+   "AI 서비스 기획",
+   "모빌리티 UI/UX 디자이너",
+   "모빌리티 프로덕트 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": 0,
   "career_max": 1,
   "career_any": false,
@@ -6622,7 +6983,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260491?Oem_Code=C1&logpath=1&stext=B2B+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260491?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=2&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -6649,8 +7010,8 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -6666,7 +7027,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50266393?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50266393?Oem_Code=C1&logpath=1&stext=AI+PO&listno=7&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -6693,9 +7054,9 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
-  "career_min": null,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 1,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -6724,7 +7085,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 4,
   "career_max": null,
   "career_any": false,
@@ -6753,8 +7114,8 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": 5,
   "career_max": null,
   "career_any": false,
@@ -6795,8 +7156,8 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -6832,7 +7193,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": true,
@@ -6868,7 +7229,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": true,
@@ -6914,7 +7275,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -6953,7 +7314,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-31",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 8,
   "career_max": null,
   "career_any": false,
@@ -6985,7 +7346,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7017,7 +7378,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 2,
   "career_max": null,
   "career_any": false,
@@ -7049,7 +7410,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7081,7 +7442,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 10,
   "career_max": null,
   "career_any": false,
@@ -7113,7 +7474,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7145,7 +7506,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7181,7 +7542,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 4,
   "career_max": null,
   "career_any": false,
@@ -7211,7 +7572,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 5,
   "career_max": null,
   "career_any": false,
@@ -7241,7 +7602,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -7271,7 +7632,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 10,
   "career_max": null,
   "career_any": false,
@@ -7301,7 +7662,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 7,
   "career_max": null,
   "career_any": false,
@@ -7332,7 +7693,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-10-31",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 5,
   "career_max": null,
   "career_any": false,
@@ -7359,12 +7720,13 @@
   },
   "queries": [
    "e-commerce backend engineer",
+   "e-commerce full stack engineer",
    "healthcare backend engineer",
    "media backend engineer",
    "proptech backend engineer"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -7400,8 +7762,8 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
-  "career_min": null,
+  "has_detail": true,
+  "career_min": 10,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -7434,7 +7796,7 @@
   ],
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7473,6 +7835,7 @@
    "developer experience frontend engineer",
    "developer experience full stack engineer",
    "e-commerce frontend engineer",
+   "e-commerce full stack engineer",
    "edtech frontend engineer",
    "fintech full stack engineer",
    "healthcare frontend engineer",
@@ -7483,8 +7846,8 @@
    "proptech frontend engineer"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -7748,7 +8111,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -8244,7 +8607,7 @@
   "location": "",
   "career": "경력무관 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034227?Oem_Code=C1&logpath=1&stext=AI+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=7&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034227?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -8258,7 +8621,7 @@
    "AI 프론트엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -8305,7 +8668,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50230463?Oem_Code=C1&logpath=1&stext=AI+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50230463?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=12&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -8319,7 +8682,7 @@
    "AI 프론트엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -8366,7 +8729,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041280?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041280?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=8&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -8379,7 +8742,7 @@
    "LLM 프론트엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -8396,7 +8759,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50158522?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50158522?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -8409,7 +8772,7 @@
    "LLM 프론트엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -8440,7 +8803,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -8487,7 +8850,7 @@
   "location": "",
   "career": "경력무관 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49951171?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49951171?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=11&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -8500,7 +8863,7 @@
    "AI 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -8517,7 +8880,7 @@
   "location": "",
   "career": "경력7년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50178569?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50178569?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -8530,7 +8893,7 @@
    "AI 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -9689,7 +10052,7 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -9752,7 +10115,7 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -9782,8 +10145,8 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-29",
-  "has_detail": false,
-  "career_min": null,
+  "has_detail": true,
+  "career_min": 1,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -9812,7 +10175,7 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-29",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -9843,8 +10206,8 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-30",
-  "has_detail": false,
-  "career_min": null,
+  "has_detail": true,
+  "career_min": 5,
   "career_max": null,
   "career_any": false,
   "score": 70,
@@ -9873,7 +10236,7 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-29",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -9901,6 +10264,7 @@
   "queries": [
    "AI frontend engineer",
    "AI full stack engineer",
+   "AI product manager",
    "B2B SaaS full stack engineer",
    "LLM frontend engineer",
    "LLM full stack engineer",
@@ -9910,6 +10274,7 @@
    "data full stack engineer",
    "developer experience frontend engineer",
    "developer experience full stack engineer",
+   "e-commerce full stack engineer",
    "fintech backend engineer",
    "fintech frontend engineer",
    "fintech full stack engineer",
@@ -9918,8 +10283,8 @@
    "mobility full stack engineer"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -9949,7 +10314,7 @@
   ],
   "first_seen": "2026-10-29",
   "last_seen": "2026-10-29",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -10049,7 +10414,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -10163,7 +10528,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -10196,7 +10561,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 2,
   "career_max": 5,
   "career_any": false,
@@ -10228,7 +10593,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": 9,
   "career_any": false,
@@ -10244,7 +10609,7 @@
   "location": "",
   "career": "경력 7년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212440?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212440?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=19&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -10256,11 +10621,12 @@
    }
   },
   "queries": [
+   "AI 백엔드 개발자",
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
-  "has_detail": false,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
   "career_min": 7,
   "career_max": null,
   "career_any": false,
@@ -10276,7 +10642,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=6&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -10293,9 +10659,9 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
-  "has_detail": false,
-  "career_min": null,
+  "last_seen": "2026-11-02",
+  "has_detail": true,
+  "career_min": 1,
   "career_max": null,
   "career_any": false,
   "score": 90,
@@ -10336,7 +10702,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -10377,7 +10743,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -10810,7 +11176,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50154302?Oem_Code=C1&logpath=1&stext=%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50154302?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=1&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -10825,7 +11191,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -10842,7 +11208,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50244679?Oem_Code=C1&logpath=1&stext=%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50244679?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=16&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -10865,7 +11231,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -10945,7 +11311,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208574?Oem_Code=C1&logpath=1&stext=AI+PL&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208574?Oem_Code=C1&logpath=1&stext=AI+PL&listno=9&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -10966,7 +11332,7 @@
    "AI PL"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -10983,7 +11349,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208510?Oem_Code=C1&logpath=1&stext=AI+PL&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208510?Oem_Code=C1&logpath=1&stext=AI+PL&listno=10&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -11004,7 +11370,7 @@
    "AI PL"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -11021,7 +11387,7 @@
   "location": "",
   "career": "경력무관",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152983?Oem_Code=C1&logpath=1&stext=AI+PM&listno=2&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152983?Oem_Code=C1&logpath=1&stext=AI+PM&listno=1&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -11042,7 +11408,7 @@
    "AI PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -11059,7 +11425,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50206406?Oem_Code=C1&logpath=1&stext=MLOps+PM&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50206406?Oem_Code=C1&logpath=1&stext=MLOps+PM&listno=4&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -11073,7 +11439,7 @@
    "MLOps PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -11122,7 +11488,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208879?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50208879?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=17&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -11136,7 +11502,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11532,7 +11898,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-01",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 5,
   "career_max": null,
   "career_any": false,
@@ -11563,7 +11929,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-10-30",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": 10,
   "career_any": false,
@@ -11607,7 +11973,7 @@
   ],
   "first_seen": "2026-10-28",
   "last_seen": "2026-10-28",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 7,
   "career_max": null,
   "career_any": false,
@@ -12003,7 +12369,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50250437?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50250437?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=4&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -12018,7 +12384,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -12049,7 +12415,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -12081,7 +12447,7 @@
    "게임 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 7,
   "career_max": null,
@@ -12098,7 +12464,7 @@
   "location": "",
   "career": "경력4년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50170779?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50170779?Oem_Code=C1&logpath=1&stext=AI+%ED%94%8C%EB%9E%AB%ED%8F%BC&listno=20&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -12114,7 +12480,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -12145,7 +12511,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -12162,7 +12528,7 @@
   "location": "",
   "career": "경력4년↑ ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152713?Oem_Code=C1&logpath=1&stext=LLM+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152713?Oem_Code=C1&logpath=1&stext=AI+%ED%94%8C%EB%9E%AB%ED%8F%BC&listno=17&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -12178,7 +12544,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -12226,7 +12592,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50155037?Oem_Code=C1&logpath=1&stext=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50155037?Oem_Code=C1&logpath=1&stext=AI+PO&listno=2&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -12237,11 +12603,12 @@
    }
   },
   "queries": [
+   "AI PO",
    "에듀테크 백엔드 개발자",
    "프롭테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -12734,7 +13101,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -14452,7 +14819,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -14469,7 +14836,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50238265?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50238265?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=9&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14495,7 +14862,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -14821,7 +15188,7 @@
   "location": "",
   "career": "경력10년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50223587?Oem_Code=C1&logpath=1&stext=AI+PL&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50223587?Oem_Code=C1&logpath=1&stext=AI+PL&listno=11&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14840,7 +15207,7 @@
    "AI PL"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -14857,7 +15224,7 @@
   "location": "",
   "career": "경력 1",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175692?Oem_Code=C1&logpath=1&stext=AI+PL&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175692?Oem_Code=C1&logpath=1&stext=AI+PL&listno=15&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -14882,7 +15249,7 @@
    "AI PL"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -14899,7 +15266,7 @@
   "location": "",
   "career": "경력무관 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50164348?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50164348?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=7&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14914,7 +15281,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -14931,7 +15298,7 @@
   "location": "",
   "career": "경력5년↑ 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50027118?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50027118?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14944,7 +15311,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -14961,7 +15328,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50236466?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=10&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50236466?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -14987,7 +15354,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -15004,7 +15371,7 @@
   "location": "",
   "career": "경력7년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50141810?Oem_Code=C1&logpath=1&stext=MLOps+PM&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50141810?Oem_Code=C1&logpath=1&stext=MLOps+PM&listno=7&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -15023,7 +15390,7 @@
    "MLOps PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -15053,7 +15420,7 @@
    "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
@@ -15100,7 +15467,7 @@
   "location": "",
   "career": "4년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50099201?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50099201?Oem_Code=C1&logpath=1&stext=%EA%B2%8C%EC%9E%84+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -15116,7 +15483,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
@@ -15133,7 +15500,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191470?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50191470?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -15146,7 +15513,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -15163,7 +15530,7 @@
   "location": "",
   "career": "경력 5년이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50206865?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50206865?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -15176,7 +15543,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -15212,7 +15579,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -15255,7 +15622,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -15272,7 +15639,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062801?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062801?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=14&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -15285,7 +15652,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -15315,7 +15682,7 @@
    "모빌리티 PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -15357,7 +15724,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -21156,7 +21523,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -21173,7 +21540,7 @@
   "location": "",
   "career": "경력5년↑ 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49986387?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=7&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49986387?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -21186,7 +21553,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -21203,7 +21570,7 @@
   "location": "",
   "career": "경력7년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214181?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=8&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214181?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=7&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -21216,7 +21583,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 7,
   "career_max": null,
@@ -21246,7 +21613,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -21263,7 +21630,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50186778?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50186778?Oem_Code=C1&logpath=1&stext=LLM+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=19&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -21274,10 +21641,11 @@
   },
   "queries": [
    "LLM 백엔드 개발자",
+   "MLOps 백엔드 개발자",
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -21307,7 +21675,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 0,
   "career_max": 1,
@@ -21367,7 +21735,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -21397,7 +21765,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 2,
   "career_max": null,
@@ -21457,7 +21825,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -22925,7 +23293,7 @@
   "location": "",
   "career": "경력8년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116200?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116200?Oem_Code=C1&logpath=1&stext=LLM+PM&listno=4&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -22954,7 +23322,7 @@
    "LLM PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -23506,7 +23874,7 @@
    "MLOps product owner"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-28",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -24120,7 +24488,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032860?Oem_Code=C1&logpath=1&stext=AI+PL&listno=20&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032860?Oem_Code=C1&logpath=1&stext=AI+PL&listno=18&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -24146,7 +24514,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -24230,7 +24598,7 @@
    "GPU 서비스 기획"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -27395,7 +27763,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -27832,7 +28200,7 @@
   "location": "",
   "career": "경력 3년 이상",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229970?Oem_Code=C1&logpath=1&stext=AI+PL&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229970?Oem_Code=C1&logpath=1&stext=AI+PL&listno=13&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -27860,7 +28228,7 @@
    "LLM PM"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -27877,7 +28245,7 @@
   "location": "",
   "career": "경력무관 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50215671?Oem_Code=C1&logpath=1&stext=AI+PO&listno=8&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50215671?Oem_Code=C1&logpath=1&stext=AI+PO&listno=10&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -27902,7 +28270,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -29566,7 +29934,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -30965,7 +31333,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50213268?Oem_Code=C1&logpath=1&stext=AI+PO&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50213268?Oem_Code=C1&logpath=1&stext=AI+PO&listno=1&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -30993,7 +31361,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -35328,7 +35696,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -35398,7 +35766,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167171?Oem_Code=C1&logpath=1&stext=AI+PL&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50167171?Oem_Code=C1&logpath=1&stext=AI+PL&listno=8&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -35429,7 +35797,7 @@
    "MLOps PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -35763,7 +36131,7 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -35949,7 +36317,7 @@
    "TPM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -37215,7 +37583,7 @@
   "location": "",
   "career": "경력",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49980003?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PM&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49980003?Oem_Code=C1&logpath=1&stext=AI+PO&listno=8&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -37242,7 +37610,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -37301,7 +37669,7 @@
   "location": "",
   "career": "경력 3년 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50118738?Oem_Code=C1&logpath=1&stext=AI+PO&listno=7&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50118738?Oem_Code=C1&logpath=1&stext=AI+PO&listno=9&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -37326,7 +37694,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -37343,7 +37711,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050337?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PO&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050337?Oem_Code=C1&logpath=1&stext=AI+PO&listno=11&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -37366,10 +37734,11 @@
   },
   "queries": [
    "AI PO",
-   "에이전트 PO"
+   "에이전트 PO",
+   "프롭테크 PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -37386,7 +37755,7 @@
   "location": "",
   "career": "경력 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041171?Oem_Code=C1&logpath=1&stext=AI+PL&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041171?Oem_Code=C1&logpath=1&stext=AI+PL&listno=17&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -37412,7 +37781,7 @@
    "AI PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -39017,7 +39386,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
