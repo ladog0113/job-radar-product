@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ArrowLeft, ExternalLink } from "lucide-react";
 
+import { RefJob } from "@/components/ref/ref-job";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -42,16 +43,24 @@ import {
 } from "@/lib/data";
 import { loadLocal, loadSettings, saveLocal, type Settings } from "@/lib/llm";
 import { isUnlocked, useRooms, type Room } from "@/lib/rooms";
+import { useUiMode } from "@/lib/ui-mode";
 
 export default function JobPage() {
   return (
     <Suspense fallback={<div className="text-sm text-muted-foreground">불러오는 중</div>}>
-      <JobDetail />
+      <JobSwitch />
     </Suspense>
   );
 }
 
 const base = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
+function JobSwitch() {
+  const params = useSearchParams();
+  const { mode } = useUiMode();
+  if (mode === "ref") return <RefJob id={params.get("id") ?? ""} roomId={params.get("room") ?? ""} />;
+  return <JobDetail />;
+}
 
 function JobDetail() {
   const params = useSearchParams();

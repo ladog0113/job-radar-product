@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 
+import { RefBackLink, RefRoom } from "@/components/ref/ref-room";
 import { PasswordDialog } from "@/components/rooms/password-dialog";
 
 import { Badge } from "@/components/ui/badge";
@@ -56,6 +57,7 @@ import {
   type Room,
   type RoomHit,
 } from "@/lib/rooms";
+import { useUiMode } from "@/lib/ui-mode";
 
 const PERIODS: Record<string, number | null> = {
   today: 0,
@@ -97,6 +99,8 @@ function RoomGate() {
   const { rooms, loading, error } = useRooms();
   const room = rooms.find((r) => r.id === id);
   const [unlocked, setUnlocked] = useState(false);
+  const { mode } = useUiMode();
+  const ref = mode === "ref";
   useEffect(() => {
     if (room) setUnlocked(isUnlocked(room));
   }, [room]);
@@ -106,17 +110,17 @@ function RoomGate() {
   if (!room)
     return (
       <div className="flex flex-col gap-3">
-        <BackLink />
-        <div className="text-sm text-muted-foreground">방을 찾을 수 없습니다. 삭제된 방일 수 있습니다.</div>
+        {ref ? <RefBackLink /> : <BackLink />}
+        <div className="text-sm text-muted-foreground">{ref ? "Not found" : "방을 찾을 수 없습니다. 삭제된 방일 수 있습니다."}</div>
       </div>
     );
   if (!unlocked)
     return (
       <>
-        <BackLink />
+        {ref ? <RefBackLink /> : <BackLink />}
         <PasswordDialog
           room={room}
-          title={`${room.name} 잠금 해제`}
+          title={ref ? room.name : `${room.name} 잠금 해제`}
           open
           onOpenChange={(v) => !v && router.push("/")}
           onOk={() => {
@@ -126,7 +130,7 @@ function RoomGate() {
         />
       </>
     );
-  return <JobsPage room={room} />;
+  return ref ? <RefRoom room={room} /> : <JobsPage room={room} />;
 }
 
 function BackLink() {

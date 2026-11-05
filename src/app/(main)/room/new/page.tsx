@@ -12,10 +12,13 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { careerLabel, todayKST } from "@/lib/data";
 import { ROOM_ICONS, RoomAvatar } from "@/lib/room-icons";
+import { useUiMode } from "@/lib/ui-mode";
 import { PRESETS, addRoom, hashPassword, loadGh, markUnlocked, newSalt, type Room } from "@/lib/rooms";
 
 export default function NewRoomPage() {
   const router = useRouter();
+  const ref = useUiMode().mode === "ref";
+  const L = (ko: string, en: string) => (ref ? en : ko);
   const [hasToken, setHasToken] = useState(true);
   const [name, setName] = useState("");
   const [icon, setIcon] = useState("briefcase");
@@ -83,7 +86,7 @@ export default function NewRoomPage() {
 
   return (
     <div className="flex max-w-3xl flex-col gap-4">
-      <h1 className="text-lg font-semibold">새 방 만들기</h1>
+      <h1 className="text-lg font-semibold">{L("새 방 만들기", "New collection")}</h1>
       {!hasToken && (
         <Card>
           <CardContent className="py-4 text-sm">
@@ -94,7 +97,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">이름과 아이콘</CardTitle>
+          <CardTitle className="text-base">{L("이름과 아이콘", "Name and cover")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-col gap-4">
           <div className="flex items-center gap-3">
@@ -139,7 +142,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">직무</CardTitle>
+          <CardTitle className="text-base">{L("직무", "Tags")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-wrap gap-2">
           {PRESETS.roles.map((r) => (
@@ -158,7 +161,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">도메인</CardTitle>
+          <CardTitle className="text-base">{L("도메인", "Categories")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-col gap-2">
           <div className="flex flex-wrap gap-2">
@@ -180,7 +183,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">키워드</CardTitle>
+          <CardTitle className="text-base">{L("키워드", "Keywords")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-col gap-4">
           <TagInput label="추가 키워드" placeholder="예: 디지털 트윈, Kubernetes" values={keywords} onChange={setKeywords} />
@@ -190,7 +193,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">경력</CardTitle>
+          <CardTitle className="text-base">{L("경력", "Since")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-wrap items-center gap-3">
           <Label htmlFor="career">경력 시작일</Label>
@@ -211,7 +214,7 @@ export default function NewRoomPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-base">잠금</CardTitle>
+          <CardTitle className="text-base">{L("잠금", "Private")}</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-col gap-3">
           <div className="flex items-center gap-2">

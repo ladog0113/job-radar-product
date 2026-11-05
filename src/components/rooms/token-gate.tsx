@@ -1,13 +1,14 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Radar } from "lucide-react";
+import { Layers, Radar } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { checkGh, detectRepo, loadGh, saveGh } from "@/lib/rooms";
+import { useUiMode } from "@/lib/ui-mode";
 
 const NEW_TOKEN_URL = "https://github.com/settings/personal-access-tokens/new";
 
@@ -18,6 +19,7 @@ export function TokenGate({ children }: { children: React.ReactNode }) {
   const [repo, setRepo] = useState("");
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const { mode } = useUiMode();
 
   useEffect(() => {
     const g = loadGh();
@@ -43,14 +45,45 @@ export function TokenGate({ children }: { children: React.ReactNode }) {
   if (state === "checking") return null;
   if (state === "ok") return <>{children}</>;
 
+  if (mode === "cli")
+    return (
+      <form
+        className="min-h-svh bg-[#0c0c0c] p-4 font-mono text-sm text-[#d4d4d4]"
+        onSubmit={(e) => {
+          e.preventDefault();
+          enter();
+        }}
+      >
+        <div className="text-[#6b6b6b]">Last login: {new Date().toString().slice(0, 24)} on ttys001</div>
+        <label className="mt-2 flex gap-2">
+          <span>token:</span>
+          <input
+            type="password"
+            autoFocus
+            autoComplete="off"
+            value={token}
+            onChange={(e) => setToken(e.target.value)}
+            className="flex-1 bg-transparent outline-none"
+          />
+        </label>
+        <label className="flex gap-2">
+          <span>repo:</span>
+          <input value={repo} onChange={(e) => setRepo(e.target.value)} className="flex-1 bg-transparent outline-none" />
+        </label>
+        {error && <div className="text-[#f87171]">error: {error}</div>}
+        {busy && <div className="text-[#6b6b6b]">checking...</div>}
+        <button type="submit" className="sr-only">enter</button>
+      </form>
+    );
+
   return (
     <div className="flex min-h-svh items-center justify-center bg-background p-4">
       <Card className="w-full max-w-md">
         <CardHeader className="flex-row items-center gap-3 space-y-0">
           <div className="flex size-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
-            <Radar className="size-5" />
+            {mode === "ref" ? <Layers className="size-5" /> : <Radar className="size-5" />}
           </div>
-          <CardTitle className="text-lg">Job Radar</CardTitle>
+          <CardTitle className="text-lg">{mode === "ref" ? "Reference Shelf" : "Job Radar"}</CardTitle>
         </CardHeader>
         <CardContent>
           <form

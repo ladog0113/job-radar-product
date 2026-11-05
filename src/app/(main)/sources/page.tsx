@@ -13,10 +13,43 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { SOURCE_LABELS, useJson, type Job, type Run } from "@/lib/data";
+import { useUiMode } from "@/lib/ui-mode";
 
 const SITES = Object.keys(SOURCE_LABELS);
 
 export default function SourcesPage() {
+  const { mode } = useUiMode();
+  return mode === "ref" ? <RefSync /> : <DefaultSources />;
+}
+
+function RefSync() {
+  const { data: runs, loading } = useJson<Run[]>("runs.json", []);
+  const recent = [...runs].reverse().slice(0, 14);
+  return (
+    <div className="flex flex-col gap-6">
+      <h1 className="text-2xl font-semibold tracking-tight">Sync</h1>
+      {loading ? (
+        <div className="text-sm text-muted-foreground">Loading</div>
+      ) : (
+        <div className="divide-y rounded-xl border">
+          {recent.map((run) => {
+            const added = run.sources.reduce((n, r) => n + (r.new || 0), 0);
+            const failed = run.sources.filter((r) => r.error).length;
+            return (
+              <div key={run.started_at} className="flex items-center gap-4 px-4 py-3 text-sm">
+                <span className="w-36 shrink-0 tabular-nums">{run.started_at.slice(0, 16).replace("T", " ")}</span>
+                <span className="flex-1 text-muted-foreground">{added} new shots</span>
+                <span className={failed ? "text-muted-foreground" : ""}>{failed ? `${run.sources.length - failed}/${run.sources.length} feeds` : "Synced"}</span>
+              </div>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function DefaultSources() {
   const { data: runs, loading } = useJson<Run[]>("runs.json", []);
   const { data: jobs } = useJson<Job[]>("jobs.json", []);
 

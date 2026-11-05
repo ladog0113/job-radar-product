@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Lock, Plus, Trash2 } from "lucide-react";
 
+import { RefLobby } from "@/components/ref/ref-lobby";
 import { PasswordDialog } from "@/components/rooms/password-dialog";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -27,8 +28,14 @@ import {
   useRooms,
   type Room,
 } from "@/lib/rooms";
+import { useUiMode } from "@/lib/ui-mode";
 
 export default function LobbyPage() {
+  const { mode } = useUiMode();
+  return mode === "ref" ? <RefLobby /> : <DefaultLobby />;
+}
+
+function DefaultLobby() {
   const router = useRouter();
   const { rooms, loading, error, reload } = useRooms();
   const { data: jobs } = useJson<Job[]>("jobs.json", []);

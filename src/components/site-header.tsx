@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { Moon, SidebarIcon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 
+import { ModeToggle } from "@/components/mode-toggle";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { useSidebar } from "@/components/ui/sidebar";
@@ -26,6 +27,8 @@ export function SiteHeader() {
           </Button>
           <Separator orientation="vertical" className="mr-2 h-4" />
         </div>
+        <div className="flex items-center gap-2">
+        <ModeToggle />
         <Button
           variant="ghost"
           size="icon"
@@ -34,6 +37,7 @@ export function SiteHeader() {
         >
           {mounted ? current === "light" ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" /> : null}
         </Button>
+        </div>
       </div>
     </header>
   );
