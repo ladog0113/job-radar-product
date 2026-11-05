@@ -1,0 +1,51 @@
+name: deploy-ui
+
+# 화면 코드(src)만 바뀌었을 때 수집 없이 빌드와 배포만 한다.
+# 저장소에 아무것도 커밋하지 않으므로 public/data, rooms 는 바뀌지 않는다.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "package.json"
+      - "package-lock.json"
+  workflow_dispatch: {}   # Actions 탭에서 수동 실행
+
+permissions:
+  contents: read   # 저장소 쓰기 권한 없음
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy-ui
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # 가장 최근 수집 데이터를 포함해서 빌드
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build site
+        env:
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          touch out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
