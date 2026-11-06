@@ -5,6 +5,7 @@ import { Moon, SidebarIcon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 
 import { ModeToggle } from "@/components/mode-toggle";
+import { ShortcutHelp } from "@/components/shortcut-help";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { useSidebar } from "@/components/ui/sidebar";
@@ -29,6 +30,7 @@ export function SiteHeader() {
         </div>
         <div className="flex items-center gap-2">
         <ModeToggle />
+        <ShortcutHelp />
         <Button
           variant="ghost"
           size="icon"

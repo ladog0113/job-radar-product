@@ -7,6 +7,7 @@ import { Layers, Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 
 import { ModeToggle } from "@/components/mode-toggle";
+import { ShortcutHelp } from "@/components/shortcut-help";
 import { cn } from "@/lib/utils";
 
 const NAV = [
@@ -48,6 +49,7 @@ export function RefShell({ children }: { children: React.ReactNode }) {
           </nav>
           <div className="ml-auto flex items-center gap-2">
             <ModeToggle />
+            <ShortcutHelp />
             <button
               type="button"
               className="flex size-8 items-center justify-center rounded-md text-muted-foreground hover:bg-muted"
