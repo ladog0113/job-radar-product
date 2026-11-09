@@ -1,5 +1,1660 @@
 [
  {
+  "id": "saramin:55503417",
+  "source": "saramin",
+  "title": "AI 솔루션(LLM/스마트팩토리) UI/UX 디자이너(경력)",
+  "company": "(주)소르테크",
+  "location": "부산 해운대구",
+  "career": "경력 4~7년",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503417",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS",
+     "LLM/에이전트",
+     "AI/ML"
+    ],
+    "score": 90
+   }
+  },
+  "queries": [
+   "AI UI/UX 디자이너",
+   "B2B UI/UX 디자이너",
+   "LLM UI/UX 디자이너",
+   "LLM 서비스 기획",
+   "데이터 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 4,
+  "career_max": 7,
+  "career_any": false,
+  "score": 90,
+  "company_key": "소르테크",
+  "stale": false
+ },
+ {
+  "id": "saramin:55514453",
+  "source": "saramin",
+  "title": "[의료AI솔루션상장사] 사업개발 BD",
+  "company": "(주)핀커스코리아",
+  "location": "서울 강남구",
+  "career": "경력8년↑",
+  "deadline": "~ 11/23(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514453",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS",
+     "AI/ML",
+     "헬스케어"
+    ],
+    "score": 90
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 8,
+  "career_max": null,
+  "career_any": false,
+  "score": 90,
+  "company_key": "핀커스코리아",
+  "stale": false
+ },
+ {
+  "id": "saramin:55512428",
+  "source": "saramin",
+  "title": "LLM·RAG 생성형 AI 서비스 기획/구축(금융분야)",
+  "company": "(주)스카우트플랜",
+  "location": "서울 강남구",
+  "career": "경력6년↑",
+  "deadline": "~ 11/18(수)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512428",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "LLM/에이전트",
+     "AI/ML",
+     "핀테크/금융"
+    ],
+    "score": 90
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "LLM 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 6,
+  "career_max": null,
+  "career_any": false,
+  "score": 90,
+  "company_key": "스카우트플랜",
+  "stale": false
+ },
+ {
+  "id": "saramin:55512409",
+  "source": "saramin",
+  "title": "AI 솔루션 영업(AI Agent/RAG/Vertical AI 등)",
+  "company": "피엔씨서치",
+  "location": "경기 과천시",
+  "career": "경력 5~10년",
+  "deadline": "~ 11/22(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512409",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS",
+     "LLM/에이전트",
+     "AI/ML"
+    ],
+    "score": 90
+   }
+  },
+  "queries": [
+   "LLM 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": 10,
+  "career_any": false,
+  "score": 90,
+  "company_key": "피엔씨서치",
+  "stale": false
+ },
+ {
+  "id": "saramin:55514789",
+  "source": "saramin",
+  "title": "[글로벌 #1 iGaming] AI Agent PM",
+  "company": "(주)에이스파트너스서치펌",
+  "location": "서울 강남구",
+  "career": "경력7년↑",
+  "deadline": "~ 11/23(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514789",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "LLM/에이전트",
+     "AI/ML"
+    ],
+    "score": 80
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "LLM PO",
+   "에이전트 PM",
+   "에이전트 PO"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 7,
+  "career_max": null,
+  "career_any": false,
+  "score": 80,
+  "company_key": "",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516270",
+  "source": "saramin",
+  "title": "상장기업 LLM, RAG, AI Agent 기반 소프트웨어 기획/팀장",
+  "company": "탑커리어인사이트",
+  "location": "서울 강남구",
+  "career": "경력10년↑",
+  "deadline": "~ 11/16(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516270",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "LLM/에이전트",
+     "AI/ML"
+    ],
+    "score": 80
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "AI 서비스 기획",
+   "LLM 서비스 기획",
+   "에이전트 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 10,
+  "career_max": null,
+  "career_any": false,
+  "score": 80,
+  "company_key": "탑커리어인사이트",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4463345529",
+  "source": "linkedin",
+  "title": "Sr. Account Manager, MEGS, MEGS (Media & Entertainment, Game, Sport)",
+  "company": "Amazon Web Services (AWS)",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4463345529/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "게임",
+     "콘텐츠/미디어"
+    ],
+    "score": 80
+   }
+  },
+  "queries": [
+   "game account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 80,
+  "company_key": "amazonwebservices(aws)",
+  "stale": false
+ },
+ {
+  "id": "saramin:55503526",
+  "source": "saramin",
+  "title": "Claude 좀 치세요 AI 캐릭터 UX/UI 기획자 모집",
+  "company": "울트라패션",
+  "location": "경기 부천시",
+  "career": "경력무관",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503526",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI UI/UX 디자이너",
+   "게임 UI/UX 디자이너",
+   "콘텐츠 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "울트라패션",
+  "stale": false
+ },
+ {
+  "id": "saramin:55503517",
+  "source": "saramin",
+  "title": "AI 캐릭터 작가  UX/UI 디자이너",
+  "company": "울트라패션",
+  "location": "경기 부천시",
+  "career": "경력무관",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503517",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI UI/UX 디자이너",
+   "게임 UI/UX 디자이너",
+   "콘텐츠 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "울트라패션",
+  "stale": false
+ },
+ {
+  "id": "saramin:55485523",
+  "source": "saramin",
+  "title": "(주)프로써치코리아와 함께 국내 최대 게임사 UI/UX 기획을 해요",
+  "company": "(주)프로써치코리아",
+  "location": "서울 강남구",
+  "career": "경력 7~12년",
+  "deadline": "~ 11/15(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55485523",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "게임"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "게임 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 7,
+  "career_max": 12,
+  "career_any": false,
+  "score": 70,
+  "company_key": "프로써치코리아",
+  "stale": false
+ },
+ {
+  "id": "saramin:55514430",
+  "source": "saramin",
+  "title": "테크바이오기업 백엔드개발팀원",
+  "company": "그레이스앤파트너스(주)",
+  "location": "서울 강남구",
+  "career": "경력 3~10년",
+  "deadline": "~ 11/23(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514430",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "헬스케어"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "데이터 백엔드 개발자",
+   "에이전트 PM",
+   "헬스케어 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": 10,
+  "career_any": false,
+  "score": 70,
+  "company_key": "그레이스앤파트너스",
+  "stale": false
+ },
+ {
+  "id": "saramin:55508815",
+  "source": "saramin",
+  "title": "[여의도] 백엔드 개발자 - STO 발행 플랫폼 구축",
+  "company": "주식회사이든웍스",
+  "location": "서울 영등포구",
+  "career": "경력10년↑",
+  "deadline": "내일마감",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508815",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "개발자 플랫폼 백엔드 개발자",
+   "데이터 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 10,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "이든웍스",
+  "stale": false
+ },
+ {
+  "id": "saramin:55502428",
+  "source": "saramin",
+  "title": "시니어 웹 개발자 (데이터처리/Backend/Frontend) 채용",
+  "company": "(주)글로비즈",
+  "location": "서울 관악구",
+  "career": "경력5년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502428",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "데이터"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "데이터 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "글로비즈",
+  "stale": false
+ },
+ {
+  "id": "saramin:55514866",
+  "source": "saramin",
+  "title": "믿음상패 쇼핑몰  웹디자이너 채용",
+  "company": "믿음상패",
+  "location": "서울 종로구",
+  "career": "경력1년↑",
+  "deadline": "~ 12/08(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514866",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "콘텐츠 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 1,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "믿음상패",
+  "stale": false
+ },
+ {
+  "id": "saramin:55510010",
+  "source": "saramin",
+  "title": "[인피닉션] 글로벌 웹소설 플랫폼 프로덕트·UI/UX 디자인 인턴",
+  "company": "(주)인피닉션",
+  "location": "서울 마포구",
+  "career": "경력무관",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55510010",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI UI/UX 디자이너",
+   "콘텐츠 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "인피닉션",
+  "stale": false
+ },
+ {
+  "id": "saramin:55497034",
+  "source": "saramin",
+  "title": "[정규직] 믿음상패 쇼핑몰  웹디자이너 채용",
+  "company": "믿음상패",
+  "location": "서울 종로구",
+  "career": "경력1년↑",
+  "deadline": "~ 11/20(금)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55497034",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "콘텐츠 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 1,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "믿음상패",
+  "stale": false
+ },
+ {
+  "id": "saramin:55492359",
+  "source": "saramin",
+  "title": "[프리몰드닷넷] B2B 플랫폼 기획 및 운영 관리 담당자 채용",
+  "company": "(주)디자인플래닛",
+  "location": "경기 안양시 동안구",
+  "career": "경력3년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55492359",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "디자인플래닛",
+  "stale": false
+ },
+ {
+  "id": "saramin:55515051",
+  "source": "saramin",
+  "title": "경기.서울 / 급식.주방용품 B2B 영업직 채용",
+  "company": "(주)니드코",
+  "location": "서울 금천구",
+  "career": "경력5년↑",
+  "deadline": "~ 11/30(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55515051",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "니드코",
+  "stale": false
+ },
+ {
+  "id": "saramin:55512353",
+  "source": "saramin",
+  "title": "[인체조직 의료기기 선도기업] 에스테틱 제품 마케팅(PM)",
+  "company": "에이치알포유(주)",
+  "location": "서울 금천구",
+  "career": "경력 2~5년",
+  "deadline": "~ 11/14(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512353",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "헬스케어"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 2,
+  "career_max": 5,
+  "career_any": false,
+  "score": 70,
+  "company_key": "에이치알포유",
+  "stale": false
+ },
+ {
+  "id": "saramin:55508899",
+  "source": "saramin",
+  "title": "[알앤알스퀘어] 마케팅 플랫폼 사업개발 채용 (BD)",
+  "company": "(주)알앤알스퀘어",
+  "location": "서울 강남구",
+  "career": "신입·경력",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508899",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": false,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "알앤알스퀘어",
+  "stale": false
+ },
+ {
+  "id": "saramin:55507694",
+  "source": "saramin",
+  "title": "[Soo House수앤캐롯츠]B2B 영업관리 매니저 인바운드·입찰 관리",
+  "company": "(주)수앤캐롯츠",
+  "location": "서울 광진구",
+  "career": "경력1년↑",
+  "deadline": "~ 01/05(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55507694",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 1,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "수앤캐롯츠",
+  "stale": false
+ },
+ {
+  "id": "saramin:55503798",
+  "source": "saramin",
+  "title": "[코스닥 상장사] 페이먼트 사업 사업제휴팀 서비스기획자 채용",
+  "company": "(주)하이퍼코퍼레이션",
+  "location": "서울 강남구",
+  "career": "경력3년↑",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503798",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "핀테크/금융"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 35,
+    "by_detail": true
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "하이퍼코퍼레이션",
+  "stale": false
+ },
+ {
+  "id": "saramin:55503318",
+  "source": "saramin",
+  "title": "[전국/주4일] 본사 B2B 영업·마케팅 담당자 채용",
+  "company": "(주)밸류링크코리아",
+  "location": "서울 마포구",
+  "career": "경력무관",
+  "deadline": "~ 11/12(목)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503318",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "밸류링크코리아",
+  "stale": false
+ },
+ {
+  "id": "saramin:55517663",
+  "source": "saramin",
+  "title": "[미니게이트] 유아교육 에듀테크 영업담당자 모집",
+  "company": "(주)미니게이트",
+  "location": "서울 강남구",
+  "career": "경력 7~15년",
+  "deadline": "~ 12/09(수)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55517663",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "에듀테크"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 7,
+  "career_max": 15,
+  "career_any": false,
+  "score": 70,
+  "company_key": "미니게이트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55517182",
+  "source": "saramin",
+  "title": "(주) 오피스디포코리아 [종로구청점] B2B영업 신입사원",
+  "company": "(주) 오피스디포코리아",
+  "location": "서울 종로구",
+  "career": "신입",
+  "deadline": "~ 12/09(수)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55517182",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 0,
+  "career_max": 1,
+  "career_any": false,
+  "score": 70,
+  "company_key": "오피스디포코리아",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516269",
+  "source": "saramin",
+  "title": "[코스닥 상장사] SaaS 갱신영업 팀원 채용 (신입 - 경력 5년)",
+  "company": "알서포트(주)",
+  "location": "서울 강동구",
+  "career": "신입·경력",
+  "deadline": "~ 11/30(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516269",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "알서포트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516254",
+  "source": "saramin",
+  "title": "[코스닥 상장사] SaaS 갱신영업팀 팀장 채용",
+  "company": "알서포트(주)",
+  "location": "서울 강동구",
+  "career": "경력5년↑",
+  "deadline": "~ 11/30(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516254",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "알서포트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516246",
+  "source": "saramin",
+  "title": "[코스닥 상장사] SaaS 영업 담당자 신입 채용",
+  "company": "알서포트(주)",
+  "location": "서울 강동구",
+  "career": "신입",
+  "deadline": "~ 11/30(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516246",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 0,
+  "career_max": 1,
+  "career_any": false,
+  "score": 70,
+  "company_key": "알서포트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516212",
+  "source": "saramin",
+  "title": "[코스닥 상장사] SaaS 영업 담당자 경력 채용",
+  "company": "알서포트(주)",
+  "location": "서울 강동구",
+  "career": "경력 2~7년",
+  "deadline": "~ 11/30(월)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516212",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 2,
+  "career_max": 7,
+  "career_any": false,
+  "score": 70,
+  "company_key": "알서포트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55515403",
+  "source": "saramin",
+  "title": "[Global Company] 데이터 아키텍트 PM/PL",
+  "company": "제이앤피에이치알컨설팅",
+  "location": "서울 강남구",
+  "career": "경력 5~15년",
+  "deadline": "~ 11/24(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55515403",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "데이터"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "B2B/SaaS"
+    ],
+    "score": 40,
+    "by_detail": true
+   }
+  },
+  "queries": [
+   "AI 서비스 기획"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": 15,
+  "career_any": false,
+  "score": 70,
+  "company_key": "제이앤피에이치알컨설팅",
+  "stale": false
+ },
+ {
+  "id": "saramin:55508816",
+  "source": "saramin",
+  "title": "[여의도] IT 기획자 - STO 발행 플랫폼 구축",
+  "company": "주식회사이든웍스",
+  "location": "서울 영등포구",
+  "career": "경력10년↑",
+  "deadline": "내일마감",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508816",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "개발자 플랫폼 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 10,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "이든웍스",
+  "stale": false
+ },
+ {
+  "id": "saramin:55508195",
+  "source": "saramin",
+  "title": "프로덕트 매니저 - 결제 서비스 (시니어)",
+  "company": "(주)카카오페이",
+  "location": "경기 성남시 분당구",
+  "career": "경력10년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508195",
+  "room_hits": {
+   "r-ai-platform-pm": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트",
+     "MLOps/AI 인프라"
+    ],
+    "score": 45,
+    "by_detail": true
+   },
+   "r-43f75fe724": {
+    "domains": [
+     "핀테크/금융"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "AI/ML",
+     "LLM/에이전트",
+     "MLOps/AI 인프라",
+     "B2B/SaaS"
+    ],
+    "score": 50,
+    "by_detail": true
+   }
+  },
+  "queries": [
+   "에이전트 PM"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 10,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "카카오페이",
+  "stale": false
+ },
+ {
+  "id": "saramin:55508443",
+  "source": "saramin",
+  "title": "[핑크시슬리] 의류쇼핑몰 웹디자이너 프리랜서 경력직 인재 채용",
+  "company": "(주)핑크시슬리",
+  "location": "서울 마포구",
+  "career": "경력2년↑",
+  "deadline": "~ 12/06(일)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508443",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "데이터 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 2,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "핑크시슬리",
+  "stale": false
+ },
+ {
+  "id": "saramin:55504200",
+  "source": "saramin",
+  "title": "UI/UX - 대시보드, 데이터시각화 경력 디자이너를 모십니다.",
+  "company": "(주)오픈웍스",
+  "location": "경기 남양주시",
+  "career": "경력3년↑",
+  "deadline": "채용시",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55504200",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "데이터"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "데이터 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "오픈웍스",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516947",
+  "source": "saramin",
+  "title": "Global B2B Sales Lead(파트장급)",
+  "company": "(주)어댑트",
+  "location": "서울 강남구",
+  "career": "경력",
+  "deadline": "~ 12/08(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516947",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PO"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 8,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "어댑트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516906",
+  "source": "saramin",
+  "title": "Global B2B Sales Lead(팀장급)",
+  "company": "(주)어댑트",
+  "location": "서울 강남구",
+  "career": "경력",
+  "deadline": "~ 12/08(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516906",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PO"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 12,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "어댑트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55516869",
+  "source": "saramin",
+  "title": "Global B2B Sales",
+  "company": "(주)어댑트",
+  "location": "서울 강남구",
+  "career": "경력",
+  "deadline": "~ 12/08(화)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55516869",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PO"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 2,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "어댑트",
+  "stale": false
+ },
+ {
+  "id": "saramin:55514605",
+  "source": "saramin",
+  "title": "플랫폼 제품 전략·실행을 총괄하는 Product Owner",
+  "company": "코리아써치",
+  "location": "서울 서초구",
+  "career": "경력7년↑",
+  "deadline": "~ 12/05(토)",
+  "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55514605",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   },
+   "r-57b4bb4664": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "커머스 프로덕트 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 7,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "코리아써치",
+  "stale": false
+ },
+ {
+  "id": "jobkorea:50291094",
+  "source": "jobkorea",
+  "title": "[㈜케어원] B2B·B2C 신규개척 영업직 채용",
+  "company": "㈜케어원",
+  "location": "",
+  "career": "경력무관 ",
+  "deadline": "",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50291094?Oem_Code=C1&logpath=1&sc=559",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "GPU PO",
+   "핀테크 UI/UX 디자이너",
+   "헬스케어 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": true,
+  "score": 70,
+  "company_key": "케어원",
+  "stale": false
+ },
+ {
+  "id": "remember:353085",
+  "source": "remember",
+  "title": "코스메틱 브랜드사 Global Sales 팀 / 이커머스 MD / 해외영업 지원 팀",
+  "company": "(주)프로써치코리아",
+  "location": "",
+  "career": "",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/353085?curationLocation=job_posting_tab&source=mid_salary_position&postQuerySessionId=a90c5271-45ef-44a1-8429-066cc05c8d60&channel=mid_salary_position&jdViewSource=mid_salary_position",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "LLM 서비스 기획",
+   "게임 UI/UX 디자이너",
+   "에듀테크 백엔드 개발자",
+   "콘텐츠 백엔드 개발자",
+   "헬스케어 UI/UX 디자이너"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "프로써치코리아",
+  "stale": false
+ },
+ {
+  "id": "remember:352579",
+  "source": "remember",
+  "title": "증권 채널 서버 개발",
+  "company": "(주)다우기술",
+  "location": "",
+  "career": "",
+  "deadline": "D-7",
+  "url": "https://career.rememberapp.co.kr/job/posting/352579?curationLocation=job_posting_tab&source=high_salary_position&postQuerySessionId=cd3a69ad-348f-4e1d-9cc2-0ce16ff1b625&channel=high_salary_position&jdViewSource=high_salary_position",
+  "room_hits": {
+   "r-93de1a901b": {
+    "domains": [
+     "핀테크/금융"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "B2B PM",
+   "GPU PO",
+   "LLM UI/UX 디자이너",
+   "MLOps PO",
+   "개발자 플랫폼 UI/UX 디자이너",
+   "게임 백엔드 개발자",
+   "모빌리티 PO",
+   "에이전트 PO",
+   "커머스 백엔드 개발자",
+   "커머스 프로덕트 디자이너",
+   "프롭테크 PM",
+   "프롭테크 백엔드 개발자",
+   "헬스케어 백엔드 개발자"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "다우기술",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4435555460",
+  "source": "linkedin",
+  "title": "Account Manager (플랫폼 제휴/사업개발)",
+  "company": "Toss",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4435555460/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "e-commerce account executive",
+   "game account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "toss",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4486979053",
+  "source": "linkedin",
+  "title": "Account Manager, Large Customer Sales, Commerce",
+  "company": "Google",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4486979053/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "e-commerce account executive",
+   "media account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 1,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "google",
+  "stale": false
+ },
+ {
+  "id": "linkedin:3977866018",
+  "source": "linkedin",
+  "title": "B2B 영업 매니저 (O2O)",
+  "company": "Bucketplace (오늘의집)",
+  "location": "서울, 대한민국",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/3977866018/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "e-commerce account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 3,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "bucketplace(오늘의집)",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4479024869",
+  "source": "linkedin",
+  "title": "Retail Sales Representative",
+  "company": "Clarios",
+  "location": "부산 지역",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4479024869/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "커머스"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "mobility account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "clarios",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4486566955",
+  "source": "linkedin",
+  "title": "Account Executive, CONNECT Platform, Korea",
+  "company": "AVEVA",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4486566955/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "proptech account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "aveva",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4439136300",
+  "source": "linkedin",
+  "title": "Founding B2B Account Executive (Korea)",
+  "company": "Translead Inc.",
+  "location": "서울, 대한민국",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4439136300/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "edtech account executive",
+   "game account executive",
+   "proptech account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "transleadinc",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4414174441",
+  "source": "linkedin",
+  "title": "B2B영업",
+  "company": "(주)우아한형제들 (Woowa Bros.)",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4414174441/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "B2B/SaaS"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "game account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "우아한형제들(woowabros)",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4351733213",
+  "source": "linkedin",
+  "title": "[경력] 클라우드 영업",
+  "company": "CJ OliveNetworks",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4351733213/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "MLOps/AI 인프라"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "game account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": 5,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "cjolivenetworks",
+  "stale": false
+ },
+ {
+  "id": "linkedin:4487333124",
+  "source": "linkedin",
+  "title": "AI Enterprise Sales Manager - BytePlus - Korea",
+  "company": "ByteDance",
+  "location": "서울",
+  "career": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4487333124/",
+  "room_hits": {
+   "r-43f75fe724": {
+    "domains": [
+     "AI/ML"
+    ],
+    "score": 70
+   }
+  },
+  "queries": [
+   "game account executive"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "has_detail": true,
+  "career_min": null,
+  "career_max": null,
+  "career_any": false,
+  "score": 70,
+  "company_key": "bytedance",
+  "stale": false
+ },
+ {
   "id": "saramin:55496552",
   "source": "saramin",
   "title": "2026년 채용공고 (해외마케팅PM, 디자인, 해외영업, 해외마케팅, 글로벌 SNS AI 영상 콘텐츠 디자이너)",
@@ -30,12 +1685,16 @@
    }
   },
   "queries": [
+   "AI UI/UX 디자이너",
+   "B2B UI/UX 디자이너",
+   "데이터 UI/UX 디자이너",
    "커머스 UI/UX 디자이너",
    "커머스 프로덕트 디자이너",
+   "콘텐츠 UI/UX 디자이너",
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -47,7 +1706,7 @@
  {
   "id": "saramin:55514163",
   "source": "saramin",
-  "title": "[AI전문중견기업]플랫폼 개발기획자 (Technical PM)",
+  "title": "[AI전문중소기업]플랫폼 개발기획자 (Technical PM)",
   "company": "(주)핀커스코리아",
   "location": "서울 강남구",
   "career": "경력5년↑",
@@ -78,11 +1737,14 @@
   "queries": [
    "AI PM",
    "AI 플랫폼",
+   "B2B PM",
    "LLM PM",
+   "LLM 서비스 기획",
+   "에이전트 PM",
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -204,13 +1866,16 @@
   },
   "queries": [
    "AI PL",
+   "B2B PM",
    "GPU PM",
    "GPU 서비스 기획",
    "LLM PM",
+   "LLM 서비스 기획",
+   "에이전트 PM",
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -244,10 +1909,12 @@
   },
   "queries": [
    "AI PM",
+   "AI UI/UX 디자이너",
+   "데이터 UI/UX 디자이너",
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -280,10 +1947,13 @@
    }
   },
   "queries": [
-   "B2B PO"
+   "B2B PM",
+   "B2B PO",
+   "B2B UI/UX 디자이너",
+   "데이터 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -323,11 +1993,14 @@
   },
   "queries": [
    "AI PO",
+   "B2B PM",
    "B2B PO",
-   "LLM PM"
+   "LLM PM",
+   "LLM PO",
+   "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -362,10 +2035,11 @@
   "queries": [
    "AI PL",
    "AI PO",
+   "B2B PM",
    "B2B PO"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -392,10 +2066,11 @@
    }
   },
   "queries": [
+   "데이터 UI/UX 디자이너",
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 15,
@@ -434,10 +2109,11 @@
    }
   },
   "queries": [
+   "LLM 서비스 기획",
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": 20,
@@ -467,11 +2143,16 @@
    "AI 백엔드 개발자",
    "GPU 서비스 기획",
    "LLM 백엔드 개발자",
+   "LLM 서비스 기획",
    "MLOps 백엔드 개발자",
-   "에이전트 서비스 기획"
+   "MLOps 서비스 기획",
+   "개발자 플랫폼 백엔드 개발자",
+   "데이터 백엔드 개발자",
+   "에이전트 서비스 기획",
+   "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -501,7 +2182,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": 10,
@@ -530,10 +2211,11 @@
   "queries": [
    "AI 백엔드 개발자",
    "AI 프론트엔드 개발자",
-   "AI 플랫폼"
+   "AI 플랫폼",
+   "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -753,10 +2435,12 @@
   "queries": [
    "AI PL",
    "AI PO",
-   "LLM PM"
+   "LLM PM",
+   "LLM PO",
+   "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 7,
@@ -799,10 +2483,12 @@
   "queries": [
    "AI PL",
    "AI PO",
-   "LLM PM"
+   "LLM PM",
+   "LLM PO",
+   "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 12,
@@ -881,10 +2567,11 @@
    }
   },
   "queries": [
-   "AI PL"
+   "AI PL",
+   "B2B PM"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -1130,10 +2817,11 @@
   },
   "queries": [
    "AI 백엔드 개발자",
-   "LLM 백엔드 개발자"
+   "LLM 백엔드 개발자",
+   "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
@@ -1160,10 +2848,12 @@
    }
   },
   "queries": [
-   "AI 백엔드 개발자"
+   "AI 백엔드 개발자",
+   "개발자 플랫폼 백엔드 개발자",
+   "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 6,
   "career_max": 20,
@@ -1190,10 +2880,12 @@
    }
   },
   "queries": [
-   "AI PM"
+   "AI PM",
+   "AI UI/UX 디자이너",
+   "데이터 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -1345,7 +3037,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -1470,7 +3162,7 @@
   "location": "",
   "career": "경력무관 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50317441?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50317441?Oem_Code=C1&logpath=1&stext=%EA%B2%8C%EC%9E%84+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=17&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -1480,10 +3172,12 @@
    }
   },
   "queries": [
+   "AI UI/UX 디자이너",
+   "게임 UI/UX 디자이너",
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-08",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -1853,7 +3547,7 @@
   "title": "AI데이터전략부 [AI 서비스 기획 및 개발]",
   "company": "스크랩",
   "location": "",
-  "career": "경력 23",
+  "career": "경력 11",
   "deadline": "",
   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50317543?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=3&sc=630",
   "room_hits": {
@@ -1882,7 +3576,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -1930,7 +3624,7 @@
   "location": "",
   "career": "경력10년↑ 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318993?Oem_Code=C1&logpath=1&stext=B2B+PO&listno=8&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318993?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=12&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -1957,7 +3651,7 @@
    "LLM PO"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -1974,7 +3668,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50310145?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50310145?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=13&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -1999,7 +3693,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -2014,9 +3708,9 @@
   "title": "STO 발행 플랫폼 구축 - 백엔드 개발자",
   "company": "스크랩",
   "location": "",
-  "career": "경력10년↑ 14",
+  "career": "경력10년↑ 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50322743?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=2&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50322743?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=3&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -2029,7 +3723,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -2045,8 +3739,8 @@
   "company": "(주)에버브레인써치",
   "location": "",
   "career": "",
-  "deadline": "D-10",
-  "url": "https://career.rememberapp.co.kr/job/posting/352840?curationLocation=job_posting_tab&source=mid_salary_position&postQuerySessionId=ee3c248c-7312-4aa9-a9e3-1cb3e0b2475a&channel=mid_salary_position&jdViewSource=mid_salary_position",
+  "deadline": "D-9",
+  "url": "https://career.rememberapp.co.kr/job/posting/352840?curationLocation=job_posting_tab&source=mid_salary_position&postQuerySessionId=a90c5271-45ef-44a1-8429-066cc05c8d60&channel=mid_salary_position&jdViewSource=mid_salary_position",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -2065,19 +3759,23 @@
    "LLM 서비스 기획",
    "MLOps UI/UX 디자이너",
    "MLOps 서비스 기획",
+   "게임 UI/UX 디자이너",
    "방산",
    "수처리",
    "에듀테크 UI/UX 디자이너",
+   "에듀테크 백엔드 개발자",
    "에이전트 PM",
    "에이전트 PO",
    "에이전트 서비스 기획",
    "커머스 UI/UX 디자이너",
    "커머스 백엔드 개발자",
    "콘텐츠 UI/UX 디자이너",
-   "프롭테크 UI/UX 디자이너"
+   "콘텐츠 백엔드 개발자",
+   "프롭테크 UI/UX 디자이너",
+   "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -2462,7 +4160,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/352884?curationLocation=job_posting_tab&source=leader_position&postQuerySessionId=917db1be-8900-4783-bd8f-c44320d1b29d&channel=leader_position&jdViewSource=leader_position",
+  "url": "https://career.rememberapp.co.kr/job/posting/352884?curationLocation=job_posting_tab&source=leader_position&postQuerySessionId=c6abb783-f990-4427-bb74-e04fa89700f5&channel=leader_position&jdViewSource=leader_position",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -2474,6 +4172,7 @@
   "queries": [
    "AI PM",
    "AI 백엔드 개발자",
+   "AI 서비스 기획",
    "AI 프론트엔드 개발자",
    "AI 플랫폼",
    "B2B 백엔드 개발자",
@@ -2481,19 +4180,24 @@
    "LLM 백엔드 개발자",
    "MLOps PM",
    "MLOps PO",
+   "MLOps UI/UX 디자이너",
+   "MLOps 서비스 기획",
    "개발자 플랫폼 UI/UX 디자이너",
    "데이터 UI/UX 디자이너",
+   "데이터 백엔드 개발자",
    "모빌리티 PM",
    "모빌리티 PO",
    "모빌리티 UI/UX 디자이너",
    "커머스 프로덕트 디자이너",
+   "콘텐츠 UI/UX 디자이너",
    "프롭테크 PO",
    "프롭테크 UI/UX 디자이너",
+   "핀테크 UI/UX 디자이너",
    "핀테크 백엔드 개발자",
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -2564,7 +4268,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/353070?curationLocation=job_posting_tab&source=step_up_position&postQuerySessionId=05e3ac36-6960-46dd-9579-7a4d17543ba7&channel=step_up_position&jdViewSource=step_up_position",
+  "url": "https://career.rememberapp.co.kr/job/posting/353070?curationLocation=job_posting_tab&source=step_up_position&postQuerySessionId=e351af75-03e7-44b2-ac9a-a2401f7e5924&channel=step_up_position&jdViewSource=step_up_position",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -2574,29 +4278,36 @@
    }
   },
   "queries": [
+   "AI UI/UX 디자이너",
    "B2B PO",
    "B2B UI/UX 디자이너",
+   "GPU PM",
    "GPU PO",
    "GPU 서비스 기획",
    "LLM PM",
+   "LLM PO",
    "LLM 프론트엔드 개발자",
    "MLOps 백엔드 개발자",
    "개발자 플랫폼 백엔드 개발자",
    "게임 백엔드 개발자",
+   "데이터 UI/UX 디자이너",
    "데이터 백엔드 개발자",
    "모빌리티 UI/UX 디자이너",
+   "모빌리티 백엔드 개발자",
    "모빌리티 프로덕트 디자이너",
    "방산",
    "수처리",
    "에듀테크 UI/UX 디자이너",
    "에듀테크 백엔드 개발자",
+   "에이전트 PM",
+   "에이전트 서비스 기획",
    "콘텐츠 백엔드 개발자",
    "프롭테크 백엔드 개발자",
    "핀테크 UI/UX 디자이너",
    "항공우주"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -2641,11 +4352,12 @@
    "B2B SaaS product owner",
    "LLM project lead",
    "MLOps project lead",
+   "fintech project lead",
    "healthcare product owner",
    "proptech project lead"
   ],
   "first_seen": "2026-11-07",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -2694,7 +4406,7 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 15,
   "career_max": null,
@@ -2901,10 +4613,12 @@
    "AI PO",
    "AI UI/UX 디자이너",
    "AI 서비스 기획",
-   "데이터 UI/UX 디자이너"
+   "게임 UI/UX 디자이너",
+   "데이터 UI/UX 디자이너",
+   "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -2983,7 +4697,7 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -3091,7 +4805,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/352731?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/352731?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -3110,11 +4824,13 @@
   },
   "queries": [
    "GPU PO",
+   "LLM PO",
+   "MLOps PO",
    "모빌리티 PO",
    "에이전트 PO"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -4070,10 +5786,11 @@
    "AI 프론트엔드 개발자",
    "AI 플랫폼",
    "개발자 플랫폼 백엔드 개발자",
+   "데이터 백엔드 개발자",
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": 3,
@@ -4136,7 +5853,7 @@
    "모빌리티 PM"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 6,
   "career_max": 12,
@@ -4165,10 +5882,11 @@
   },
   "queries": [
    "개발자 플랫폼 백엔드 개발자",
-   "모빌리티 PM"
+   "모빌리티 PM",
+   "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 6,
   "career_max": 12,
@@ -4234,7 +5952,7 @@
    "LLM 프론트엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -4280,7 +5998,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 8,
@@ -4308,10 +6026,11 @@
    }
   },
   "queries": [
-   "AI UI/UX 디자이너"
+   "AI UI/UX 디자이너",
+   "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -4354,11 +6073,12 @@
   "queries": [
    "AI UI/UX 디자이너",
    "B2B PO",
+   "B2B UI/UX 디자이너",
    "데이터 UI/UX 디자이너",
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -4386,10 +6106,11 @@
    }
   },
   "queries": [
-   "AI UI/UX 디자이너"
+   "AI UI/UX 디자이너",
+   "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -4417,10 +6138,11 @@
    }
   },
   "queries": [
+   "데이터 백엔드 개발자",
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -4454,11 +6176,12 @@
    }
   },
   "queries": [
+   "B2B UI/UX 디자이너",
    "데이터 UI/UX 디자이너",
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": 16,
@@ -4491,7 +6214,7 @@
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -4531,7 +6254,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 12,
@@ -4685,7 +6408,7 @@
   "location": "",
   "career": "경력9년↑ 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303926?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303926?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=14&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -4699,7 +6422,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 9,
   "career_max": null,
@@ -6933,7 +8656,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": 8,
   "career_any": false,
@@ -6964,7 +8687,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 8,
   "career_max": 15,
   "career_any": false,
@@ -6994,7 +8717,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": 18,
   "career_any": false,
@@ -7024,7 +8747,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 2,
   "career_max": 7,
   "career_any": false,
@@ -7055,7 +8778,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 5,
   "career_max": 7,
   "career_any": false,
@@ -7085,7 +8808,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 2,
   "career_max": 6,
   "career_any": false,
@@ -7116,7 +8839,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 5,
   "career_max": 7,
   "career_any": false,
@@ -7147,7 +8870,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 0,
   "career_max": 1,
   "career_any": false,
@@ -7178,7 +8901,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -7208,7 +8931,7 @@
   ],
   "first_seen": "2026-11-06",
   "last_seen": "2026-11-06",
-  "has_detail": false,
+  "has_detail": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -7680,7 +9403,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": 7,
@@ -7724,7 +9447,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 7,
   "career_max": 12,
@@ -7794,7 +9517,7 @@
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 8,
   "career_max": null,
@@ -7827,7 +9550,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -7863,7 +9586,7 @@
    "데이터 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -8063,11 +9786,12 @@
    "AI PL",
    "AI PO",
    "LLM PM",
+   "LLM PO",
    "LLM 서비스 기획",
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 13,
   "career_max": 20,
@@ -8112,7 +9836,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": 10,
@@ -8157,7 +9881,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": 10,
@@ -8228,10 +9952,11 @@
   },
   "queries": [
    "AI 백엔드 개발자",
+   "데이터 백엔드 개발자",
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 1,
   "career_max": null,
@@ -8261,7 +9986,7 @@
    "AI UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -8298,7 +10023,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": 12,
@@ -8355,11 +10080,12 @@
    }
   },
   "queries": [
+   "B2B UI/UX 디자이너",
    "데이터 UI/UX 디자이너",
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -8390,7 +10116,7 @@
    "GPU 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": 8,
@@ -8420,7 +10146,7 @@
    "개발자 플랫폼 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 1,
   "career_max": null,
@@ -8451,7 +10177,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -8481,7 +10207,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -8518,7 +10244,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 10,
   "career_max": null,
@@ -8545,10 +10271,11 @@
    }
   },
   "queries": [
+   "모빌리티 백엔드 개발자",
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 1,
   "career_max": 5,
@@ -8578,7 +10305,7 @@
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": 9,
@@ -8608,7 +10335,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": 10,
@@ -8696,10 +10423,12 @@
   },
   "queries": [
    "AI 플랫폼",
-   "LLM PM"
+   "B2B PM",
+   "LLM PM",
+   "에이전트 PM"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -8812,7 +10541,7 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311337?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311337?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=14&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -8837,7 +10566,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 0,
   "career_max": 1,
@@ -9242,10 +10971,11 @@
    "B2B SaaS product owner",
    "e-commerce project lead",
    "fintech product manager",
-   "fintech product owner"
+   "fintech product owner",
+   "fintech project lead"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -9302,11 +11032,13 @@
    }
   },
   "queries": [
+   "e-commerce account executive",
    "fintech product manager",
-   "fintech product owner"
+   "fintech product owner",
+   "fintech project lead"
   ],
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -9489,7 +11221,7 @@
   "location": "",
   "career": "경력5년↑ 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303457?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PO&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303457?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PM&listno=1&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -9517,7 +11249,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -9534,7 +11266,7 @@
   "location": "",
   "career": "경력7년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50305391?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PO&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50305391?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PM&listno=8&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -9562,7 +11294,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -9639,7 +11371,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303371?Oem_Code=C1&logpath=1&stext=AI+PM&listno=6&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50303371?Oem_Code=C1&logpath=1&stext=LLM+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=18&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -9668,7 +11400,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -9699,7 +11431,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -9765,7 +11497,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -10646,7 +12378,7 @@
    "모빌리티 PM"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -10689,7 +12421,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -10706,7 +12438,7 @@
   "location": "",
   "career": "경력3년↑ ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50200205?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50200205?Oem_Code=C1&logpath=1&stext=B2B+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -10735,7 +12467,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -10946,7 +12678,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 8,
@@ -10992,7 +12724,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11023,7 +12755,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11182,7 +12914,7 @@
   "id": "saramin:55460597",
   "source": "saramin",
   "title": "AI 네이티브 신입 프로덕트 디자이너, 요즘 디자인은 안목 싸움",
-  "company": "생각하는집(thinkHOW's)",
+  "company": "아이티에프(ITF)",
   "location": "경기 의왕시",
   "career": "신입",
   "deadline": "~ 12/02(수)",
@@ -11207,13 +12939,13 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
   "career_any": false,
   "score": 70,
-  "company_key": "생각하는집(thinkhow's)",
+  "company_key": "아이티에프(itf)",
   "stale": false
  },
  {
@@ -11269,7 +13001,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -11301,7 +13033,7 @@
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": 4,
@@ -11333,7 +13065,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11605,7 +13337,7 @@
    "모빌리티 PM"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -11691,7 +13423,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11754,7 +13486,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -11785,7 +13517,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -11912,7 +13644,7 @@
   "location": "",
   "career": "경력무관 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50279964?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50279964?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=8&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -11937,7 +13669,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -11954,7 +13686,7 @@
   "location": "",
   "career": "경력3년↑ 11",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298086?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298086?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=15&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -11979,7 +13711,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -12155,7 +13887,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -12516,7 +14248,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -12548,7 +14280,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": 5,
@@ -12642,7 +14374,7 @@
    "커머스 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -13078,7 +14810,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -13575,7 +15307,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -13605,7 +15337,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -13642,7 +15374,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -13673,7 +15405,7 @@
    "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -13736,7 +15468,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -13909,7 +15641,7 @@
    "GPU PM"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -13945,7 +15677,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -14077,7 +15809,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
@@ -14525,7 +16257,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50287660?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50287660?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PM&listno=3&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14540,7 +16272,7 @@
    "프롭테크 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -14557,7 +16289,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50287755?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PO&listno=2&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50287755?Oem_Code=C1&logpath=1&stext=%ED%94%84%EB%A1%AD%ED%85%8C%ED%81%AC+PM&listno=4&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -14577,7 +16309,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -14703,7 +16435,7 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/351460?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/351460?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -14720,6 +16452,7 @@
    "개발자 플랫폼 UI/UX 디자이너",
    "개발자 플랫폼 백엔드 개발자",
    "게임 백엔드 개발자",
+   "데이터 백엔드 개발자",
    "모빌리티 백엔드 개발자",
    "에듀테크 백엔드 개발자",
    "커머스 백엔드 개발자",
@@ -14729,7 +16462,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
@@ -14812,7 +16545,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/351631?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/351631?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -14839,13 +16572,14 @@
    "AI UI/UX 디자이너",
    "AI 서비스 기획",
    "GPU PO",
+   "LLM PO",
    "MLOps PO",
    "모빌리티 PO",
    "에이전트 PO",
    "프롭테크 PO"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -15346,8 +17080,8 @@
   "company": "[헤드헌팅] 건강기능식품 및 스포츠 뉴트리션 브랜드사",
   "location": "",
   "career": "",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/351569?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/351569?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -15375,6 +17109,7 @@
   "queries": [
    "AI PO",
    "GPU PO",
+   "LLM PO",
    "MLOps PO",
    "모빌리티 PO",
    "에이전트 PO",
@@ -15383,7 +17118,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -16079,7 +17814,7 @@
    "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -16198,7 +17933,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -16396,7 +18131,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -16574,7 +18309,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -17364,7 +19099,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -17431,7 +19166,7 @@
    "데이터 UI/UX 디자이너"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -17628,7 +19363,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025032?Oem_Code=C1&logpath=1&stext=B2B+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025032?Oem_Code=C1&logpath=1&stext=B2B+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=17&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -17641,7 +19376,7 @@
    "B2B UI/UX 디자이너"
   ],
   "first_seen": "2026-11-01",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -18222,7 +19957,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274956?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274956?Oem_Code=C1&logpath=1&stext=LLM+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=4&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -18235,10 +19970,11 @@
   "queries": [
    "AI UI/UX 디자이너",
    "LLM UI/UX 디자이너",
+   "개발자 플랫폼 UI/UX 디자이너",
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-31",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -19977,7 +21713,7 @@
    "프롭테크 PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -19994,7 +21730,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50268507?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PO&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50268507?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=15&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -20028,7 +21764,7 @@
    "커머스 프로덕트 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -20045,7 +21781,7 @@
   "location": "",
   "career": "경력무관 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50026016?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50026016?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=16&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -20060,7 +21796,7 @@
    "데이터 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -20077,7 +21813,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/336076?postQuerySessionId=8f08344b-94cb-4e59-a7e5-c728670c9bd7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/336076?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -20094,7 +21830,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -20285,7 +22021,7 @@
    "항공우주"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 15,
@@ -20461,7 +22197,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -20500,7 +22236,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -20548,7 +22284,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 7,
@@ -20901,7 +22637,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/325287?postQuerySessionId=b4b4f0ec-8dd4-4758-a06f-326d07e396ac&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/325287?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -20915,7 +22651,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -21127,7 +22863,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -21225,7 +22961,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 6,
   "career_max": 13,
@@ -21292,7 +23028,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -21344,7 +23080,7 @@
    "에듀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -21489,7 +23225,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -21538,7 +23274,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 10,
@@ -21712,7 +23448,7 @@
    "MLOps PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 12,
   "career_max": null,
@@ -21842,7 +23578,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -22323,7 +24059,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 5,
@@ -22561,7 +24297,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": 12,
@@ -22676,7 +24412,7 @@
    "GPU 서비스 기획"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 5,
@@ -22693,7 +24429,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263643?Oem_Code=C1&logpath=1&stext=AI+PL&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263643?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PM&listno=13&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -22723,7 +24459,7 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -22740,7 +24476,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263415?Oem_Code=C1&logpath=1&stext=AI+PL&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263415?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PM&listno=14&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -22770,7 +24506,7 @@
    "에이전트 PM"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -22880,7 +24616,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50266393?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PO&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50266393?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=13&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -22907,7 +24643,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -22954,7 +24690,7 @@
   "location": "",
   "career": "경력 5년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50132336?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50132336?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=19&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -22967,7 +24703,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -22984,7 +24720,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263906?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263906?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=11&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -23009,7 +24745,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -23327,7 +25063,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -23359,7 +25095,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -23376,7 +25112,7 @@
   "location": "",
   "career": "4년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/350983?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/350983?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -23397,7 +25133,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
@@ -23414,7 +25150,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/334248?postQuerySessionId=b4b4f0ec-8dd4-4758-a06f-326d07e396ac&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/334248?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -23427,7 +25163,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -23474,7 +25210,7 @@
   "location": "",
   "career": "10년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/261902?postQuerySessionId=b4b4f0ec-8dd4-4758-a06f-326d07e396ac&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/261902?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -23487,7 +25223,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -23504,7 +25240,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/327919?curationLocation=job_posting_tab&source=mid_salary_position&postQuerySessionId=af5884f0-67c2-4bed-a2bc-2a97a81c16c2&channel=mid_salary_position&jdViewSource=mid_salary_position",
+  "url": "https://career.rememberapp.co.kr/job/posting/327919?postQuerySessionId=b8246eba-6d23-4fc4-81f7-e1541f9b7136&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -23527,7 +25263,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -24074,7 +25810,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/315551?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/315551?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -24101,7 +25837,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -24118,7 +25854,7 @@
   "location": "",
   "career": "2년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/297309?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/297309?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -24143,7 +25879,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -24160,7 +25896,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/329297?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/329297?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -24186,7 +25922,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -24454,7 +26190,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260639?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260639?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=8&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -24467,7 +26203,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -24667,7 +26403,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260574?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50260574?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=18&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -24681,7 +26417,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -25030,7 +26766,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/299724?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/299724?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25054,7 +26790,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -25071,7 +26807,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/319758?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/319758?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25094,7 +26830,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -25111,7 +26847,7 @@
   "location": "",
   "career": "8년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/299720?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/299720?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25134,7 +26870,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -25151,7 +26887,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/314667?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/314667?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25175,7 +26911,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -25192,7 +26928,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/310772?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/310772?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25215,7 +26951,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -25249,7 +26985,7 @@
    "AI 서비스 기획"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -25367,7 +27103,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/262753?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/262753?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25390,7 +27126,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -25407,7 +27143,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/231561?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/231561?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -25430,7 +27166,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -26305,7 +28041,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -26418,7 +28154,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -26500,7 +28236,7 @@
   "location": "",
   "career": "경력 7년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212440?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=18&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212440?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=10&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -26516,7 +28252,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -26533,7 +28269,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639?Oem_Code=C1&logpath=1&stext=LLM+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040639?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=9&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -26550,7 +28286,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -26567,7 +28303,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348690?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348690?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -26594,7 +28330,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -26611,7 +28347,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/340972?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/340972?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -26638,7 +28374,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -26790,7 +28526,7 @@
   "company": "(주)이스트소프트",
   "location": "서울 서초구",
   "career": "경력5년↑",
-  "deadline": "내일마감",
+  "deadline": "오늘마감",
   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55239403",
   "room_hits": {
    "r-43f75fe724": {
@@ -26805,7 +28541,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -27087,7 +28823,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -27127,7 +28863,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -27176,7 +28912,7 @@
   "location": "",
   "career": "경력무관 ",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50160140?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50160140?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=15&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -27190,7 +28926,7 @@
    "에이전트 서비스 기획"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -27398,7 +29134,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -27414,8 +29150,8 @@
   "company": "피에프씨테크놀로지스(주)",
   "location": "",
   "career": "경력 무관 ",
-  "deadline": "D-2",
-  "url": "https://career.rememberapp.co.kr/job/posting/342859?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-1",
+  "url": "https://career.rememberapp.co.kr/job/posting/342859?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -27443,7 +29179,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -27797,7 +29533,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -28002,7 +29738,7 @@
    "에듀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": 20,
@@ -28033,7 +29769,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -28049,7 +29785,7 @@
   "company": "제이케이서치 주식회사",
   "location": "경기 성남시 분당구",
   "career": "경력 3~12년",
-  "deadline": "~ 11/09(월)",
+  "deadline": "오늘마감",
   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55386300",
   "room_hits": {
    "r-93de1a901b": {
@@ -28066,7 +29802,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": 12,
@@ -28159,7 +29895,7 @@
    "MLOps 서비스 기획"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -28190,7 +29926,7 @@
    "게임 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -28222,7 +29958,7 @@
    "에듀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": 20,
@@ -28270,7 +30006,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50250437?Oem_Code=C1&logpath=1&stext=B2B+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50250437?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=3&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28285,7 +30021,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -28302,7 +30038,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50198173?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=12&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50198173?Oem_Code=C1&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=13&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28316,7 +30052,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -28365,7 +30101,7 @@
   "location": "",
   "career": "경력4년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50170779?Oem_Code=C1&logpath=1&stext=AI+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50170779?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=5&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28381,7 +30117,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -28412,7 +30148,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -28429,7 +30165,7 @@
   "location": "",
   "career": "경력4년↑ ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152713?Oem_Code=C1&logpath=1&stext=AI+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=11&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152713?Oem_Code=C1&logpath=1&stext=LLM+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28445,7 +30181,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -28509,7 +30245,7 @@
    "프롭테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -28643,7 +30379,7 @@
   "location": "",
   "career": "10년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/350265?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/350265?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28674,7 +30410,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 10,
   "career_max": null,
@@ -28867,7 +30603,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/341796?postQuerySessionId=b4b4f0ec-8dd4-4758-a06f-326d07e396ac&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/341796?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -28881,7 +30617,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -28995,7 +30731,7 @@
   "location": "",
   "career": "경력 4년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50186902?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50186902?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=16&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -29008,7 +30744,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -29090,7 +30826,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": 10,
@@ -29389,7 +31125,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -29568,7 +31304,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -29750,7 +31486,7 @@
    "GPU 서비스 기획"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -30366,7 +32102,7 @@
    "LLM PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -30695,7 +32431,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -30712,7 +32448,7 @@
   "location": "",
   "career": "경력2년↑ 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50105093?Oem_Code=C1&logpath=1&stext=B2B+PO&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50105093?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=7&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -30726,7 +32462,7 @@
    "B2B PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -30769,7 +32505,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -30960,7 +32696,7 @@
   "location": "",
   "career": "경력5년↑ 09",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009517?PageGbn=HH&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009517?PageGbn=HH&logpath=1&stext=%ED%95%80%ED%85%8C%ED%81%AC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=12&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -30973,7 +32709,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -31235,7 +32971,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50236466?Oem_Code=C1&logpath=1&stext=%EC%BB%A4%EB%A8%B8%EC%8A%A4+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50236466?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=6&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -31261,7 +32997,7 @@
    "커머스 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -31327,7 +33063,7 @@
    "게임 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 0,
   "career_max": 1,
@@ -31374,7 +33110,7 @@
   "location": "",
   "career": "4년 이상",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50099201?Oem_Code=C1&logpath=1&stext=%EA%B2%8C%EC%9E%84+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=14&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50099201?Oem_Code=C1&logpath=1&stext=%EA%B2%8C%EC%9E%84+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=13&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -31390,7 +33126,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
@@ -31420,7 +33156,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -31450,7 +33186,7 @@
    "콘텐츠 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -31486,7 +33222,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -31529,7 +33265,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -31546,7 +33282,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062801?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=17&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062801?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=18&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -31559,7 +33295,7 @@
    "B2B PM"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -31684,7 +33420,7 @@
   "location": "",
   "career": "1년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348384?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348384?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -31712,7 +33448,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -31814,7 +33550,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/334777?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/334777?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -31837,7 +33573,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -31854,7 +33590,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/332120?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/332120?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -31892,7 +33628,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -31909,7 +33645,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/332196?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/332196?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -31947,7 +33683,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -31964,7 +33700,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/314792?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/314792?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -31996,7 +33732,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -32013,7 +33749,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/302205?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/302205?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32036,7 +33772,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -32092,7 +33828,7 @@
   "location": "",
   "career": "4년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/343234?postQuerySessionId=b6372146-fb50-41b4-892f-35db6d353d90&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/343234?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32114,7 +33850,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 4,
   "career_max": null,
@@ -32131,7 +33867,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/343200?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/343200?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32154,7 +33890,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -32171,7 +33907,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/334600?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/334600?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32194,7 +33930,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -32211,7 +33947,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/334599?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/334599?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32234,7 +33970,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -32251,7 +33987,7 @@
   "location": "",
   "career": "3년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/327877?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/327877?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -32274,7 +34010,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -32399,7 +34135,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32431,7 +34167,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32463,7 +34199,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 2,
   "career_max": null,
@@ -32495,7 +34231,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32527,7 +34263,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32559,7 +34295,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32591,7 +34327,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32623,7 +34359,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 8,
   "career_max": null,
@@ -32655,7 +34391,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 12,
   "career_max": null,
@@ -32687,7 +34423,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -32703,7 +34439,7 @@
   "company": "(주)앱솔브랩",
   "location": "",
   "career": "2년 이상",
-  "deadline": "D-3",
+  "deadline": "D-2",
   "url": "https://career.rememberapp.co.kr/job/posting/350313?curationLocation=job_posting_tab&source=ad_job_postings&channel=ad_job_postings&jdViewSource=ad_job_postings",
   "room_hits": {
    "r-43f75fe724": {
@@ -32774,7 +34510,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 2,
   "career_max": null,
@@ -33457,7 +35193,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -34747,7 +36483,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -34779,7 +36515,7 @@
    "B2B 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -36539,7 +38275,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -36629,7 +38365,7 @@
    "핀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -37256,7 +38992,7 @@
    "게임 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -37376,7 +39112,7 @@
    "에듀테크 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -37485,7 +39221,7 @@
   "location": "",
   "career": "경력7년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214181?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=8&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214181?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=7&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -37498,7 +39234,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 7,
   "career_max": null,
@@ -37528,7 +39264,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -37577,7 +39313,7 @@
   "location": "",
   "career": "신입",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194254?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=16&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194254?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=15&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -37590,7 +39326,7 @@
    "모빌리티 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 0,
   "career_max": 1,
@@ -37667,7 +39403,7 @@
   "location": "",
   "career": "경력2년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50123585?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=1&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50123585?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=2&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -37680,7 +39416,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 2,
   "career_max": null,
@@ -37740,7 +39476,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -37770,7 +39506,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -37800,7 +39536,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -37817,7 +39553,7 @@
   "location": "",
   "career": "경력무관 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50171463?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=3&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50171463?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=2&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -37830,7 +39566,7 @@
    "AI UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -37877,7 +39613,7 @@
   "location": "",
   "career": "경력3년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50195472?Oem_Code=C1&logpath=1&stext=%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%94%8C%EB%9E%AB%ED%8F%BC+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50195472?Oem_Code=C1&logpath=1&stext=AI+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=15&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -37891,7 +39627,7 @@
    "개발자 플랫폼 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -37908,7 +39644,7 @@
   "location": "",
   "career": "경력3년↑ 09",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50048503?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=19&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50048503?Oem_Code=C1&logpath=1&stext=%EC%BD%98%ED%85%90%EC%B8%A0+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17&sc=630",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -37921,7 +39657,7 @@
    "콘텐츠 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 3,
   "career_max": null,
@@ -38092,7 +39828,7 @@
    "개발자 플랫폼 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38277,7 +40013,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349720?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349720?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38307,7 +40043,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 5,
   "career_max": null,
@@ -38324,7 +40060,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349103?postQuerySessionId=8f08344b-94cb-4e59-a7e5-c728670c9bd7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349103?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38343,7 +40079,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38466,7 +40202,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348135?postQuerySessionId=b4b4f0ec-8dd4-4758-a06f-326d07e396ac&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348135?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38479,7 +40215,7 @@
    "데이터 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38496,7 +40232,7 @@
   "location": "",
   "career": "8년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/348008?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/348008?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38521,7 +40257,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 8,
   "career_max": null,
@@ -38578,7 +40314,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/346814?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/346814?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38603,7 +40339,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": 7,
   "career_max": null,
@@ -38620,7 +40356,7 @@
   "location": "",
   "career": "경력",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/331955?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/331955?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38645,7 +40381,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38767,7 +40503,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/345207?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/345207?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38792,7 +40528,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38809,7 +40545,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/345205?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/345205?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38834,7 +40570,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38851,7 +40587,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/335589?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/335589?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38886,7 +40622,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -38974,8 +40710,8 @@
   "company": "(주)퍼포먼스바이티비더블유에이",
   "location": "",
   "career": "경력",
-  "deadline": "D-7",
-  "url": "https://career.rememberapp.co.kr/job/posting/332003?postQuerySessionId=aa613e14-b37e-4cd0-9a24-c268ae84c3e7&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-6",
+  "url": "https://career.rememberapp.co.kr/job/posting/332003?postQuerySessionId=5305e671-3796-4d61-9c79-66d99d3aeb71&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-93de1a901b": {
     "domains": [
@@ -38999,7 +40735,7 @@
    "헬스케어 백엔드 개발자"
   ],
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": false,
   "career_min": null,
   "career_max": null,
@@ -39274,7 +41010,7 @@
   "location": "",
   "career": "경력7년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50148718?Oem_Code=C1&logpath=1&stext=MLOps+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=15&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50148718?Oem_Code=C1&logpath=1&stext=MLOps+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=14&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -39303,7 +41039,7 @@
    "MLOps 서비스 기획"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -39320,7 +41056,7 @@
   "location": "",
   "career": "경력8년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116200?Oem_Code=C1&logpath=1&stext=LLM+PM&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116200?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=1&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -39349,7 +41085,7 @@
    "LLM PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 8,
   "career_max": null,
@@ -39413,7 +41149,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/324357?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/324357?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -39444,7 +41180,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": 5,
@@ -39689,7 +41425,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/330051?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/330051?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -39720,7 +41456,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -39737,7 +41473,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/235877?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/235877?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -39768,7 +41504,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -40075,7 +41811,7 @@
    "MLOps 백엔드 개발자"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 13,
@@ -40413,7 +42149,7 @@
    "GPU PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": 8,
@@ -40872,8 +42608,8 @@
   "company": "(주)채널코퍼레이션",
   "location": "",
   "career": "",
-  "deadline": "D-12",
-  "url": "https://career.rememberapp.co.kr/job/posting/330504?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-11",
+  "url": "https://career.rememberapp.co.kr/job/posting/330504?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -40902,7 +42638,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -41492,7 +43228,7 @@
    "핀테크 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -41647,7 +43383,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/339804?curationLocation=job_posting_tab&source=ad_job_postings&channel=ad_job_postings&jdViewSource=ad_job_postings",
+  "url": "https://career.rememberapp.co.kr/job/posting/339804?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -41686,7 +43422,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-26",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -43301,7 +45037,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-25",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -43718,7 +45454,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224459?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=7&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50224459?Oem_Code=C1&logpath=1&stext=AI+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B8%B0%ED%9A%8D&listno=6&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -43747,7 +45483,7 @@
    "LLM 서비스 기획"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -43844,7 +45580,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": 20,
@@ -44026,7 +45762,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 10,
@@ -44075,7 +45811,7 @@
    "신입 서비스 기획"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -44167,7 +45903,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-24",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -44497,7 +46233,7 @@
   "first_seen": "2026-10-24",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 8,
   "career_max": null,
   "career_any": false,
@@ -44528,7 +46264,7 @@
   "first_seen": "2026-10-24",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 8,
   "career_max": null,
   "career_any": false,
@@ -45036,7 +46772,7 @@
   "first_seen": "2026-10-24",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 7,
   "career_max": null,
   "career_any": false,
@@ -45456,7 +47192,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349230?postQuerySessionId=b6372146-fb50-41b4-892f-35db6d353d90&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349230?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -45509,7 +47245,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 5,
@@ -45803,7 +47539,7 @@
   "location": "",
   "career": "7년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349451?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349451?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -45839,7 +47575,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 7,
   "career_max": null,
@@ -45896,7 +47632,7 @@
   "location": "",
   "career": "경력 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50219592?Oem_Code=C1&logpath=1&stext=B2B+PO&listno=4&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50219592?Oem_Code=C1&logpath=1&stext=B2B+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88&listno=2&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -45920,7 +47656,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -47257,7 +48993,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -47302,7 +49038,7 @@
    "LLM UI/UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 20,
@@ -47464,7 +49200,7 @@
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 7,
   "career_max": null,
   "career_any": false,
@@ -47622,7 +49358,7 @@
    "프로덕트 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -47751,7 +49487,7 @@
    "에이전트 PO"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -48107,7 +49843,7 @@
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -48236,7 +49972,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/349070?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/349070?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -48272,7 +50008,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
@@ -49639,7 +51375,7 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 8,
   "career_max": null,
   "career_any": false,
@@ -49698,7 +51434,7 @@
    "개발자 플랫폼"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 10,
   "career_max": null,
@@ -50108,7 +51844,7 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 5,
   "career_max": null,
   "career_any": false,
@@ -50163,7 +51899,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -50540,7 +52276,7 @@
    "디지털 트윈"
   ],
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -51650,7 +53386,7 @@
   "location": "",
   "career": "경력5년↑ 10",
   "deadline": "",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172520?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PO&listno=2&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172520?Oem_Code=C1&logpath=1&stext=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0+PM&listno=2&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -51682,7 +53418,7 @@
    "모빌리티 PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -51801,7 +53537,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347847?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347847?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -51838,7 +53574,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -52326,8 +54062,8 @@
   "company": "피에프씨테크놀로지스(주)",
   "location": "",
   "career": "3년 이상",
-  "deadline": "D-2",
-  "url": "https://career.rememberapp.co.kr/job/posting/280620?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "deadline": "D-1",
+  "url": "https://career.rememberapp.co.kr/job/posting/280620?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -52364,7 +54100,7 @@
    "프롭테크 PO"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": null,
@@ -53707,7 +55443,7 @@
   "location": "",
   "career": "경력 ",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050337?Oem_Code=C1&logpath=1&stext=%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+PO&listno=13&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050337?Oem_Code=C1&logpath=1&stext=LLM+PO&listno=20&sc=630",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -53730,11 +55466,12 @@
   },
   "queries": [
    "AI PO",
+   "LLM PO",
    "에이전트 PO",
    "프롭테크 PM"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 1,
   "career_max": null,
@@ -53898,7 +55635,7 @@
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
@@ -54382,7 +56119,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347972?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347972?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-ai-platform-pm": {
     "domains": [
@@ -54416,7 +56153,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -55091,7 +56828,7 @@
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -55411,7 +57148,7 @@
   "location": "",
   "career": "경력4년↑ 10",
   "deadline": "상시채용",
-  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152596?Oem_Code=C1&logpath=1&stext=B2B+PO&listno=5&sc=630",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50152596?Oem_Code=C1&logpath=1&stext=B2B+PM&listno=1&sc=630",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -55432,7 +57169,7 @@
    "SaaS 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 4,
   "career_max": null,
@@ -55449,7 +57186,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/336683?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/336683?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -55479,7 +57216,7 @@
    "주니어 서비스 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -55783,7 +57520,7 @@
   "location": "",
   "career": "2년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/344413?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/344413?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -55813,7 +57550,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 2,
   "career_max": null,
@@ -55830,7 +57567,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/205091?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/205091?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -55854,7 +57591,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": null,
   "career_max": null,
@@ -56271,7 +58008,7 @@
   "location": "",
   "career": "5년 이상",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/347849?postQuerySessionId=f9b29978-eba0-4db7-9c18-d3df39995a01&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/347849?postQuerySessionId=00183412-cece-446e-8b82-db5b97c02d17&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -56296,7 +58033,7 @@
    "플랫폼 기획"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -56734,7 +58471,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/342186?postQuerySessionId=b6372146-fb50-41b4-892f-35db6d353d90&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/342186?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -56766,7 +58503,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 5,
   "career_max": null,
@@ -56783,7 +58520,7 @@
   "location": "",
   "career": "",
   "deadline": "",
-  "url": "https://career.rememberapp.co.kr/job/posting/332699?postQuerySessionId=50736bb2-ea1b-4ccb-acab-35f56f39fa2c&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
+  "url": "https://career.rememberapp.co.kr/job/posting/332699?postQuerySessionId=77becb68-6aed-4d40-9977-f6bf070a11d5&jdViewSource=inweb_list&channel=inweb_list&source=inweb_list&isHighlight=false",
   "room_hits": {
    "r-43f75fe724": {
     "domains": [
@@ -56808,7 +58545,7 @@
    "헬스케어 UI/UX 디자이너"
   ],
   "first_seen": "2026-10-19",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "has_detail": true,
   "career_min": 3,
   "career_max": 7,
@@ -57470,7 +59207,7 @@
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": null,
   "career_max": null,
   "career_any": false,
@@ -58874,7 +60611,7 @@
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-25",
   "has_detail": true,
-  "stale": false,
+  "stale": true,
   "career_min": 3,
   "career_max": null,
   "career_any": false,
