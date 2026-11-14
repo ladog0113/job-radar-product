@@ -8339,7 +8339,7 @@
   ]
  },
  "프랭크스토어": {
-  "fetched_at": "2026-10-27",
+  "fetched_at": "2026-11-14",
   "jp_id": 549438,
   "jp_name": "(주)프랭크스토어",
   "rating": 0.0,
@@ -16053,7 +16053,7 @@
   ]
  },
  "법틀": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 333935,
   "jp_name": "(주)법틀",
   "rating": 3.4,
@@ -16134,27 +16134,27 @@
   ]
  },
  "앳홈": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 379768,
   "jp_name": "(주)앳홈",
   "rating": 2.7,
   "url": "https://www.jobplanet.co.kr/companies/379768/reviews",
-  "review_count": 114,
+  "review_count": 121,
   "overall": 2.7,
   "scores": {
    "복지/급여": 3.4,
    "워라밸": 2.6,
-   "사내문화": 2.4,
+   "사내문화": 2.5,
    "승진 기회": 2.5,
    "경영진": 2.4
   },
   "recommend_pct": 40.0,
   "ceo_pct": 43.0,
-  "growth_pct": 32.0,
+  "growth_pct": 33.0,
   "reviews": [
    {
-    "date": "2026. 10",
-    "occupation": "영업/제휴",
+    "date": "2026. 11",
+    "occupation": "교육",
     "status": "현직원",
     "overall": 1,
     "worklife": 1,
@@ -16165,50 +16165,50 @@
     "recommend": false
    },
    {
-    "date": "2026. 10",
-    "occupation": "영업/제휴",
-    "status": "현직원",
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "전직원",
     "overall": 1,
     "worklife": 1,
-    "compensation": 1,
+    "compensation": 3,
     "culture": 1,
     "advancement": 1,
     "management": 1,
     "recommend": false
    },
    {
-    "date": "2026. 10",
+    "date": "2026. 11",
     "occupation": "서비스/고객지원",
-    "status": "전직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
+    "status": "현직원",
+    "overall": 5,
+    "worklife": 3,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 4,
+    "management": 5,
+    "recommend": true
    },
    {
-    "date": "2026. 10",
-    "occupation": "인사/총무",
-    "status": "전직원",
-    "overall": 1,
-    "worklife": 5,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 4,
+    "management": 3,
+    "recommend": true
    },
    {
-    "date": "2026. 10",
-    "occupation": "금융/재무",
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
     "status": "현직원",
     "overall": 1,
     "worklife": 1,
-    "compensation": 1,
+    "compensation": 3,
     "culture": 1,
-    "advancement": 1,
+    "advancement": 3,
     "management": 1,
     "recommend": false
    }
@@ -16345,20 +16345,20 @@
   ]
  },
  "핀치하우스": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "킹파과학기술코리아": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "크레이버코퍼레이션": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 309443,
   "jp_name": "(주)크레이버코퍼레이션",
   "rating": 2.9,
   "url": "https://www.jobplanet.co.kr/companies/309443/reviews",
-  "review_count": 370,
+  "review_count": 374,
   "overall": 2.9,
   "scores": {
    "복지/급여": 2.8,
@@ -16371,6 +16371,30 @@
   "ceo_pct": 57.0,
   "growth_pct": 38.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 5,
+    "culture": 3,
+    "advancement": 2,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 4,
+    "advancement": 5,
+    "management": 3,
+    "recommend": false
+   },
    {
     "date": "2026. 10",
     "occupation": "마케팅/시장조사",
@@ -16406,56 +16430,32 @@
     "advancement": 1,
     "management": 1,
     "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "금융/재무",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 4,
-    "compensation": 4,
-    "culture": 4,
-    "advancement": 4,
-    "management": 4,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "인사/총무",
-    "status": "전직원",
-    "overall": 2,
-    "worklife": 2,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 4,
-    "management": 1,
-    "recommend": false
    }
   ]
  },
  "모도그로브": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 496901,
   "jp_name": "(주)모도그로브",
-  "rating": 1.9,
+  "rating": 2.1,
   "url": "https://www.jobplanet.co.kr/companies/496901/reviews",
-  "review_count": 15,
-  "overall": 1.9,
+  "review_count": 16,
+  "overall": 2.1,
   "scores": {
-   "복지/급여": 2.2,
-   "워라밸": 2.2,
-   "사내문화": 2.3,
-   "승진 기회": 1.8,
-   "경영진": 1.7
+   "복지/급여": 2.3,
+   "워라밸": 2.3,
+   "사내문화": 2.4,
+   "승진 기회": 1.9,
+   "경영진": 1.8
   },
-  "recommend_pct": 40.0,
-  "ceo_pct": 40.0,
-  "growth_pct": 27.0,
+  "recommend_pct": 44.0,
+  "ceo_pct": 44.0,
+  "growth_pct": 31.0,
   "reviews": [
    {
     "date": "2026. 10",
     "occupation": "마케팅/시장조사",
-    "status": "전직원",
+    "status": "현직원",
     "overall": 1,
     "worklife": 1,
     "compensation": 1,
@@ -16463,6 +16463,18 @@
     "advancement": 1,
     "management": 1,
     "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
    },
    {
     "date": "2026. 10",
@@ -16487,30 +16499,6 @@
     "advancement": 2,
     "management": 3,
     "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "영업/제휴",
-    "status": "현직원",
-    "overall": 3,
-    "worklife": 4,
-    "compensation": 2,
-    "culture": 3,
-    "advancement": 3,
-    "management": 2,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "마케팅/시장조사",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
    }
   ]
  },
@@ -16596,12 +16584,12 @@
   ]
  },
  "한화에어로스페이스": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 30082,
   "jp_name": "한화에어로스페이스(주)",
   "rating": 3.3,
   "url": "https://www.jobplanet.co.kr/companies/30082/reviews",
-  "review_count": 600,
+  "review_count": 606,
   "overall": 3.3,
   "scores": {
    "복지/급여": 3.4,
@@ -16610,79 +16598,79 @@
    "승진 기회": 2.9,
    "경영진": 2.4
   },
-  "recommend_pct": 49.0,
+  "recommend_pct": 50.0,
   "ceo_pct": 46.0,
-  "growth_pct": 29.0,
+  "growth_pct": 30.0,
   "reviews": [
    {
-    "date": "2026. 10",
-    "occupation": "기획/경영",
-    "status": "현직원",
-    "overall": 5,
-    "worklife": 4,
-    "compensation": 4,
-    "culture": 4,
-    "advancement": 2,
-    "management": 2,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "엔지니어링",
-    "status": "현직원",
-    "overall": 5,
-    "worklife": 5,
-    "compensation": 5,
-    "culture": 5,
-    "advancement": 5,
-    "management": 5,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "개발",
-    "status": "현직원",
+    "date": "2026. 11",
+    "occupation": "생산/제조",
+    "status": "전직원",
     "overall": 3,
-    "worklife": 2,
+    "worklife": 3,
     "compensation": 3,
-    "culture": 2,
-    "advancement": 2,
-    "management": 1,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
     "recommend": true
    },
    {
-    "date": "2026. 10",
+    "date": "2026. 11",
     "occupation": "생산/제조",
     "status": "전직원",
     "overall": 5,
     "worklife": 4,
-    "compensation": 4,
+    "compensation": 5,
+    "culture": 4,
+    "advancement": 3,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "생산관리/품질관리",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 4,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "생산/제조",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 3,
+    "compensation": 5,
     "culture": 4,
     "advancement": 3,
     "management": 3,
     "recommend": true
    },
    {
-    "date": "2026. 10",
-    "occupation": "생산/제조",
-    "status": "현직원",
-    "overall": 2,
-    "worklife": 4,
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 3,
     "compensation": 4,
-    "culture": 1,
+    "culture": 3,
     "advancement": 1,
-    "management": 3,
-    "recommend": true
+    "management": 1,
+    "recommend": false
    }
   ]
  },
  "쏘카": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 88335,
   "jp_name": "(주)쏘카",
   "rating": 3.0,
   "url": "https://www.jobplanet.co.kr/companies/88335/reviews",
-  "review_count": 553,
+  "review_count": 556,
   "overall": 3.0,
   "scores": {
    "복지/급여": 2.3,
@@ -16695,6 +16683,42 @@
   "ceo_pct": 47.0,
   "growth_pct": 27.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 1,
+    "culture": 3,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 5,
+    "compensation": 1,
+    "culture": 2,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 5,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
    {
     "date": "2026. 10",
     "occupation": "기획/경영",
@@ -16718,47 +16742,11 @@
     "advancement": 4,
     "management": 2,
     "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "기획/경영",
-    "status": "전직원",
-    "overall": 4,
-    "worklife": 5,
-    "compensation": 2,
-    "culture": 4,
-    "advancement": 2,
-    "management": 2,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "디자인",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 4,
-    "compensation": 1,
-    "culture": 5,
-    "advancement": 3,
-    "management": 2,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "영업/제휴",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 3,
-    "management": 3,
-    "recommend": true
    }
   ]
  },
  "케이피보험서비스": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 378301,
   "jp_name": "케이피보험서비스(주)",
   "rating": 2.5,
@@ -17277,7 +17265,7 @@
   ]
  },
  "비올메디컬": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 74554,
   "jp_name": "(주)비올메디컬",
   "rating": 3.0,
@@ -17358,24 +17346,36 @@
   ]
  },
  "에이아이트릭스": {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-11-14",
   "jp_id": 355944,
   "jp_name": "(주)에이아이트릭스",
   "rating": 3.3,
   "url": "https://www.jobplanet.co.kr/companies/355944/reviews",
-  "review_count": 53,
+  "review_count": 54,
   "overall": 3.3,
   "scores": {
    "복지/급여": 4.0,
    "워라밸": 4.1,
    "사내문화": 3.3,
-   "승진 기회": 3.2,
+   "승진 기회": 3.1,
    "경영진": 2.6
   },
-  "recommend_pct": 49.0,
-  "ceo_pct": 55.0,
-  "growth_pct": 40.0,
+  "recommend_pct": 50.0,
+  "ceo_pct": 54.0,
+  "growth_pct": 39.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 2,
+    "management": 2,
+    "recommend": true
+   },
    {
     "date": "2026. 09",
     "occupation": "마케팅/시장조사",
@@ -17423,18 +17423,6 @@
     "advancement": 1,
     "management": 1,
     "recommend": false
-   },
-   {
-    "date": "2026. 07",
-    "occupation": "생산/제조",
-    "status": "현직원",
-    "overall": 5,
-    "worklife": 5,
-    "compensation": 5,
-    "culture": 5,
-    "advancement": 5,
-    "management": 5,
-    "recommend": true
    }
   ]
  },
@@ -26158,83 +26146,83 @@
   ]
  },
  "아이아이컴바인드": {
-  "fetched_at": "2026-10-29",
+  "fetched_at": "2026-11-14",
   "jp_id": 70955,
   "jp_name": "(주)아이아이컴바인드",
-  "rating": 3.3,
+  "rating": 3.2,
   "url": "https://www.jobplanet.co.kr/companies/70955/reviews",
-  "review_count": 575,
-  "overall": 3.3,
+  "review_count": 581,
+  "overall": 3.2,
   "scores": {
    "복지/급여": 3.5,
    "워라밸": 2.7,
-   "사내문화": 3.1,
+   "사내문화": 3.0,
    "승진 기회": 2.8,
    "경영진": 2.8
   },
   "recommend_pct": 60.0,
-  "ceo_pct": 71.0,
+  "ceo_pct": 70.0,
   "growth_pct": 53.0,
   "reviews": [
    {
-    "date": "2026. 10",
-    "occupation": "유통/무역",
-    "status": "현직원",
-    "overall": 5,
-    "worklife": 1,
-    "compensation": 3,
-    "culture": 4,
-    "advancement": 3,
-    "management": 3,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "서비스/고객지원",
-    "status": "전직원",
-    "overall": 4,
-    "worklife": 4,
-    "compensation": 4,
-    "culture": 5,
-    "advancement": 4,
-    "management": 4,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "서비스/고객지원",
-    "status": "전직원",
-    "overall": 4,
-    "worklife": 3,
-    "compensation": 4,
-    "culture": 3,
-    "advancement": 4,
-    "management": 3,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
+    "date": "2026. 11",
     "occupation": "영업/제휴",
     "status": "전직원",
-    "overall": 1,
+    "overall": 3,
     "worklife": 2,
     "compensation": 3,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
+    "culture": 3,
+    "advancement": 2,
+    "management": 2,
     "recommend": false
    },
    {
-    "date": "2026. 10",
-    "occupation": "마케팅/시장조사",
+    "date": "2026. 11",
+    "occupation": "서비스/고객지원",
     "status": "전직원",
-    "overall": 5,
-    "worklife": 3,
+    "overall": 2,
+    "worklife": 2,
     "compensation": 4,
-    "culture": 4,
-    "advancement": 3,
-    "management": 5,
+    "culture": 1,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 1,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "디자인",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 2,
+    "compensation": 5,
+    "culture": 3,
+    "advancement": 5,
+    "management": 2,
     "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "디자인",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 5,
+    "culture": 1,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
    }
   ]
  },
@@ -26369,12 +26357,12 @@
   ]
  },
  "메타엠": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 87010,
   "jp_name": "(주)메타엠",
   "rating": 2.6,
   "url": "https://www.jobplanet.co.kr/companies/87010/reviews",
-  "review_count": 1916,
+  "review_count": 1935,
   "overall": 2.6,
   "scores": {
    "복지/급여": 2.1,
@@ -26388,59 +26376,59 @@
   "growth_pct": 7.0,
   "reviews": [
    {
-    "date": "2026. 10",
-    "occupation": "서비스/고객지원",
+    "date": "2026. 11",
+    "occupation": "인사/총무",
     "status": "전직원",
-    "overall": 4,
-    "worklife": 3,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 4,
+    "overall": 2,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 1,
     "management": 3,
-    "recommend": true
+    "recommend": false
    },
    {
-    "date": "2026. 10",
+    "date": "2026. 11",
+    "occupation": "서비스/고객지원",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "서비스/고객지원",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 2,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
     "occupation": "서비스/고객지원",
     "status": "전직원",
     "overall": 5,
     "worklife": 5,
-    "compensation": 3,
-    "culture": 5,
-    "advancement": 5,
-    "management": 5,
+    "compensation": 5,
+    "culture": 4,
+    "advancement": 4,
+    "management": 4,
     "recommend": true
    },
    {
-    "date": "2026. 10",
-    "occupation": "영업/제휴",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 5,
-    "compensation": 4,
-    "culture": 5,
-    "advancement": 3,
-    "management": 3,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "서비스/고객지원",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 5,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "서비스/고객지원",
+    "date": "2026. 11",
+    "occupation": "공채",
     "status": "전직원",
     "overall": 1,
-    "worklife": 4,
+    "worklife": 1,
     "compensation": 1,
     "culture": 1,
     "advancement": 1,
@@ -26450,7 +26438,7 @@
   ]
  },
  "노르마": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 83432,
   "jp_name": "(주)노르마",
   "rating": 2.6,
@@ -26531,7 +26519,7 @@
   ]
  },
  "로콘": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 488754,
   "jp_name": "(주)로콘",
   "rating": 4.0,
@@ -26564,7 +26552,7 @@
   ]
  },
  "엠클라우드브리지": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 409111,
   "jp_name": "엠클라우드브리지(주)",
   "rating": 1.8,
@@ -26645,12 +26633,12 @@
   ]
  },
  "키스템프그룹": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 331259,
   "jp_name": "(주)키스템프그룹",
   "rating": 3.3,
   "url": "https://www.jobplanet.co.kr/companies/331259/reviews",
-  "review_count": 775,
+  "review_count": 786,
   "overall": 3.3,
   "scores": {
    "복지/급여": 2.9,
@@ -26664,7 +26652,55 @@
   "growth_pct": 15.0,
   "reviews": [
    {
-    "date": "2026. 10",
+    "date": "2026. 11",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "미디어/홍보",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 1,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 1,
+    "management": 1,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "미디어/홍보",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 4,
+    "advancement": 2,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
     "occupation": "개발",
     "status": "전직원",
     "overall": 4,
@@ -26674,64 +26710,16 @@
     "advancement": 3,
     "management": 4,
     "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "유통/무역",
-    "status": "전직원",
-    "overall": 1,
-    "worklife": 3,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "데이터",
-    "status": "전직원",
-    "overall": 5,
-    "worklife": 5,
-    "compensation": 5,
-    "culture": 5,
-    "advancement": 5,
-    "management": 5,
-    "recommend": true
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 3,
-    "management": 3,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "미디어/홍보",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 3,
-    "management": 3,
-    "recommend": false
    }
   ]
  },
  "인터엑스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 386112,
   "jp_name": "(주)인터엑스",
   "rating": 2.2,
   "url": "https://www.jobplanet.co.kr/companies/386112/reviews",
-  "review_count": 164,
+  "review_count": 166,
   "overall": 2.2,
   "scores": {
    "복지/급여": 2.2,
@@ -26746,6 +26734,18 @@
   "reviews": [
    {
     "date": "2026. 10",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
     "occupation": "개발",
     "status": "전직원",
     "overall": 2,
@@ -26754,6 +26754,18 @@
     "culture": 2,
     "advancement": 3,
     "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "영업/제휴",
+    "status": "현직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
     "recommend": false
    },
    {
@@ -26779,52 +26791,52 @@
     "advancement": 3,
     "management": 3,
     "recommend": true
-   },
-   {
-    "date": "2026. 09",
-    "occupation": "영업/제휴",
-    "status": "현직원",
-    "overall": 4,
-    "worklife": 4,
-    "compensation": 4,
-    "culture": 5,
-    "advancement": 5,
-    "management": 4,
-    "recommend": true
-   },
-   {
-    "date": "2026. 09",
-    "occupation": "기획/경영",
-    "status": "현직원",
-    "overall": 4,
-    "worklife": 4,
-    "compensation": 4,
-    "culture": 4,
-    "advancement": 4,
-    "management": 4,
-    "recommend": true
    }
   ]
  },
  "데이터메이커": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 371446,
   "jp_name": "(주)데이터메이커",
   "rating": 3.4,
   "url": "https://www.jobplanet.co.kr/companies/371446/reviews",
-  "review_count": 66,
+  "review_count": 68,
   "overall": 3.4,
   "scores": {
    "복지/급여": 3.3,
-   "워라밸": 3.7,
+   "워라밸": 3.6,
    "사내문화": 3.2,
    "승진 기회": 3.0,
    "경영진": 2.9
   },
-  "recommend_pct": 61.0,
+  "recommend_pct": 60.0,
   "ceo_pct": 68.0,
-  "growth_pct": 47.0,
+  "growth_pct": 46.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
    {
     "date": "2026. 10",
     "occupation": "데이터",
@@ -26860,35 +26872,11 @@
     "advancement": 2,
     "management": 1,
     "recommend": false
-   },
-   {
-    "date": "2026. 09",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 2,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 08",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 3,
-    "worklife": 4,
-    "compensation": 3,
-    "culture": 3,
-    "advancement": 2,
-    "management": 1,
-    "recommend": false
    }
   ]
  },
  "젠젠에이아이": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 525774,
   "jp_name": "(주)젠젠에이아이",
   "rating": 0.0,
@@ -26908,17 +26896,17 @@
   "reviews": []
  },
  "리덕트": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "유비온": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 60049,
   "jp_name": "(주)유비온",
   "rating": 2.8,
   "url": "https://www.jobplanet.co.kr/companies/60049/reviews",
-  "review_count": 229,
-  "overall": 2.7,
+  "review_count": 228,
+  "overall": 2.8,
   "scores": {
    "복지/급여": 2.3,
    "워라밸": 3.5,
@@ -26993,11 +26981,11 @@
   ]
  },
  "skax": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "에버브레인컨설팅": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 98250,
   "jp_name": "에버브레인컨설팅(주)",
   "rating": 3.0,
@@ -27066,19 +27054,19 @@
   ]
  },
  "에이엑스코어": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "이지써멀": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "에스지랩": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "브릭에이아이": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 547201,
   "jp_name": "(주)브릭에이아이",
   "rating": 0.0,
@@ -27098,7 +27086,7 @@
   "reviews": []
  },
  "모비루스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 77184,
   "jp_name": "(주)모비루스",
   "rating": 3.3,
@@ -27179,7 +27167,7 @@
   ]
  },
  "위세아이텍": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 60620,
   "jp_name": "(주)위세아이텍",
   "rating": 2.4,
@@ -27260,24 +27248,48 @@
   ]
  },
  "레인보우로보틱스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 337633,
   "jp_name": "(주)레인보우로보틱스",
   "rating": 2.3,
   "url": "https://www.jobplanet.co.kr/companies/337633/reviews",
-  "review_count": 26,
+  "review_count": 28,
   "overall": 2.3,
   "scores": {
    "복지/급여": 2.0,
    "워라밸": 1.9,
-   "사내문화": 2.4,
-   "승진 기회": 2.2,
+   "사내문화": 2.5,
+   "승진 기회": 2.3,
    "경영진": 2.4
   },
-  "recommend_pct": 27.0,
+  "recommend_pct": 29.0,
   "ceo_pct": 50.0,
-  "growth_pct": 42.0,
+  "growth_pct": 46.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "유통/무역",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 3,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "서비스/고객지원",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 3,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
    {
     "date": "2026. 09",
     "occupation": "생산/제조",
@@ -27313,40 +27325,16 @@
     "advancement": 2,
     "management": 1,
     "recommend": false
-   },
-   {
-    "date": "2026. 01",
-    "occupation": "생산/제조",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 5,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 01",
-    "occupation": "생산/제조",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
    }
   ]
  },
  "에임메드": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 64800,
   "jp_name": "(주)에임메드",
   "rating": 2.6,
   "url": "https://www.jobplanet.co.kr/companies/64800/reviews",
-  "review_count": 135,
+  "review_count": 137,
   "overall": 2.6,
   "scores": {
    "복지/급여": 2.3,
@@ -27359,6 +27347,18 @@
   "ceo_pct": 42.0,
   "growth_pct": 12.0,
   "reviews": [
+   {
+    "date": "2026. 10",
+    "occupation": "영업/제휴",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
    {
     "date": "2026. 10",
     "occupation": "서비스/고객지원",
@@ -27406,23 +27406,11 @@
     "advancement": 4,
     "management": 1,
     "recommend": true
-   },
-   {
-    "date": "2026. 08",
-    "occupation": "개발",
-    "status": "전직원",
-    "overall": 1,
-    "worklife": 3,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 5,
-    "recommend": false
    }
   ]
  },
  "블루시그널": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 412371,
   "jp_name": "(주)블루시그널",
   "rating": 2.7,
@@ -27503,7 +27491,7 @@
   ]
  },
  "바이엘": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 548325,
   "jp_name": "(주)바이엘",
   "rating": 0.0,
@@ -27523,7 +27511,7 @@
   "reviews": []
  },
  "더줌코리아": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 537380,
   "jp_name": "(주)더줌코리아",
   "rating": 0.0,
@@ -27543,7 +27531,7 @@
   "reviews": []
  },
  "에프디": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 498036,
   "jp_name": "에프디",
   "rating": 1.0,
@@ -27576,16 +27564,16 @@
   ]
  },
  "페이즘": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "네오바이오텍": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 83787,
   "jp_name": "(주)네오바이오텍",
   "rating": 2.5,
   "url": "https://www.jobplanet.co.kr/companies/83787/reviews",
-  "review_count": 454,
+  "review_count": 457,
   "overall": 2.5,
   "scores": {
    "복지/급여": 1.9,
@@ -27598,6 +27586,42 @@
   "ceo_pct": 31.0,
   "growth_pct": 9.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 4,
+    "management": 2,
+    "recommend": true
+   },
    {
     "date": "2026. 10",
     "occupation": "영업/제휴",
@@ -27621,47 +27645,11 @@
     "advancement": 1,
     "management": 1,
     "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "생산/제조",
-    "status": "전직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "생산관리/품질관리",
-    "status": "현직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 2,
-    "culture": 3,
-    "advancement": 2,
-    "management": 2,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "생산/제조",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 4,
-    "compensation": 1,
-    "culture": 3,
-    "advancement": 1,
-    "management": 2,
-    "recommend": false
    }
   ]
  },
  "모디무드": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 533765,
   "jp_name": "(주)모디무드",
   "rating": 1.0,
@@ -27694,7 +27682,7 @@
   ]
  },
  "코디웍스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 192640,
   "jp_name": "코디웍스(주)",
   "rating": 0.0,
@@ -27714,11 +27702,11 @@
   "reviews": []
  },
  "어센드": {
-  "fetched_at": "2026-10-30",
-  "jp_id": 360557,
+  "fetched_at": "2026-11-14",
+  "jp_id": 338865,
   "jp_name": "(주)어센드",
   "rating": 0.0,
-  "url": "https://www.jobplanet.co.kr/companies/360557/reviews",
+  "url": "https://www.jobplanet.co.kr/companies/338865/reviews",
   "review_count": 0,
   "overall": 0.0,
   "scores": {
@@ -27734,7 +27722,7 @@
   "reviews": []
  },
  "리진바이오": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 522268,
   "jp_name": "리진바이오",
   "rating": 0.0,
@@ -27754,7 +27742,7 @@
   "reviews": []
  },
  "솔비스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 383773,
   "jp_name": "(주)솔비스",
   "rating": 3.7,
@@ -27835,24 +27823,36 @@
   ]
  },
  "인티그레이션": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 356191,
   "jp_name": "(주)인티그레이션",
-  "rating": 3.6,
+  "rating": 3.5,
   "url": "https://www.jobplanet.co.kr/companies/356191/reviews",
-  "review_count": 32,
-  "overall": 3.6,
+  "review_count": 33,
+  "overall": 3.5,
   "scores": {
    "복지/급여": 2.8,
-   "워라밸": 3.0,
-   "사내문화": 3.4,
-   "승진 기회": 3.5,
-   "경영진": 3.3
+   "워라밸": 2.9,
+   "사내문화": 3.5,
+   "승진 기회": 3.4,
+   "경영진": 3.4
   },
-  "recommend_pct": 63.0,
-  "ceo_pct": 69.0,
-  "growth_pct": 75.0,
+  "recommend_pct": 64.0,
+  "ceo_pct": 70.0,
+  "growth_pct": 76.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "전문직",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 2,
+    "compensation": 1,
+    "culture": 4,
+    "advancement": 2,
+    "management": 5,
+    "recommend": true
+   },
    {
     "date": "2026. 09",
     "occupation": "개발",
@@ -27900,23 +27900,11 @@
     "advancement": 3,
     "management": 3,
     "recommend": true
-   },
-   {
-    "date": "2026. 05",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 4,
-    "worklife": 5,
-    "compensation": 3,
-    "culture": 4,
-    "advancement": 5,
-    "management": 3,
-    "recommend": true
    }
   ]
  },
  "피피에이치알": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 541310,
   "jp_name": "피피에이치알",
   "rating": 0.0,
@@ -27936,11 +27924,11 @@
   "reviews": []
  },
  "한국서치": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "피플워크": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 370992,
   "jp_name": "피플워크(주)",
   "rating": 0.0,
@@ -27960,11 +27948,11 @@
   "reviews": []
  },
  "벤처피플": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "핀샷": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 333417,
   "jp_name": "(주)핀샷",
   "rating": 2.7,
@@ -28033,7 +28021,7 @@
   ]
  },
  "게임엔": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 448337,
   "jp_name": "(주)게임엔",
   "rating": 2.0,
@@ -28066,7 +28054,7 @@
   ]
  },
  "비즈니스온커뮤니케이션": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 74451,
   "jp_name": "(주)비즈니스온커뮤니케이션",
   "rating": 2.7,
@@ -28147,27 +28135,27 @@
   ]
  },
  "에테르(aether)": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "델타엑스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 397383,
   "jp_name": "(주)델타엑스",
   "rating": 3.9,
   "url": "https://www.jobplanet.co.kr/companies/397383/reviews",
-  "review_count": 15,
+  "review_count": 16,
   "overall": 3.9,
   "scores": {
-   "복지/급여": 4.0,
-   "워라밸": 4.1,
-   "사내문화": 3.7,
+   "복지/급여": 3.8,
+   "워라밸": 4.0,
+   "사내문화": 3.6,
    "승진 기회": 3.9,
-   "경영진": 3.5
+   "경영진": 3.6
   },
-  "recommend_pct": 67.0,
-  "ceo_pct": 67.0,
-  "growth_pct": 53.0,
+  "recommend_pct": 63.0,
+  "ceo_pct": 69.0,
+  "growth_pct": 50.0,
   "reviews": [
    {
     "date": "2026. 10",
@@ -28232,7 +28220,7 @@
   ]
  },
  "에스씨솔루션글로벌": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 408326,
   "jp_name": "(주)에스씨솔루션글로벌",
   "rating": 1.9,
@@ -28313,12 +28301,12 @@
   ]
  },
  "이씨이십일알앤씨": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 347259,
   "jp_name": "이씨이십일알앤씨(주)",
   "rating": 2.5,
   "url": "https://www.jobplanet.co.kr/companies/347259/reviews",
-  "review_count": 83,
+  "review_count": 84,
   "overall": 2.5,
   "scores": {
    "복지/급여": 2.4,
@@ -28328,9 +28316,21 @@
    "경영진": 2.0
   },
   "recommend_pct": 39.0,
-  "ceo_pct": 39.0,
+  "ceo_pct": 38.0,
   "growth_pct": 13.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 1,
+    "recommend": true
+   },
    {
     "date": "2026. 09",
     "occupation": "공채",
@@ -28378,23 +28378,11 @@
     "advancement": 5,
     "management": 3,
     "recommend": true
-   },
-   {
-    "date": "2026. 07",
-    "occupation": "영업/제휴",
-    "status": "전직원",
-    "overall": 5,
-    "worklife": 3,
-    "compensation": 4,
-    "culture": 3,
-    "advancement": 4,
-    "management": 5,
-    "recommend": false
    }
   ]
  },
  "펙타": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 531447,
   "jp_name": "(주)펙타",
   "rating": 0.0,
@@ -28414,24 +28402,60 @@
   "reviews": []
  },
  "알스퀘어": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 321011,
   "jp_name": "(주)알스퀘어",
   "rating": 3.1,
   "url": "https://www.jobplanet.co.kr/companies/321011/reviews",
-  "review_count": 159,
+  "review_count": 162,
   "overall": 3.1,
   "scores": {
    "복지/급여": 2.8,
    "워라밸": 3.4,
    "사내문화": 2.9,
-   "승진 기회": 2.8,
+   "승진 기회": 2.9,
    "경영진": 2.8
   },
   "recommend_pct": 52.0,
-  "ceo_pct": 69.0,
+  "ceo_pct": 70.0,
   "growth_pct": 35.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 5,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "서비스/고객지원",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 2,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
    {
     "date": "2026. 10",
     "occupation": "개발",
@@ -28455,47 +28479,11 @@
     "advancement": 4,
     "management": 5,
     "recommend": true
-   },
-   {
-    "date": "2026. 09",
-    "occupation": "디자인",
-    "status": "현직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 2,
-    "culture": 1,
-    "advancement": 2,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 09",
-    "occupation": "공채",
-    "status": "전직원",
-    "overall": 4,
-    "worklife": 5,
-    "compensation": 4,
-    "culture": 3,
-    "advancement": 5,
-    "management": 3,
-    "recommend": true
-   },
-   {
-    "date": "2026. 08",
-    "occupation": "미디어/홍보",
-    "status": "전직원",
-    "overall": 3,
-    "worklife": 3,
-    "compensation": 2,
-    "culture": 3,
-    "advancement": 3,
-    "management": 3,
-    "recommend": true
    }
   ]
  },
  "네오리진": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 53057,
   "jp_name": "(주)네오리진",
   "rating": 2.6,
@@ -28576,11 +28564,11 @@
   ]
  },
  "오토핸즈": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "액티브스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 547090,
   "jp_name": "(주)액티브스",
   "rating": 0.0,
@@ -28600,7 +28588,7 @@
   "reviews": []
  },
  "가제트코리아": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 396249,
   "jp_name": "가제트코리아(주)",
   "rating": 2.3,
@@ -28681,12 +28669,12 @@
   ]
  },
  "부스터스": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 361963,
   "jp_name": "(주)부스터스",
   "rating": 2.8,
   "url": "https://www.jobplanet.co.kr/companies/361963/reviews",
-  "review_count": 150,
+  "review_count": 152,
   "overall": 2.8,
   "scores": {
    "복지/급여": 3.0,
@@ -28697,7 +28685,7 @@
   },
   "recommend_pct": 45.0,
   "ceo_pct": 56.0,
-  "growth_pct": 44.0,
+  "growth_pct": 43.0,
   "reviews": [
    {
     "date": "2025. 08",
@@ -28762,7 +28750,7 @@
   ]
  },
  "바인드": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 424883,
   "jp_name": "(주)바인드",
   "rating": 2.3,
@@ -28843,7 +28831,7 @@
   ]
  },
  "아스타": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 92934,
   "jp_name": "(주)아스타",
   "rating": 2.0,
@@ -28924,7 +28912,7 @@
   ]
  },
  "꽃길코리아": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 331102,
   "jp_name": "꽃길코리아(유)",
   "rating": 3.9,
@@ -29005,7 +28993,7 @@
   ]
  },
  "알로스타": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": 405916,
   "jp_name": "(주)알로스타",
   "rating": 2.8,
@@ -29086,11 +29074,11 @@
   ]
  },
  "fptkorea": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "마이다스그룹": {
-  "fetched_at": "2026-10-30",
+  "fetched_at": "2026-11-14",
   "jp_id": null
  },
  "에버브레인써치": {
@@ -44049,6 +44037,1342 @@
  },
  "mutuuslab": {
   "fetched_at": "2026-11-13",
+  "jp_id": null
+ },
+ "메이아이": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 254512,
+  "jp_name": "(주)메이아이",
+  "rating": 2.4,
+  "url": "https://www.jobplanet.co.kr/companies/254512/reviews",
+  "review_count": 28,
+  "overall": 2.4,
+  "scores": {
+   "복지/급여": 2.3,
+   "워라밸": 2.5,
+   "사내문화": 2.5,
+   "승진 기회": 2.6,
+   "경영진": 2.4
+  },
+  "recommend_pct": 21.0,
+  "ceo_pct": 46.0,
+  "growth_pct": 11.0,
+  "reviews": [
+   {
+    "date": "2026. 04",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 5,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 5,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2025. 09",
+    "occupation": "디자인",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 10",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 08",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 03",
+    "occupation": "디자인",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 3,
+    "culture": 1,
+    "advancement": 3,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "터닝포인트에이치알": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 326874,
+  "jp_name": "(주)터닝포인트에이치알",
+  "rating": 3.8,
+  "url": "https://www.jobplanet.co.kr/companies/326874/reviews",
+  "review_count": 4,
+  "overall": 3.8,
+  "scores": {
+   "복지/급여": 3.8,
+   "워라밸": 4.8,
+   "사내문화": 4.5,
+   "승진 기회": 4.3,
+   "경영진": 4.0
+  },
+  "recommend_pct": 100.0,
+  "ceo_pct": 75.0,
+  "growth_pct": 50.0,
+  "reviews": [
+   {
+    "date": "2023. 12",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 5,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2026. 04",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 2,
+    "recommend": true
+   },
+   {
+    "date": "2023. 03",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 5,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2023. 01",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 4,
+    "management": 5,
+    "recommend": true
+   }
+  ]
+ },
+ "뱅크샐러드금융서비스": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 508441,
+  "jp_name": "(주)뱅크샐러드금융서비스",
+  "rating": 2.5,
+  "url": "https://www.jobplanet.co.kr/companies/508441/reviews",
+  "review_count": 2,
+  "overall": 2.5,
+  "scores": {
+   "복지/급여": 2.0,
+   "워라밸": 4.5,
+   "사내문화": 3.5,
+   "승진 기회": 2.5,
+   "경영진": 2.5
+  },
+  "recommend_pct": 50.0,
+  "ceo_pct": 50.0,
+  "growth_pct": 50.0,
+  "reviews": [
+   {
+    "date": "2026. 08",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 5,
+    "compensation": 1,
+    "culture": 2,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 08",
+    "occupation": "",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 5,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   }
+  ]
+ },
+ "휴먼리스펙": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "바른원웨이": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 549052,
+  "jp_name": "바른원웨이(주)",
+  "rating": 0.0,
+  "url": "https://www.jobplanet.co.kr/companies/549052/reviews",
+  "review_count": 0,
+  "overall": 0.0,
+  "scores": {
+   "복지/급여": 0.0,
+   "워라밸": 0.0,
+   "사내문화": 0.0,
+   "승진 기회": 0.0,
+   "경영진": 0.0
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 0.0,
+  "growth_pct": 0.0,
+  "reviews": []
+ },
+ "퀀텀에이아이": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 409589,
+  "jp_name": "(주)퀀텀에이아이",
+  "rating": 2.5,
+  "url": "https://www.jobplanet.co.kr/companies/409589/reviews",
+  "review_count": 19,
+  "overall": 2.5,
+  "scores": {
+   "복지/급여": 2.6,
+   "워라밸": 2.8,
+   "사내문화": 2.6,
+   "승진 기회": 2.4,
+   "경영진": 2.4
+  },
+  "recommend_pct": 37.0,
+  "ceo_pct": 42.0,
+  "growth_pct": 32.0,
+  "reviews": [
+   {
+    "date": "2026. 06",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 3,
+    "management": 4,
+    "recommend": false
+   },
+   {
+    "date": "2026. 02",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2025. 10",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2025. 07",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2025. 07",
+    "occupation": "디자인",
+    "status": "현직원",
+    "overall": 1,
+    "worklife": 2,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "이지케어텍": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 13629,
+  "jp_name": "이지케어텍(주)",
+  "rating": 2.8,
+  "url": "https://www.jobplanet.co.kr/companies/13629/reviews",
+  "review_count": 433,
+  "overall": 2.8,
+  "scores": {
+   "복지/급여": 2.9,
+   "워라밸": 2.6,
+   "사내문화": 2.7,
+   "승진 기회": 2.8,
+   "경영진": 2.3
+  },
+  "recommend_pct": 41.0,
+  "ceo_pct": 50.0,
+  "growth_pct": 24.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "전문직",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "엑스프리베": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 451064,
+  "jp_name": "(주)엑스프리베",
+  "rating": 0.0,
+  "url": "https://www.jobplanet.co.kr/companies/451064/reviews",
+  "review_count": 0,
+  "overall": 0.0,
+  "scores": {
+   "복지/급여": 0.0,
+   "워라밸": 0.0,
+   "사내문화": 0.0,
+   "승진 기회": 0.0,
+   "경영진": 0.0
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 0.0,
+  "growth_pct": 0.0,
+  "reviews": []
+ },
+ "텔유어월드": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 541172,
+  "jp_name": "텔유어월드",
+  "rating": 0.0,
+  "url": "https://www.jobplanet.co.kr/companies/541172/reviews",
+  "review_count": 0,
+  "overall": 0.0,
+  "scores": {
+   "복지/급여": 0.0,
+   "워라밸": 0.0,
+   "사내문화": 0.0,
+   "승진 기회": 0.0,
+   "경영진": 0.0
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 0.0,
+  "growth_pct": 0.0,
+  "reviews": []
+ },
+ "바이브컴퍼니": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 82718,
+  "jp_name": "(주)바이브컴퍼니",
+  "rating": 2.9,
+  "url": "https://www.jobplanet.co.kr/companies/82718/reviews",
+  "review_count": 314,
+  "overall": 2.9,
+  "scores": {
+   "복지/급여": 2.6,
+   "워라밸": 3.5,
+   "사내문화": 2.9,
+   "승진 기회": 2.8,
+   "경영진": 2.4
+  },
+  "recommend_pct": 37.0,
+  "ceo_pct": 39.0,
+  "growth_pct": 25.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2026. 09",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 4,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 09",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "집요한녀석들": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "파이헬스케어": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 344711,
+  "jp_name": "(주)파이헬스케어",
+  "rating": 4.0,
+  "url": "https://www.jobplanet.co.kr/companies/344711/reviews",
+  "review_count": 5,
+  "overall": 4.0,
+  "scores": {
+   "복지/급여": 3.4,
+   "워라밸": 4.2,
+   "사내문화": 4.2,
+   "승진 기회": 4.0,
+   "경영진": 4.0
+  },
+  "recommend_pct": 100.0,
+  "ceo_pct": 100.0,
+  "growth_pct": 40.0,
+  "reviews": [
+   {
+    "date": "2026. 03",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2025. 02",
+    "occupation": "",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2025. 02",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 4,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2024. 05",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 4,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2019. 02",
+    "occupation": "",
+    "status": "현직원",
+    "overall": 5,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 5,
+    "management": 5,
+    "recommend": true
+   }
+  ]
+ },
+ "더뷰미디어": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "하우코퍼레이션": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "시월미디어": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "아이패밀리에스씨": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 67445,
+  "jp_name": "(주)아이패밀리에스씨",
+  "rating": 2.5,
+  "url": "https://www.jobplanet.co.kr/companies/67445/reviews",
+  "review_count": 348,
+  "overall": 2.5,
+  "scores": {
+   "복지/급여": 2.3,
+   "워라밸": 2.4,
+   "사내문화": 2.4,
+   "승진 기회": 3.0,
+   "경영진": 2.3
+  },
+  "recommend_pct": 28.0,
+  "ceo_pct": 40.0,
+  "growth_pct": 16.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 2,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 4,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 4,
+    "compensation": 4,
+    "culture": 2,
+    "advancement": 4,
+    "management": 2,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 4,
+    "management": 2,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": true
+   }
+  ]
+ },
+ "케이아이이": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 45574,
+  "jp_name": "(주)케이아이이",
+  "rating": 1.9,
+  "url": "https://www.jobplanet.co.kr/companies/45574/reviews",
+  "review_count": 9,
+  "overall": 1.9,
+  "scores": {
+   "복지/급여": 2.0,
+   "워라밸": 3.4,
+   "사내문화": 2.2,
+   "승진 기회": 2.3,
+   "경영진": 1.8
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 0.0,
+  "growth_pct": 0.0,
+  "reviews": [
+   {
+    "date": "2026. 05",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2025. 05",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2025. 02",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2024. 03",
+    "occupation": "금융/재무",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 2,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2023. 12",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "elmoskorea": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "피플투피플": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "페이테크": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "에프피하우스": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 370762,
+  "jp_name": "(주)에프피하우스",
+  "rating": 2.6,
+  "url": "https://www.jobplanet.co.kr/companies/370762/reviews",
+  "review_count": 5,
+  "overall": 2.6,
+  "scores": {
+   "복지/급여": 2.2,
+   "워라밸": 3.8,
+   "사내문화": 3.0,
+   "승진 기회": 2.0,
+   "경영진": 3.0
+  },
+  "recommend_pct": 20.0,
+  "ceo_pct": 40.0,
+  "growth_pct": 20.0,
+  "reviews": [
+   {
+    "date": "2026. 06",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2025. 06",
+    "occupation": "",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 1,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2022. 09",
+    "occupation": "",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 3,
+    "culture": 5,
+    "advancement": 3,
+    "management": 5,
+    "recommend": true
+   },
+   {
+    "date": "2021. 10",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2021. 09",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 2,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "지마켓": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 58985,
+  "jp_name": "(주)지마켓",
+  "rating": 3.7,
+  "url": "https://www.jobplanet.co.kr/companies/58985/reviews",
+  "review_count": 1236,
+  "overall": 3.7,
+  "scores": {
+   "복지/급여": 3.8,
+   "워라밸": 4.0,
+   "사내문화": 3.7,
+   "승진 기회": 2.9,
+   "경영진": 2.9
+  },
+  "recommend_pct": 72.0,
+  "ceo_pct": 61.0,
+  "growth_pct": 19.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "마케팅/시장조사",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 4,
+    "culture": 1,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 5,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "엔지니어링",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 5,
+    "compensation": 4,
+    "culture": 2,
+    "advancement": 3,
+    "management": 2,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "영업/제휴",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "파마로보틱스": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "큐비언트에이아이": {
+  "fetched_at": "2026-11-14",
+  "jp_id": null
+ },
+ "다이얼로그디자인에이전시": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 363965,
+  "jp_name": "(주)다이얼로그디자인에이전시",
+  "rating": 2.5,
+  "url": "https://www.jobplanet.co.kr/companies/363965/reviews",
+  "review_count": 41,
+  "overall": 2.5,
+  "scores": {
+   "복지/급여": 2.2,
+   "워라밸": 3.3,
+   "사내문화": 2.6,
+   "승진 기회": 2.2,
+   "경영진": 2.5
+  },
+  "recommend_pct": 34.0,
+  "ceo_pct": 34.0,
+  "growth_pct": 29.0,
+  "reviews": [
+   {
+    "date": "2026. 09",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 11",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 1,
+    "culture": 2,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 06",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 05",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 5,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2023. 04",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 2,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "다비오": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 82919,
+  "jp_name": "(주)다비오",
+  "rating": 2.7,
+  "url": "https://www.jobplanet.co.kr/companies/82919/reviews",
+  "review_count": 102,
+  "overall": 2.7,
+  "scores": {
+   "복지/급여": 2.5,
+   "워라밸": 3.3,
+   "사내문화": 2.7,
+   "승진 기회": 2.4,
+   "경영진": 2.5
+  },
+  "recommend_pct": 38.0,
+  "ceo_pct": 50.0,
+  "growth_pct": 31.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 3,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 09",
+    "occupation": "엔지니어링",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 2,
+    "compensation": 4,
+    "culture": 4,
+    "advancement": 3,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2026. 09",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 3,
+    "culture": 2,
+    "advancement": 2,
+    "management": 4,
+    "recommend": false
+   },
+   {
+    "date": "2026. 08",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   }
+  ]
+ },
+ "네오사피엔스": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 362102,
+  "jp_name": "네오사피엔스(주)",
+  "rating": 4.5,
+  "url": "https://www.jobplanet.co.kr/companies/362102/reviews",
+  "review_count": 11,
+  "overall": 4.5,
+  "scores": {
+   "복지/급여": 4.1,
+   "워라밸": 4.1,
+   "사내문화": 3.8,
+   "승진 기회": 3.8,
+   "경영진": 3.4
+  },
+  "recommend_pct": 91.0,
+  "ceo_pct": 91.0,
+  "growth_pct": 82.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 4,
+    "advancement": 4,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "인사/총무",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 4,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 04",
+    "occupation": "생산관리/품질관리",
+    "status": "전직원",
+    "overall": 5,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2025. 08",
+    "occupation": "기획/경영",
+    "status": "현직원",
+    "overall": 5,
+    "worklife": 4,
+    "compensation": 5,
+    "culture": 5,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2025. 05",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   }
+  ]
+ },
+ "캐스팅엔": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 384877,
+  "jp_name": "(주)캐스팅엔",
+  "rating": 2.4,
+  "url": "https://www.jobplanet.co.kr/companies/384877/reviews",
+  "review_count": 28,
+  "overall": 2.4,
+  "scores": {
+   "복지/급여": 2.2,
+   "워라밸": 2.4,
+   "사내문화": 2.4,
+   "승진 기회": 2.4,
+   "경영진": 2.0
+  },
+  "recommend_pct": 25.0,
+  "ceo_pct": 32.0,
+  "growth_pct": 18.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "유통/무역",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 2,
+    "advancement": 2,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 03",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 4,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2025. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 3,
+    "advancement": 4,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "에이블런": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 376640,
+  "jp_name": "(주)에이블런",
+  "rating": 3.5,
+  "url": "https://www.jobplanet.co.kr/companies/376640/reviews",
+  "review_count": 16,
+  "overall": 3.5,
+  "scores": {
+   "복지/급여": 3.0,
+   "워라밸": 2.9,
+   "사내문화": 3.7,
+   "승진 기회": 3.7,
+   "경영진": 3.3
+  },
+  "recommend_pct": 63.0,
+  "ceo_pct": 75.0,
+  "growth_pct": 69.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 2,
+    "compensation": 4,
+    "culture": 2,
+    "advancement": 4,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 10",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 1,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2026. 05",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 4,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 04",
+    "occupation": "기획/경영",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 4,
+    "compensation": 1,
+    "culture": 3,
+    "advancement": 4,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "티엑스알로보틱스": {
+  "fetched_at": "2026-11-14",
+  "jp_id": 480666,
+  "jp_name": "(주)티엑스알로보틱스",
+  "rating": 0.0,
+  "url": "https://www.jobplanet.co.kr/companies/480666/reviews",
+  "review_count": 0,
+  "overall": 0.0,
+  "scores": {
+   "복지/급여": 0.0,
+   "워라밸": 0.0,
+   "사내문화": 0.0,
+   "승진 기회": 0.0,
+   "경영진": 0.0
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 0.0,
+  "growth_pct": 0.0,
+  "reviews": []
+ },
+ "classin": {
+  "fetched_at": "2026-11-14",
   "jp_id": null
  }
 }
