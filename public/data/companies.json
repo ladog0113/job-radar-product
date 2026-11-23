@@ -36992,24 +36992,24 @@
   "jp_id": null
  },
  "이커머스솔루션(saas)프로덕트디자이너(ui/ux)/푸시": {
-  "fetched_at": "2026-11-07",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "b2b사업pm": {
-  "fetched_at": "2026-11-07",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "publishingplatformdivui&uxdesigner": {
-  "fetched_at": "2026-11-07",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "다이퀘스트": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 82683,
   "jp_name": "(주)다이퀘스트",
   "rating": 2.8,
   "url": "https://www.jobplanet.co.kr/companies/82683/reviews",
-  "review_count": 269,
+  "review_count": 274,
   "overall": 2.8,
   "scores": {
    "복지/급여": 2.2,
@@ -37020,8 +37020,56 @@
   },
   "recommend_pct": 38.0,
   "ceo_pct": 32.0,
-  "growth_pct": 10.0,
+  "growth_pct": 9.0,
   "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "데이터",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "현직원",
+    "overall": 2,
+    "worklife": 3,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 1,
+    "advancement": 3,
+    "management": 2,
+    "recommend": false
+   },
+   {
+    "date": "2026. 11",
+    "occupation": "데이터",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 4,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 3,
+    "management": 2,
+    "recommend": true
+   },
    {
     "date": "2026. 11",
     "occupation": "기획/경영",
@@ -37033,59 +37081,11 @@
     "advancement": 3,
     "management": 2,
     "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 1,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "연구개발",
-    "status": "전직원",
-    "overall": 2,
-    "worklife": 1,
-    "compensation": 1,
-    "culture": 1,
-    "advancement": 1,
-    "management": 1,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "개발",
-    "status": "현직원",
-    "overall": 2,
-    "worklife": 2,
-    "compensation": 2,
-    "culture": 2,
-    "advancement": 2,
-    "management": 2,
-    "recommend": false
-   },
-   {
-    "date": "2026. 10",
-    "occupation": "개발",
-    "status": "전직원",
-    "overall": 2,
-    "worklife": 4,
-    "compensation": 1,
-    "culture": 2,
-    "advancement": 1,
-    "management": 2,
-    "recommend": false
    }
   ]
  },
  "핀커스코리아": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 92419,
   "jp_name": "핀커스코리아(주)",
   "rating": 3.5,
@@ -37154,19 +37154,19 @@
   ]
  },
  "제론엑스": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "메가서치그룹": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "제이앤피에이치알컨설팅": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "에이치알타운": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 331055,
   "jp_name": "(주)에이치알타운",
   "rating": 1.0,
@@ -37199,11 +37199,11 @@
   ]
  },
  "주)석세스코리아컨설팅": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "투비파트너즈": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 318181,
   "jp_name": "(주)투비파트너즈",
   "rating": 4.0,
@@ -37248,7 +37248,7 @@
   ]
  },
  "프로페셔날핸즈인핸즈코리아": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 471202,
   "jp_name": "프로페셔날핸즈인핸즈코리아(주)",
   "rating": 1.5,
@@ -37293,11 +37293,11 @@
   ]
  },
  "헌터스그룹": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "픽셀로": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 340336,
   "jp_name": "(주)픽셀로",
   "rating": 1.9,
@@ -37378,19 +37378,19 @@
   ]
  },
  "와이온랩": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "나무에이엑스": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "아워홈": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "딥엑스": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": 345837,
   "jp_name": "(주)딥엑스",
   "rating": 3.2,
@@ -37471,11 +37471,11 @@
   ]
  },
  "turner&townsend": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "웨이버스": {
-  "fetched_at": "2026-11-08",
+  "fetched_at": "2026-11-23",
   "jp_id": null
  },
  "프로써치코리아": {
@@ -53096,6 +53096,181 @@
  },
  "버넥트": {
   "fetched_at": "2026-11-22",
+  "jp_id": null
+ },
+ "슬로우로켓": {
+  "fetched_at": "2026-11-23",
+  "jp_id": 367580,
+  "jp_name": "(주)슬로우로켓",
+  "rating": 3.1,
+  "url": "https://www.jobplanet.co.kr/companies/367580/reviews",
+  "review_count": 14,
+  "overall": 3.1,
+  "scores": {
+   "복지/급여": 2.5,
+   "워라밸": 3.4,
+   "사내문화": 3.0,
+   "승진 기회": 3.1,
+   "경영진": 3.1
+  },
+  "recommend_pct": 64.0,
+  "ceo_pct": 64.0,
+  "growth_pct": 64.0,
+  "reviews": [
+   {
+    "date": "2024. 07",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 1,
+    "worklife": 1,
+    "compensation": 1,
+    "culture": 1,
+    "advancement": 1,
+    "management": 1,
+    "recommend": false
+   },
+   {
+    "date": "2024. 05",
+    "occupation": "연구개발",
+    "status": "현직원",
+    "overall": 5,
+    "worklife": 3,
+    "compensation": 2,
+    "culture": 4,
+    "advancement": 3,
+    "management": 4,
+    "recommend": true
+   },
+   {
+    "date": "2024. 05",
+    "occupation": "마케팅/시장조사",
+    "status": "전직원",
+    "overall": 4,
+    "worklife": 5,
+    "compensation": 3,
+    "culture": 4,
+    "advancement": 5,
+    "management": 5,
+    "recommend": true
+   }
+  ]
+ },
+ "코리아포트원": {
+  "fetched_at": "2026-11-23",
+  "jp_id": 398283,
+  "jp_name": "(주)코리아포트원",
+  "rating": 2.6,
+  "url": "https://www.jobplanet.co.kr/companies/398283/reviews",
+  "review_count": 36,
+  "overall": 2.6,
+  "scores": {
+   "복지/급여": 2.8,
+   "워라밸": 3.0,
+   "사내문화": 3.0,
+   "승진 기회": 2.4,
+   "경영진": 2.2
+  },
+  "recommend_pct": 36.0,
+  "ceo_pct": 33.0,
+  "growth_pct": 11.0,
+  "reviews": [
+   {
+    "date": "2026. 11",
+    "occupation": "개발",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": false
+   },
+   {
+    "date": "2026. 06",
+    "occupation": "인사/총무",
+    "status": "전직원",
+    "overall": 3,
+    "worklife": 3,
+    "compensation": 3,
+    "culture": 3,
+    "advancement": 3,
+    "management": 3,
+    "recommend": true
+   },
+   {
+    "date": "2026. 05",
+    "occupation": "영업/제휴",
+    "status": "현직원",
+    "overall": 3,
+    "worklife": 2,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 3,
+    "management": 2,
+    "recommend": true
+   },
+   {
+    "date": "2026. 05",
+    "occupation": "영업/제휴",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 4,
+    "advancement": 1,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "medidatasolutions": {
+  "fetched_at": "2026-11-23",
+  "jp_id": null
+ },
+ "네오전자기술": {
+  "fetched_at": "2026-11-23",
+  "jp_id": 440173,
+  "jp_name": "(주)네오전자기술",
+  "rating": 2.0,
+  "url": "https://www.jobplanet.co.kr/companies/440173/reviews",
+  "review_count": 1,
+  "overall": 2.0,
+  "scores": {
+   "복지/급여": 2.0,
+   "워라밸": 4.0,
+   "사내문화": 3.0,
+   "승진 기회": 2.0,
+   "경영진": 2.0
+  },
+  "recommend_pct": 0.0,
+  "ceo_pct": 100.0,
+  "growth_pct": 0.0,
+  "reviews": [
+   {
+    "date": "2024. 08",
+    "occupation": "",
+    "status": "전직원",
+    "overall": 2,
+    "worklife": 4,
+    "compensation": 2,
+    "culture": 3,
+    "advancement": 2,
+    "management": 2,
+    "recommend": false
+   }
+  ]
+ },
+ "이커머스솔루션(saas)프로덕트디자이너(ui/ux)/워크플로우": {
+  "fetched_at": "2026-11-23",
+  "jp_id": null
+ },
+ "이커머스솔루션(saas)프로덕트디자이너(ui/ux)/b2c신사업": {
+  "fetched_at": "2026-11-23",
+  "jp_id": null
+ },
+ "ux/uibx/bi디자인리드pm": {
+  "fetched_at": "2026-11-23",
   "jp_id": null
  }
 }
